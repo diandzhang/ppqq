@@ -87,3 +87,6 @@ QTV-5,http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
 中国交通,http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
 重庆卫视,http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
 淄博新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
+电影,#genre#
+4K影视,http://159.75.85.63:5828/4kys.php
+4K超高清电影,http://159.75.85.63:5681/sxg.php
