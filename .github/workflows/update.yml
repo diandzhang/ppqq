@@ -16,7 +16,7 @@ jobs:
         run: |
           rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
           git config --global user.name diandhzng
-          git config --global user.email diandzhang@gmial.com.com
+          git config --global user.email diandzhang@gmial.com
           git add e.xml
           git commit -m "Update e.xml"
           git push -f origin main
