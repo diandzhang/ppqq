@@ -15,8 +15,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
-          git add e.xml
-          git commit -m "test"
-          git push
+
 
           
