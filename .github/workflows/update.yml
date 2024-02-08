@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Run a multi-line script
         run: |
-          rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
+          rm -f e.xml && wget http://47.101.186.10/jlp?m=23 -O e.xml
           git config user.name "diandzhang" 
           git config user.email "diandzhang@gmail.com"
           git add e.xml
