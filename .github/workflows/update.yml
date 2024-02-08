@@ -17,8 +17,11 @@ jobs:
       - name: Run a multi-line script
         run: |
           rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
-          ls -l
-          pwd
+          git config user.name "diandzhang" 
+          git config user.email "diandzhang@gmail.com"
+          git add e.xml
+          git commit --quiet -m "test"
+          git push -f origin main
 
 
           
