@@ -17,9 +17,11 @@ jobs:
       - name: Run a multi-line script
         run: |
           rm -f e.xml && wget http://47.101.186.10/jlp?m=223 -O e.xml
+          python3 ./update.py
           git config user.name "diandzhang" 
           git config user.email "diandzhang@gmail.com"
           git add e.xml
+          git add adguard_rules
           git commit --quiet -m "test"
           git push -f origin main
 
