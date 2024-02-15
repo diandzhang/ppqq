@@ -15,7 +15,7 @@ if os.path.exists(file_path):
         for line in file:
             lines.add(line.strip())
 
-with open("temp.xml", encoding='utf-8') as markup_file:
+with open("e.xml", encoding='utf-8') as markup_file:
     for line in markup_file:
         lines.add("||" +geturl(line) + "^")
 
