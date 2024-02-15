@@ -1,6 +1,6 @@
 import os
 import re
-file_path="adguard_rules"
+file_path="adguard_rules.txt"
 def geturl(msg):
     msgs=msg.split("'")
     for line in msgs:
