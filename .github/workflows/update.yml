@@ -3,8 +3,8 @@ name: schedule trigger
 on:
   schedule:
     - cron:  '0 0,7,21,22 * * *'
-  push:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Run a multi-line script
         run: |
-          rm -f e.xml && wget http://47.101.186.10/jlp?m=226 -O e.xml
+          rm -f e.xml && wget http://47.101.186.10/jlp?m=227 -O e.xml
           python3 ./update.py
           git config user.name "diandzhang" 
           git config user.email "diandzhang@gmail.com"
