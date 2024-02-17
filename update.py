@@ -25,5 +25,6 @@ with open("e.xml", encoding='utf-8') as markup_file:
 with open(file_path, 'w') as file:
     file.write('\n'.join(lines))
 
-# https://raw.githubusercontent.com/diandzhang/ppqq@main/adguard_rules.txt
+# https://mirror.ghproxy.com/https://raw.githubusercontent.com/diandzhang/ppqq/main/adguard_rules.txt
+# https://raw.githubusercontent.com/diandzhang/ppqq/main/adguard_rules.txt
 # https://cdn.jsdelivr.net/gh/diandzhang/ppqq@main/adguard_rules.txt
