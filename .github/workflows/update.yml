@@ -21,9 +21,8 @@ jobs:
           git config user.name "diandzhang" 
           git config user.email "diandzhang@gmail.com"
           git add e.xml
-          git add adguard_rules.txt
-          git commit --quiet -m "update"
-          git push -f origin main
+          git add adguard_rules.txt 
+          git commit --quiet -m "update" && git push -f origin main
 
 
           
