@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Run a multi-line script
         run: |
-          rm -f e.xml && wget http://47.101.186.10/jlp?m=444 -O e.xml
+          rm -f e.xml && wget http://47.101.186.10/jlp?m=6666 -O e.xml
           python3 ./update.py
           git config user.name "diandzhang" 
           git config user.email "diandzhang@gmail.com"
