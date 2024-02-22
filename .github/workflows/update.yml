@@ -2,7 +2,7 @@ name: schedule trigger
 
 on:
   schedule:
-    - cron:  '0 7,10,12 * * *'
+    - cron:  '0 7,8,10,12 * * *'
   #push:
   #  branches: [ main ]
   workflow_dispatch:
