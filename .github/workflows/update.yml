@@ -14,9 +14,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      #- name:Install dependencies
-      #  run: |
-      #    python3 -m pip install requests
       - name: Run a multi-line script
         run: |
           rm -f e.xml && wget http://47.101.186.10/jlp?m=66067 -O e.xml
