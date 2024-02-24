@@ -3,7 +3,6 @@ import re
 import time
 import requests
 import random
-num = random.randint(100, 1000)
 file_path="adguard_rules.txt"
 lines = set()
 fruit_list = [
@@ -23,7 +22,7 @@ fruit_list = [
 #  'http://www.xd-center.com:38880/jlp?m=',
 'http://47.102.101.220:38880/jlp?m=',
 # 'http://106.14.58.29:38880/jlp?m=',
-# 'http://git.1fmall.cn:38880/jlp?m=',
+'http://git.1fmall.cn:38880/jlp?m=',
 'http://47.102.114.25:38880/jlp?m=',
 'http://47.103.158.47:18089/jlp?m=',
 #'https://47.243.238.195:18089/jlp?m=',
