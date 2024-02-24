@@ -52,7 +52,7 @@ def getraw(url):
         "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
     }
     try:
-        resp = requests.get(url, headers=header, timeout=60)
+        resp = requests.get(url, headers=header, timeout=15)
         html = resp.text
     except Exception as e:
         print(url, e)
@@ -76,7 +76,7 @@ with open("e.xml", 'w') as file:
         print(item)
         file.write(item +":\n")
         file.write(getraw(item))
-        time.sleep(3)
+        time.sleep(1)
 
 
 if os.path.exists(file_path):
