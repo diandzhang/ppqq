@@ -26,7 +26,7 @@ fruit_list = [
 # 'http://git.1fmall.cn:38880/jlp?m=',
 'http://47.102.114.25:38880/jlp?m=',
 'http://47.103.158.47:18089/jlp?m=',
-'https://47.243.238.195:18089/jlp?m=',
+#'https://47.243.238.195:18089/jlp?m=',
 'http://47.243.245.27:18089/jlp?m=',
 'http://47.101.133.213/jlp?m=',
 'http://106.15.181.208/jlp?m=',
@@ -40,10 +40,10 @@ fruit_list = [
 'https://139.196.202.168:28888/jlp?m=',
 'http://47.100.52.43/jlp?m=',
 'http://47.103.66.25/jlp?m=',
-'http://pt.wt.credtrip.com/jlp?m=',
-'http://pt.mt.credtrip.com/jlp?m=',
-'http://pt.bt.credtrip.com/jlp?m=',
-'http://47.103.86.109/jlp?m='
+#'http://pt.wt.credtrip.com/jlp?m=',
+#'http://pt.mt.credtrip.com/jlp?m=',
+#'http://pt.bt.credtrip.com/jlp?m=',
+#'http://47.103.86.109/jlp?m='
   ]
 
 def getraw(url):
