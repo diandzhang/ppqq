@@ -19,6 +19,7 @@
 ||js.juiopk.com^
 ||js.kactmag.com^
 ||js.luwangtomb.com^
+||js.mp388.com^
 ||js.pjxgjag.cn^
 ||js.qfbbioq.cn^
 ||js.qkknn.com^
