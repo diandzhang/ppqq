@@ -17,6 +17,7 @@
 ||js.huaidei.com^
 ||js.hwlpb.com^
 ||js.ieyewkh.cn^
+||js.imiwang.com^
 ||js.ipndyn.com^
 ||js.isjing.cn^
 ||js.jiangxindata.com^
