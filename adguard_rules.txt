@@ -26,6 +26,7 @@
 ||js.luwangtomb.com^
 ||js.mp388.com^
 ||js.mqvzoy.com^
+||js.niaoshei.com^
 ||js.pjxgjag.cn^
 ||js.qfbbioq.cn^
 ||js.qkknn.com^
