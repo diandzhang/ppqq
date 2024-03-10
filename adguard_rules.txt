@@ -30,6 +30,7 @@
 ||js.juiopk.com^
 ||js.kactmag.com^
 ||js.luwangtomb.com^
+||js.mjjji.com^
 ||js.mp388.com^
 ||js.mqvzoy.com^
 ||js.niaoshei.com^
@@ -51,4 +52,5 @@
 ||o0ys2pa2z0ou.xyz:8443^
 ||pkn.dahhh.cn^
 ||u9hl4pz7u1su.xyz:8443^
+||u9ox7bc8f4yf.xyz:8443^
 ||www.bdxc1.xyz^
