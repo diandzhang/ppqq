@@ -27,6 +27,7 @@
 ||js.ipndyn.com^
 ||js.isjing.cn^
 ||js.jiangxindata.com^
+||js.jsfy100.com^
 ||js.juiopk.com^
 ||js.kactmag.com^
 ||js.luwangtomb.com^
