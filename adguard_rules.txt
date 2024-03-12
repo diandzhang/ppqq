@@ -42,6 +42,7 @@
 ||js.rdrebst.com^
 ||js.rzhku.cn^
 ||js.xwrfr.com^
+||js.yf2006.com^
 ||js.yuuyt.com^
 ||js.zaazw.com^
 ||js.ziizh.com^
@@ -53,6 +54,7 @@
 ||kersjagat.uu95kk.live^
 ||kersjagat.ww16pp.live^
 ||o0ys2pa2z0ou.xyz:8443^
+||odnpio.com^
 ||pkn.dahhh.cn^
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
