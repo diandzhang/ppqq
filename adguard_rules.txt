@@ -44,6 +44,7 @@
 ||js.rdrebst.com^
 ||js.rzhku.cn^
 ||js.tzsvip.com^
+||js.xtgfq.com^
 ||js.xwrfr.com^
 ||js.yf2006.com^
 ||js.yuuyt.com^
