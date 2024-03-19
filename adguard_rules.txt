@@ -49,6 +49,7 @@
 ||js.tzsvip.com^
 ||js.xtgfq.com^
 ||js.xwrfr.com^
+||js.yezere.com^
 ||js.yf2006.com^
 ||js.yszdg.com^
 ||js.yuuyt.com^
