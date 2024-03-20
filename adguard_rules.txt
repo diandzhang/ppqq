@@ -21,6 +21,7 @@
 ||js.fwynuia.com^
 ||js.gdzhjt.com^
 ||js.greentecool.com^
+||js.heartempty.com^
 ||js.highlightsky.com^
 ||js.hkudnwv.cn^
 ||js.hnhzkpl.com^
