@@ -36,6 +36,7 @@
 ||js.juiopk.com^
 ||js.kactmag.com^
 ||js.luwangtomb.com^
+||js.mamsou.com^
 ||js.mbrnf.com^
 ||js.mjjji.com^
 ||js.mp388.com^
