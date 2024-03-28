@@ -59,6 +59,7 @@
 ||js.stydox.com^
 ||js.suyyuipo.com^
 ||js.tzsvip.com^
+||js.xslqg.com^
 ||js.xtgfq.com^
 ||js.xwrfr.com^
 ||js.yezere.com^
