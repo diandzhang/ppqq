@@ -9,6 +9,7 @@
 ||du2m2.xyz^
 ||gelimalloss.gree.com^
 ||hdg25.live:8888^
+||hdg26.live:8888^
 ||hpp2.kbwomj.xyz^
 ||hv6ur.xyz^
 ||i.wybyv0.cn^
@@ -55,6 +56,7 @@
 ||js.qfbbioq.cn^
 ||js.qkknn.com^
 ||js.qwfrog.com^
+||js.qwyqg.com^
 ||js.rdrebst.com^
 ||js.rzhku.cn^
 ||js.slbhp.com^
