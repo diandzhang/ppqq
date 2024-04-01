@@ -52,6 +52,7 @@
 ||js.mqvzoy.com^
 ||js.niaoshei.com^
 ||js.nyqpj.com^
+||js.otukgmu.com^
 ||js.pjxgjag.cn^
 ||js.qfbbioq.cn^
 ||js.qkknn.com^
