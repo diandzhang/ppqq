@@ -43,6 +43,7 @@
 ||js.jsfy100.com^
 ||js.juiopk.com^
 ||js.kactmag.com^
+||js.locustmm.com^
 ||js.luwangtomb.com^
 ||js.lzhxz.com^
 ||js.mamsou.com^
