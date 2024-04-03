@@ -32,6 +32,7 @@
 ||js.heartempty.com^
 ||js.highlightsky.com^
 ||js.hkudnwv.cn^
+||js.hmjbyl.com^
 ||js.hnhzkpl.com^
 ||js.huaidei.com^
 ||js.hwlpb.com^
