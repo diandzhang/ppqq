@@ -17,6 +17,7 @@
 ||js.asklhfd.com^
 ||js.bnfmjzs.com^
 ||js.bvftxy.com^
+||js.cclanqing.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
