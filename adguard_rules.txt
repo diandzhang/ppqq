@@ -64,6 +64,7 @@
 ||js.qwfrog.com^
 ||js.qwyqg.com^
 ||js.rdrebst.com^
+||js.rpsxh.com^
 ||js.rzhku.cn^
 ||js.slbhp.com^
 ||js.stydox.com^
