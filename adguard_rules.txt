@@ -32,6 +32,7 @@
 ||js.fruitdiscovery.com^
 ||js.fwynuia.com^
 ||js.gdzhjt.com^
+||js.gfdgq.com^
 ||js.greentecool.com^
 ||js.gznrxfq.com^
 ||js.heartempty.com^
