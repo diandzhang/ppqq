@@ -81,6 +81,7 @@
 ||js.slbhp.com^
 ||js.stydox.com^
 ||js.suyyuipo.com^
+||js.szsihct.com^
 ||js.tzsvip.com^
 ||js.xslqg.com^
 ||js.xtgfq.com^
