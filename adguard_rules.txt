@@ -55,6 +55,7 @@
 ||js.jsfy100.com^
 ||js.juiopk.com^
 ||js.kactmag.com^
+||js.lhvkp.com^
 ||js.lingsst.com^
 ||js.lmwrd.com^
 ||js.locustmm.com^
