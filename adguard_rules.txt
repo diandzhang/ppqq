@@ -69,6 +69,7 @@
 ||js.mp388.com^
 ||js.mqvzoy.com^
 ||js.mssinmo.com^
+||js.msypg.com^
 ||js.niaoshei.com^
 ||js.nyqpj.com^
 ||js.otukgmu.com^
