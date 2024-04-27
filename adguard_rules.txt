@@ -47,6 +47,7 @@
 ||js.hnhzkpl.com^
 ||js.huaidei.com^
 ||js.hwlpb.com^
+||js.hwpns.com^
 ||js.ieyewkh.cn^
 ||js.ifrjwg.com^
 ||js.imiwang.com^
