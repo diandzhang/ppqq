@@ -24,6 +24,7 @@
 ||js.btdxn.com^
 ||js.bvftxy.com^
 ||js.cclanqing.com^
+||js.ccnbpw.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
@@ -124,4 +125,5 @@
 ||u9ox7bc8f4yf.xyz:8443^
 ||vu.6428x3.com^
 ||wuyijj.xyz^
+||www.222h9.com^
 ||www.bdxc1.xyz^
