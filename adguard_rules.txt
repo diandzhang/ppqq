@@ -75,6 +75,7 @@
 ||js.mqvzoy.com^
 ||js.mssinmo.com^
 ||js.msypg.com^
+||js.ndkdw.com^
 ||js.niaoshei.com^
 ||js.nxmqs.com^
 ||js.nyqpj.com^
