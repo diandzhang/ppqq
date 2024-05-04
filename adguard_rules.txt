@@ -25,6 +25,7 @@
 ||js.bvftxy.com^
 ||js.cclanqing.com^
 ||js.ccnbpw.com^
+||js.cktrw.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
