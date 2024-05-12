@@ -89,6 +89,7 @@
 ||js.niaoshei.com^
 ||js.nxmqs.com^
 ||js.nyqpj.com^
+||js.ooisky.com^
 ||js.otukgmu.com^
 ||js.pgwmk.com^
 ||js.pjxgjag.cn^
