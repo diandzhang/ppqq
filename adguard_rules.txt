@@ -114,6 +114,7 @@
 ||js.tcdrsw.com^
 ||js.tlfcmw.com^
 ||js.tlkww.com^
+||js.tsgpcs.com^
 ||js.tzsvip.com^
 ||js.ufxwq.com^
 ||js.uhbyw.com^
