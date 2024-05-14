@@ -36,6 +36,7 @@
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
+||js.dgbctg.com^
 ||js.dujiaozuo.com^
 ||js.dycijy.com^
 ||js.epullit.com^
