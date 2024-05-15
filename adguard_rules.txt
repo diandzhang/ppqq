@@ -108,6 +108,7 @@
 ||js.rzhku.cn^
 ||js.slbhp.com^
 ||js.spdkm.com^
+||js.spfccc.com^
 ||js.stydox.com^
 ||js.suyyuipo.com^
 ||js.szsihct.com^
