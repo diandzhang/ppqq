@@ -122,6 +122,7 @@
 ||js.tzsvip.com^
 ||js.ufxwq.com^
 ||js.uhbyw.com^
+||js.wwplw.com^
 ||js.wwpsw.com^
 ||js.xjxtzd.com^
 ||js.xslqg.com^
