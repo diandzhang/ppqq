@@ -34,6 +34,7 @@
 ||js.bvftxy.com^
 ||js.cclanqing.com^
 ||js.ccnbpw.com^
+||js.cgbpw.com^
 ||js.cktrw.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
