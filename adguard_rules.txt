@@ -123,6 +123,7 @@
 ||js.tlkww.com^
 ||js.tsgpcs.com^
 ||js.tzsvip.com^
+||js.uaauh.com^
 ||js.uaaur.com^
 ||js.ufxwq.com^
 ||js.uhbyw.com^
