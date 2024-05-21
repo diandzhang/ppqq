@@ -42,6 +42,7 @@
 ||js.czhaoligs.com^
 ||js.dgbctg.com^
 ||js.dujiaozuo.com^
+||js.dwdae.com^
 ||js.dycijy.com^
 ||js.epullit.com^
 ||js.errrq.com^
