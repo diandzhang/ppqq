@@ -37,6 +37,7 @@
 ||js.ccnbpw.com^
 ||js.cgbpw.com^
 ||js.cktrw.com^
+||js.crtmw.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
