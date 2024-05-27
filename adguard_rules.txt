@@ -42,6 +42,7 @@
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
+||js.dfnmmg.com^
 ||js.dgbctg.com^
 ||js.dptww.com^
 ||js.dujiaozuo.com^
