@@ -149,6 +149,7 @@
 ||js.zaazw.com^
 ||js.ziizh.com^
 ||js.zijgd.com^
+||js.zjhqk.com^
 ||js.zpnrz.com^
 ||js.zsjpawm.com^
 ||js.zuuzt.com^
@@ -163,6 +164,7 @@
 ||o0ys2pa2z0ou.xyz:8443^
 ||odnpio.com^
 ||pkn.dahhh.cn^
+||rfg.jkhuaibei.com^
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
 ||vu.6428x3.com^
