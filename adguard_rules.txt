@@ -79,6 +79,7 @@
 ||js.imiwang.com^
 ||js.ipndyn.com^
 ||js.isjing.cn^
+||js.jcrfj.com^
 ||js.jiangxindata.com^
 ||js.jsfy100.com^
 ||js.juiopk.com^
