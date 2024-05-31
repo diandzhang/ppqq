@@ -133,6 +133,7 @@
 ||js.szsihct.com^
 ||js.tcdlgw.com^
 ||js.tcdrsw.com^
+||js.tkdsrs.com^
 ||js.tlfcmw.com^
 ||js.tlkww.com^
 ||js.tsgpcs.com^
