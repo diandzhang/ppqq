@@ -45,6 +45,7 @@
 ||js.cclanqing.com^
 ||js.ccnbpw.com^
 ||js.cgbpw.com^
+||js.ckmpw.com^
 ||js.cktrw.com^
 ||js.crtmw.com^
 ||js.csmmcn.com^
