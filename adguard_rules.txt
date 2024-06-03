@@ -48,6 +48,7 @@
 ||js.cgbpw.com^
 ||js.ckmpw.com^
 ||js.cktrw.com^
+||js.crnpw.com^
 ||js.crtmw.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
