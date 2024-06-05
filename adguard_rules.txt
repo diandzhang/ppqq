@@ -52,6 +52,7 @@
 ||js.cktrw.com^
 ||js.crnpw.com^
 ||js.crtmw.com^
+||js.crtrw.com^
 ||js.csmmcn.com^
 ||js.cwwwv.com^
 ||js.czhaoligs.com^
