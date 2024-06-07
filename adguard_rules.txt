@@ -161,6 +161,7 @@
 ||js.wwplw.com^
 ||js.wwpsw.com^
 ||js.xjxtzd.com^
+||js.xrbpm.com^
 ||js.xslqg.com^
 ||js.xtgfq.com^
 ||js.xwrfr.com^
