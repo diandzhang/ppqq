@@ -167,6 +167,7 @@
 ||js.xtgfq.com^
 ||js.xwrfr.com^
 ||js.yedvl.com^
+||js.yeganimation.com^
 ||js.yezere.com^
 ||js.yf2006.com^
 ||js.yszdg.com^
