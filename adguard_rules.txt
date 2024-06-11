@@ -64,6 +64,7 @@
 ||js.czhaoligs.com^
 ||js.dfnmmg.com^
 ||js.dgbctg.com^
+||js.dgkkl.com^
 ||js.dnbfsg.com^
 ||js.dptww.com^
 ||js.dujiaozuo.com^
