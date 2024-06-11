@@ -145,6 +145,7 @@
 ||js.rzhku.cn^
 ||js.siftk.com^
 ||js.slbhp.com^
+||js.sogdn.com^
 ||js.spdkm.com^
 ||js.spfccc.com^
 ||js.stydox.com^
@@ -199,6 +200,7 @@
 ||ocfh.baopack.com^
 ||odnpio.com^
 ||pkn.dahhh.cn^
+||qrxb85.top^
 ||rfg.jkhuaibei.com^
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
