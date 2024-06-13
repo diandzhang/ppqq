@@ -128,6 +128,7 @@
 ||js.msypg.com^
 ||js.nbppw.com^
 ||js.ndkdw.com^
+||js.nhjbn.com^
 ||js.niaoshei.com^
 ||js.nxmqs.com^
 ||js.nyqpj.com^
