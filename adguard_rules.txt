@@ -122,6 +122,7 @@
 ||js.mbrnf.com^
 ||js.mcidw.com^
 ||js.mjjji.com^
+||js.mjqxy.com^
 ||js.mmmmmg.com^
 ||js.mp388.com^
 ||js.mqvzoy.com^
