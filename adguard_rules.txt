@@ -96,6 +96,7 @@
 ||js.heartempty.com^
 ||js.hhertv.com^
 ||js.highlightsky.com^
+||js.hkaiyl.com^
 ||js.hkudnwv.cn^
 ||js.hmjbyl.com^
 ||js.hnhzkpl.com^
