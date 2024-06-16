@@ -53,6 +53,7 @@
 ||js.asklhfd.com^
 ||js.bgvkh.com^
 ||js.bnfmjzs.com^
+||js.bqrjl.com^
 ||js.btdxn.com^
 ||js.bvftxy.com^
 ||js.byjps.com^
