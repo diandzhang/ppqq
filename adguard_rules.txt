@@ -167,6 +167,7 @@
 ||js.szsihct.com^
 ||js.tcdlgw.com^
 ||js.tcdrsw.com^
+||js.thqmk.com^
 ||js.tkdsrs.com^
 ||js.tlfcmw.com^
 ||js.tlkww.com^
