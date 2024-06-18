@@ -64,6 +64,7 @@
 ||js.ccnbpw.com^
 ||js.cfwpw.com^
 ||js.cgbpw.com^
+||js.chqmk.com^
 ||js.ckmpw.com^
 ||js.cktrw.com^
 ||js.crnpw.com^
