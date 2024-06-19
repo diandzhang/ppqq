@@ -196,6 +196,7 @@
 ||js.ywwyv.com^
 ||js.yyckl.com^
 ||js.zaazw.com^
+||js.zfhyc.com^
 ||js.ziizh.com^
 ||js.zijgd.com^
 ||js.zjhqk.com^
