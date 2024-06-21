@@ -149,6 +149,7 @@
 ||js.pjxgjag.cn^
 ||js.prkpb.com^
 ||js.qfbbioq.cn^
+||js.qfmxb.com^
 ||js.qkknn.com^
 ||js.qlw7ljbi40.com^
 ||js.qnnkb.com^
