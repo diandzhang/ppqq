@@ -209,6 +209,7 @@
 ||js.ziizh.com^
 ||js.zijgd.com^
 ||js.zjhqk.com^
+||js.zjjgccn.com^
 ||js.zpnrz.com^
 ||js.zsjpawm.com^
 ||js.zuivk.com^
