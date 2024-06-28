@@ -139,6 +139,7 @@
 ||js.mamsou.com^
 ||js.mbrnf.com^
 ||js.mcidw.com^
+||js.mizjz.com^
 ||js.mjjji.com^
 ||js.mjqxy.com^
 ||js.mkjpm.com^
