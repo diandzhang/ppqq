@@ -180,6 +180,7 @@
 ||js.spfccc.com^
 ||js.stydox.com^
 ||js.suyyuipo.com^
+||js.syangji.com^
 ||js.szsihct.com^
 ||js.tcdlgw.com^
 ||js.tcdrsw.com^
