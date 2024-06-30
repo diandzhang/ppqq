@@ -194,6 +194,7 @@
 ||js.uaauh.com^
 ||js.uaaur.com^
 ||js.ufxwq.com^
+||js.ugguf.com^
 ||js.uhbyw.com^
 ||js.w7bojwzqop.com^
 ||js.wflfw.com^
