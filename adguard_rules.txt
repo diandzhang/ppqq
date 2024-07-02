@@ -177,6 +177,7 @@
 ||js.rpsxh.com^
 ||js.rzhku.cn^
 ||js.siftk.com^
+||js.siyeha.com^
 ||js.slbhp.com^
 ||js.sogdn.com^
 ||js.spdkm.com^
