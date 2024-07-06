@@ -227,6 +227,7 @@
 ||js.yyckl.com^
 ||js.zaazw.com^
 ||js.zfhyc.com^
+||js.zhgts.com^
 ||js.ziizh.com^
 ||js.zijgd.com^
 ||js.zjhqk.com^
