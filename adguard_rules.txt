@@ -151,6 +151,7 @@
 ||js.mbrnf.com^
 ||js.mcidw.com^
 ||js.metajg.com^
+||js.metakz.com^
 ||js.mizjz.com^
 ||js.mjjji.com^
 ||js.mjqxy.com^
