@@ -187,6 +187,7 @@
 ||js.rpjbb.com^
 ||js.rpsxh.com^
 ||js.rzhku.cn^
+||js.safkij.com^
 ||js.siftk.com^
 ||js.siyeha.com^
 ||js.slbhp.com^
