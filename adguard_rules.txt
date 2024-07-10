@@ -159,6 +159,7 @@
 ||js.mcidw.com^
 ||js.metajg.com^
 ||js.metakz.com^
+||js.mieij.com^
 ||js.mizjz.com^
 ||js.mjjji.com^
 ||js.mjqxy.com^
