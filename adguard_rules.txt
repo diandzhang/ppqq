@@ -182,6 +182,7 @@
 ||js.prkpb.com^
 ||js.qfbbioq.cn^
 ||js.qfmxb.com^
+||js.qhpaay.com^
 ||js.qkknn.com^
 ||js.qlw7ljbi40.com^
 ||js.qnnkb.com^
