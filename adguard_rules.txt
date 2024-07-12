@@ -160,6 +160,7 @@
 ||js.mamsou.com^
 ||js.mbrnf.com^
 ||js.mcidw.com^
+||js.meiguo8.com^
 ||js.metajg.com^
 ||js.metakz.com^
 ||js.mieij.com^
