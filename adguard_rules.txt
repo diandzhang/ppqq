@@ -149,6 +149,7 @@
 ||js.jsfy100.com^
 ||js.juiopk.com^
 ||js.kactmag.com^
+||js.kerobshop.com^
 ||js.kmmsjd.com^
 ||js.ksdptw.com^
 ||js.ktsfs.com^
