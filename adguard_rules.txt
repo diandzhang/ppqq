@@ -167,6 +167,7 @@
 ||js.mbrnf.com^
 ||js.mcidw.com^
 ||js.meiguo8.com^
+||js.meqye.com^
 ||js.metajg.com^
 ||js.metakz.com^
 ||js.mieij.com^
