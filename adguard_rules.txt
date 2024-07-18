@@ -135,6 +135,7 @@
 ||js.heartempty.com^
 ||js.hhertv.com^
 ||js.highlightsky.com^
+||js.hjptf.com^
 ||js.hkaiyl.com^
 ||js.hkkkz.com^
 ||js.hkudnwv.cn^
