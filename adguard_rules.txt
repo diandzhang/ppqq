@@ -115,6 +115,7 @@
 ||js.dujiaozuo.com^
 ||js.dwdae.com^
 ||js.dycijy.com^
+||js.eplsm.com^
 ||js.epullit.com^
 ||js.errrq.com^
 ||js.fdwaufwa.com^
