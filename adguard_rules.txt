@@ -224,6 +224,7 @@
 ||js.spdkm.com^
 ||js.spfccc.com^
 ||js.stydox.com^
+||js.suyuangg.com^
 ||js.suyyuipo.com^
 ||js.syangji.com^
 ||js.szsihct.com^
