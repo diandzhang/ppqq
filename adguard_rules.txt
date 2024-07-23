@@ -229,6 +229,7 @@
 ||js.suyuangg.com^
 ||js.suyyuipo.com^
 ||js.syangji.com^
+||js.synolax.com^
 ||js.szsihct.com^
 ||js.tcdlgw.com^
 ||js.tcdrsw.com^
