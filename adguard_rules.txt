@@ -256,6 +256,7 @@
 ||js.xslqg.com^
 ||js.xtgfq.com^
 ||js.xwrfr.com^
+||js.yanlinet.com^
 ||js.ydjfi.com^
 ||js.yedvl.com^
 ||js.yeganimation.com^
