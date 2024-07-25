@@ -224,6 +224,7 @@
 ||js.safkij.com^
 ||js.siftk.com^
 ||js.siyeha.com^
+||js.sjzhfbj.com^
 ||js.slbhp.com^
 ||js.sogdn.com^
 ||js.spdkm.com^
