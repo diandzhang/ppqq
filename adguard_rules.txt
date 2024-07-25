@@ -254,6 +254,7 @@
 ||js.wqtyk.com^
 ||js.wwplw.com^
 ||js.wwpsw.com^
+||js.xcccccc.com^
 ||js.xjxtzd.com^
 ||js.xrbpm.com^
 ||js.xslqg.com^
