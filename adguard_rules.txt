@@ -251,6 +251,7 @@
 ||js.ugguf.com^
 ||js.uhbyw.com^
 ||js.w7bojwzqop.com^
+||js.wfaleads.com^
 ||js.wflfw.com^
 ||js.wqtyk.com^
 ||js.wwplw.com^
