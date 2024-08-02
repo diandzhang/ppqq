@@ -209,6 +209,7 @@
 ||js.mssinmo.com^
 ||js.msypg.com^
 ||js.nbppw.com^
+||js.ncfjddp.com^
 ||js.ndkdw.com^
 ||js.nhjbn.com^
 ||js.niaoshei.com^
