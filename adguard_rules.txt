@@ -335,6 +335,7 @@
 ||oez7bp.cc^
 ||oss1.trafficmanager.net^
 ||oss2.trafficmanager.net^
+||oss5.trafficmanager.net^
 ||oylghrh.top^
 ||p7a6me.cc^
 ||pd47q8l.cc^
@@ -344,6 +345,7 @@
 ||q4q5u.cc^
 ||qfp9e.top^
 ||qrxb85.top^
+||rd.karntd.com^
 ||rfg.jkhuaibei.com^
 ||rqfx49.top^
 ||rthj.3xmjg.com^
