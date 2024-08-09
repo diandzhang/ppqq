@@ -304,6 +304,7 @@
 ||js.ywwyv.com^
 ||js.yyckl.com^
 ||js.zaazw.com^
+||js.zdjxa.com^
 ||js.zfhyc.com^
 ||js.zhgts.com^
 ||js.ziizh.com^
