@@ -35,6 +35,7 @@
 ||4iablu.top^
 ||5123hh.xyz^
 ||5123uu.xyz^
+||51fuli-7776152c9480ad4a.elb.ap-east-1.amazonaws.com^
 ||51zb60.xyz^
 ||51zb66.xyz^
 ||51zb67.xyz^
