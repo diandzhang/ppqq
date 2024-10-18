@@ -360,6 +360,7 @@
 ||ldy.fnrlz.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
+||ldy.rtlaz.com^
 ||ldy.salescyb.com^
 ||ldy.tnnipnu.com^
 ||ldy.uphatin.com^
