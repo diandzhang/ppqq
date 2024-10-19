@@ -358,6 +358,7 @@
 ||ldy.bztsoft.com^
 ||ldy.cccwaen.com^
 ||ldy.fnrlz.com^
+||ldy.jzrfr.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
 ||ldy.rtlaz.com^
