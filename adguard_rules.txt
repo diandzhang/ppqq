@@ -360,6 +360,7 @@
 ||ldy.esmzyey.com^
 ||ldy.fnrlz.com^
 ||ldy.jzrfr.com^
+||ldy.kqckg.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
 ||ldy.rtlaz.com^
