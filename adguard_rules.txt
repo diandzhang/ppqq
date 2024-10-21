@@ -361,6 +361,7 @@
 ||ldy.fnrlz.com^
 ||ldy.jzrfr.com^
 ||ldy.kqckg.com^
+||ldy.kxlmk.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
 ||ldy.rtlaz.com^
