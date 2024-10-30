@@ -377,6 +377,7 @@
 ||ldy.pinyimc.com^
 ||ldy.rtlaz.com^
 ||ldy.salescyb.com^
+||ldy.shzhzjs.com^
 ||ldy.tnnipnu.com^
 ||ldy.uphatin.com^
 ||ldy.weiyanzm.com^
