@@ -376,6 +376,7 @@
 ||ldy.nwoqr.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
+||ldy.rkuppwa.com^
 ||ldy.rtlaz.com^
 ||ldy.salescyb.com^
 ||ldy.shzhzjs.com^
