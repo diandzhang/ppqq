@@ -113,6 +113,7 @@
 ||gelimalloss.gree.com^
 ||gfrt-74.jvn0z.com^
 ||ghy-621.7uc40.com^
+||gj5854fvh846.jinliantongxin.com^
 ||gk.fggejb.com^
 ||gs.cuiln.com^
 ||gtsb1j.top^
@@ -470,6 +471,7 @@
 ||tk.amxhod.com^
 ||tk.sxwjxz.com^
 ||tp.gcdxehl.com^
+||turtle67.trafficmanager.net:10010^
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
 ||u9hl4pz7u1su.xyz:8443^
