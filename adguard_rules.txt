@@ -386,6 +386,7 @@
 ||ldy.oomfv.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
+||ldy.ranjoin.com^
 ||ldy.rkuppwa.com^
 ||ldy.rtlaz.com^
 ||ldy.salescyb.com^
