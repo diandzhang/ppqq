@@ -373,6 +373,7 @@
 ||ldy.buvpq.com^
 ||ldy.bztsoft.com^
 ||ldy.cccwaen.com^
+||ldy.changdewr.com^
 ||ldy.deyangmc.com^
 ||ldy.djtzypx.com^
 ||ldy.esmzyey.com^
