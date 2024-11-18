@@ -488,6 +488,7 @@
 ||tk.amxhod.com^
 ||tk.sxwjxz.com^
 ||tp.gcdxehl.com^
+||tt55a.shangzhenshipin.com^
 ||ttos-10.aliyun.etv99ygv.com^
 ||ttos-11.aliyun.etv99ygv.com^
 ||turtle67.trafficmanager.net:10010^
