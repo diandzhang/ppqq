@@ -487,6 +487,8 @@
 ||tk.amxhod.com^
 ||tk.sxwjxz.com^
 ||tp.gcdxehl.com^
+||ttos-10.aliyun.etv99ygv.com^
+||ttos-11.aliyun.etv99ygv.com^
 ||turtle67.trafficmanager.net:10010^
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
