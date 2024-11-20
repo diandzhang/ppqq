@@ -492,6 +492,7 @@
 ||tk.sxwjxz.com^
 ||tp.gcdxehl.com^
 ||tt55a.shangzhenshipin.com^
+||tt55b.shangzhenshipin.com^
 ||ttos-10.aliyun.etv99ygv.com^
 ||ttos-11.aliyun.etv99ygv.com^
 ||turtle67.trafficmanager.net:10010^
@@ -524,6 +525,7 @@
 ||x8duf9.cc^
 ||xa1jgfbdlwf2ncxq.440413.com:8283^
 ||xa1jgfbdlwf2ncxq.440593.com:8283^
+||xa1jgfbdlwf2ncxq.440657.com:8283^
 ||xbxzimub.vip^
 ||xgqze7.cc^
 ||xy.xqxzl.com^
