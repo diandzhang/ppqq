@@ -404,6 +404,7 @@
 ||ldy.sengdeng.com^
 ||ldy.shzhzjs.com^
 ||ldy.sncsbdc.com^
+||ldy.tiancgt.com^
 ||ldy.tnnipnu.com^
 ||ldy.uphatin.com^
 ||ldy.vexrj.com^
@@ -529,6 +530,7 @@
 ||xa1jgfbdlwf2ncxq.440593.com:8283^
 ||xa1jgfbdlwf2ncxq.440657.com:8283^
 ||xa1jgfbdlwf2ncxq.440764.com:8283^
+||xa1jgfbdlwf2ncxq.440795.com:8283^
 ||xbxzimub.vip^
 ||xgqze7.cc^
 ||xy.xqxzl.com^
