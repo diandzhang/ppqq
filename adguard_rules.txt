@@ -411,6 +411,7 @@
 ||ldy.uphatin.com^
 ||ldy.vexrj.com^
 ||ldy.weiyanzm.com^
+||ldy.witeemv.com^
 ||ldy.wtvbq.com^
 ||ldy.wumhg.com^
 ||ldy.xtyxzzs.com^
