@@ -416,6 +416,7 @@
 ||ldy.vexrj.com^
 ||ldy.weiyanzm.com^
 ||ldy.witeemv.com^
+||ldy.wkitw.com^
 ||ldy.wkptw.com^
 ||ldy.wtvbq.com^
 ||ldy.wumhg.com^
