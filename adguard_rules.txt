@@ -504,6 +504,7 @@
 ||shanghai.alb.aliyun.com.vghuhimcom.net^
 ||shanghai.alb.aliyun.com.vjghhgk859g.com^
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
+||tb.iwqjk.com^
 ||tb.sjzzhcy.com^
 ||tbef2fo.cc^
 ||td-628.7sgzu.com^
