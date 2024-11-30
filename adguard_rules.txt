@@ -506,6 +506,7 @@
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
 ||tb.iwqjk.com^
 ||tb.sjzzhcy.com^
+||tb.umqek.com^
 ||tbef2fo.cc^
 ||td-628.7sgzu.com^
 ||td-71.ctqrs.com^
