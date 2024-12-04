@@ -511,6 +511,7 @@
 ||shanghai.alb.aliyun.com.vjghhgk859g.com^
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
 ||tb.awakeks.com^
+||tb.cvyyc.com^
 ||tb.iwqjk.com^
 ||tb.sjzzhcy.com^
 ||tb.umqek.com^
