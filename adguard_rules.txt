@@ -98,6 +98,7 @@
 ||djy.sybwji.com^
 ||djy.syshxyu.com^
 ||djy.xhengo.com^
+||djy.yqihx.com^
 ||dk.sxyngwb.com^
 ||dl.mplzvd.com^
 ||dsh.jtzhsm.com^
