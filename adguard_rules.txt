@@ -97,6 +97,7 @@
 ||diaolatiaorouguai9.cc^
 ||djy.dchunh.com^
 ||djy.nrsygs.com^
+||djy.sxincxx.com^
 ||djy.sybwji.com^
 ||djy.syshxyu.com^
 ||djy.xhengo.com^
