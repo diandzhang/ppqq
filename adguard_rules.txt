@@ -171,6 +171,7 @@
 ||jegs.zgwhlyb.com^
 ||jhdkbsa010.trafficmanager.net:996^
 ||jiechi.ucn43.com^
+||jmdsr.udsnhi.com^
 ||jnfy.svtwhk.com^
 ||jppwg4.cc^
 ||jrs-9a5w.cc^
