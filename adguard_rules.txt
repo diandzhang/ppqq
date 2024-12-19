@@ -547,6 +547,7 @@
 ||shanghai.alb.aliyun.com.vghuhimcom.net^
 ||shanghai.alb.aliyun.com.vjghhgk859g.com^
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
+||sndm.krqdcj.com^
 ||tb.awakeks.com^
 ||tb.cvyyc.com^
 ||tb.iwqjk.com^
