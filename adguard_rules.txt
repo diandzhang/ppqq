@@ -176,6 +176,7 @@
 ||jhdkbsa010.trafficmanager.net:996^
 ||jiechi.ucn43.com^
 ||jkfl.alicebj.com^
+||jmbn.bnkklyw.com^
 ||jmdsr.udsnhi.com^
 ||jnfy.svtwhk.com^
 ||jppwg4.cc^
