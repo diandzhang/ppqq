@@ -174,6 +174,7 @@
 ||jegs.bzwtule.com^
 ||jegs.qhhnuhl.com^
 ||jegs.zgwhlyb.com^
+||jens.erlnoad.com^
 ||jhdkbsa010.trafficmanager.net:996^
 ||jiechi.ucn43.com^
 ||jkfl.alicebj.com^
