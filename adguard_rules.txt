@@ -165,6 +165,7 @@
 ||htjs.demshen.com^
 ||htjs.senyzsy.com^
 ||hv6ur.xyz^
+||hver11.trafficmanager.net:996^
 ||hww5uy.cc^
 ||hx39.pjoo8.com^
 ||hx9ime.cc^
