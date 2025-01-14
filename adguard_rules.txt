@@ -543,6 +543,7 @@
 ||mgtv35.cc^
 ||mgtv36.cc^
 ||mgtv52.cc^
+||mgtv53.cc^
 ||migkif55gfduhgu.yuanshimuyushop.com^
 ||mj.bswlkm.com^
 ||mki7ad.top^
