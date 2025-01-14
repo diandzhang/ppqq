@@ -159,6 +159,7 @@
 ||hdg26.live:8888^
 ||hguwfjr.cc^
 ||hgvs05.trafficmanager.net:2345^
+||hgvs13.trafficmanager.net:2345^
 ||hiwhjzywem.com^
 ||hn.gzcczszy.com^
 ||hpp2.kbwomj.xyz^
