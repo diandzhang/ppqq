@@ -157,6 +157,7 @@
 ||hc.ohkff.com^
 ||hdg25.live:8888^
 ||hdg26.live:8888^
+||hebv11.trafficmanager.net:7799^
 ||hguwfjr.cc^
 ||hgvs05.trafficmanager.net:2345^
 ||hgvs09.trafficmanager.net:2345^
