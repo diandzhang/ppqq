@@ -160,6 +160,7 @@
 ||hguwfjr.cc^
 ||hgvs05.trafficmanager.net:2345^
 ||hgvs09.trafficmanager.net:2345^
+||hgvs10.trafficmanager.net:2345^
 ||hgvs13.trafficmanager.net:2345^
 ||hiwhjzywem.com^
 ||hn.gzcczszy.com^
@@ -481,6 +482,7 @@
 ||l0yq.mg24.cc:2025^
 ||l0yq.mg36.cc:2025^
 ||l0yq.mg52.cc:2025^
+||l0yq.mg70.cc:2025^
 ||l0yq.mgtv74.cc:2025^
 ||l0yq.mgtv75.cc:2025^
 ||l0yq.mgtv83.cc:2025^
