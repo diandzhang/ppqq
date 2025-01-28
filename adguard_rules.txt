@@ -162,6 +162,7 @@
 ||hgvs05.trafficmanager.net:2345^
 ||hgvs09.trafficmanager.net:2345^
 ||hgvs10.trafficmanager.net:2345^
+||hgvs11.trafficmanager.net:2345^
 ||hgvs13.trafficmanager.net:2345^
 ||hiwhjzywem.com^
 ||hn.gzcczszy.com^
