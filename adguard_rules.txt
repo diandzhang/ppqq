@@ -164,6 +164,7 @@
 ||hgvs10.trafficmanager.net:2345^
 ||hgvs11.trafficmanager.net:2345^
 ||hgvs13.trafficmanager.net:2345^
+||hgvs20.trafficmanager.net:2345^
 ||hiwhjzywem.com^
 ||hn.gzcczszy.com^
 ||hpp2.kbwomj.xyz^
