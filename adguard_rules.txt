@@ -489,6 +489,7 @@
 ||l0yq.mg70.cc:2025^
 ||l0yq.mgtv167.cc:2025^
 ||l0yq.mgtv168.cc:2025^
+||l0yq.mgtv169.cc:2025^
 ||l0yq.mgtv74.cc:2025^
 ||l0yq.mgtv75.cc:2025^
 ||l0yq.mgtv83.cc:2025^
@@ -710,6 +711,7 @@
 ||xa1jgfbdlwf2ncxq.440870.com:8283^
 ||xa1jgfbdlwf2ncxq.441143.com:8283^
 ||xa1jgfbdlwf2ncxq.545723.com:8283^
+||xa1jgfbdlwf2ncxq.545725.com:8283^
 ||xbxzimub.vip^
 ||xgqze7.cc^
 ||xut9.cc^
