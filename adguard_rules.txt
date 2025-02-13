@@ -492,6 +492,7 @@
 ||l0yq.mgtv169.cc:2025^
 ||l0yq.mgtv170.cc:2025^
 ||l0yq.mgtv171.cc:2025^
+||l0yq.mgtv241.cc:2025^
 ||l0yq.mgtv74.cc:2025^
 ||l0yq.mgtv75.cc:2025^
 ||l0yq.mgtv83.cc:2025^
