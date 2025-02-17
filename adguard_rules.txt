@@ -494,6 +494,7 @@
 ||l0yq.mgtv171.cc:2025^
 ||l0yq.mgtv241.cc:2025^
 ||l0yq.mgtv242.cc:2025^
+||l0yq.mgtv277.cc:2025^
 ||l0yq.mgtv74.cc:2025^
 ||l0yq.mgtv75.cc:2025^
 ||l0yq.mgtv83.cc:2025^
@@ -716,6 +717,7 @@
 ||xa1jgfbdlwf2ncxq.440795.com:8283^
 ||xa1jgfbdlwf2ncxq.440870.com:8283^
 ||xa1jgfbdlwf2ncxq.441143.com:8283^
+||xa1jgfbdlwf2ncxq.542773.com:8283^
 ||xa1jgfbdlwf2ncxq.545723.com:8283^
 ||xa1jgfbdlwf2ncxq.545725.com:8283^
 ||xa1jgfbdlwf2ncxq.545739.com:8283^
