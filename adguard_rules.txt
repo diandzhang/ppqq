@@ -70,6 +70,7 @@
 ||964q.tbl128a37.cc:9527^
 ||964q.tbl137309.cc:9527^
 ||964q.tbl14021j.cc:9527^
+||964q.tbl1499ciz.cc:9527^
 ||99212118.xyz^
 ||9fcce7.cc^
 ||9oaez7.cc^
@@ -744,6 +745,7 @@
 ||xa1jgfbdlwf2ncxq.540281.com:8283^
 ||xa1jgfbdlwf2ncxq.540828.com:8283^
 ||xa1jgfbdlwf2ncxq.542773.com:8283^
+||xa1jgfbdlwf2ncxq.542848.com:8283^
 ||xa1jgfbdlwf2ncxq.545723.com:8283^
 ||xa1jgfbdlwf2ncxq.545725.com:8283^
 ||xa1jgfbdlwf2ncxq.545739.com:8283^
