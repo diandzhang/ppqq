@@ -70,6 +70,7 @@
 ||964q.tbl128a37.cc:9527^
 ||964q.tbl137309.cc:9527^
 ||964q.tbl14021j.cc:9527^
+||964q.tbl1497emi.cc:9527^
 ||964q.tbl1498hfd.cc:9527^
 ||964q.tbl1499ciz.cc:9527^
 ||99212118.xyz^
@@ -253,6 +254,7 @@
 ||jmmzp.iwehi.com^
 ||jmnbz.nvchik.com^
 ||jmnnm.bcdyjj.com^
+||jmnnm.exeab.com^
 ||jmnnm.jnncj.com^
 ||jmnnm.vxseth.com^
 ||jnfy.svtwhk.com^
