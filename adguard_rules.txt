@@ -770,6 +770,7 @@
 ||xa1jgfbdlwf2ncxq.545725.com:8283^
 ||xa1jgfbdlwf2ncxq.545739.com:8283^
 ||xa1jgfbdlwf2ncxq.547053.com:8283^
+||xa1jgfbdlwf2ncxq.547934.com:8283^
 ||xa1jgfbdlwf2ncxq.548209.com:8283^
 ||xa1jgfbdlwf2ncxq.548453.com:8283^
 ||xa1jgfbdlwf2ncxq.548514.com:8283^
