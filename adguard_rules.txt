@@ -788,6 +788,7 @@
 ||xa1jgfbdlwf2ncxq.540152.com:8283^
 ||xa1jgfbdlwf2ncxq.540187.com:8283^
 ||xa1jgfbdlwf2ncxq.540281.com:8283^
+||xa1jgfbdlwf2ncxq.540284.com:8283^
 ||xa1jgfbdlwf2ncxq.540828.com:8283^
 ||xa1jgfbdlwf2ncxq.541046.com:8283^
 ||xa1jgfbdlwf2ncxq.542643.com:8283^
