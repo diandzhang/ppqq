@@ -305,6 +305,7 @@
 ||jndpu.ndpua.com^
 ||jnfy.svtwhk.com^
 ||jnhk6.epflsn.com^
+||jning.ningxc.com^
 ||jnmmla.jmsqml.com^
 ||joopt.gppxp.com^
 ||josld.wedanw.com^
