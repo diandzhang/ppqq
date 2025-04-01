@@ -116,6 +116,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.309727.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.343523.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.347526.lol^
+||bwqld2l6o3vkev9kw1kiyhyrq.419163.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.527646.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.578825.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.591907.lol^
@@ -817,6 +818,7 @@
 ||xa1jgfbdlwf2ncxq.540281.com:8283^
 ||xa1jgfbdlwf2ncxq.540284.com:8283^
 ||xa1jgfbdlwf2ncxq.540828.com:8283^
+||xa1jgfbdlwf2ncxq.540912.vip:8283^
 ||xa1jgfbdlwf2ncxq.541046.com:8283^
 ||xa1jgfbdlwf2ncxq.541795.vip:8283^
 ||xa1jgfbdlwf2ncxq.542643.com:8283^
