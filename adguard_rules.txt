@@ -196,6 +196,7 @@
 ||hgvs13.trafficmanager.net:2345^
 ||hgvs20.trafficmanager.net:2345^
 ||hiwhjzywem.com^
+||hliu5f.pbiqjg.cn^
 ||hn.gzcczszy.com^
 ||hpp2.kbwomj.xyz^
 ||hrmg.senyfqy.com^
