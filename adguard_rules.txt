@@ -635,6 +635,7 @@
 ||ldy.oomfv.com^
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
+||ldy.pkupc.com^
 ||ldy.ranjoin.com^
 ||ldy.rkuppwa.com^
 ||ldy.rtlaz.com^
@@ -861,6 +862,7 @@
 ||xa1jgfbdlwf2ncxq.731884.vip:8283^
 ||xa1jgfbdlwf2ncxq.732991.com:8283^
 ||xa1jgfbdlwf2ncxq.733430.com:8283^
+||xa1jgfbdlwf2ncxq.733664.xyz:8283^
 ||xa1jgfbdlwf2ncxq.734497.vip:8283^
 ||xa1jgfbdlwf2ncxq.734520.xyz:8283^
 ||xa1jgfbdlwf2ncxq.735346.vip:8283^
