@@ -649,6 +649,7 @@
 ||ldy.tiancgt.com^
 ||ldy.tnhdwrs.com^
 ||ldy.tnnipnu.com^
+||ldy.tudkm.com^
 ||ldy.uphatin.com^
 ||ldy.vexrj.com^
 ||ldy.weiyanzm.com^
