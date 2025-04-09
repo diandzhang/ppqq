@@ -183,6 +183,7 @@
 ||gfrt-74.jvn0z.com^
 ||ghgh8.gue23gu4j5.com^
 ||ghy-621.7uc40.com^
+||gj36ik.epemly.cn^
 ||gj5854fvh846.jinliantongxin.com^
 ||gk.fggejb.com^
 ||gs.cuiln.com^
@@ -868,6 +869,7 @@
 ||xa1jgfbdlwf2ncxq.731884.vip:8283^
 ||xa1jgfbdlwf2ncxq.732991.com:8283^
 ||xa1jgfbdlwf2ncxq.733430.com:8283^
+||xa1jgfbdlwf2ncxq.733524.xyz:8283^
 ||xa1jgfbdlwf2ncxq.733664.xyz:8283^
 ||xa1jgfbdlwf2ncxq.734497.vip:8283^
 ||xa1jgfbdlwf2ncxq.734515.xyz:8283^
