@@ -642,6 +642,7 @@
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
 ||ldy.pkupc.com^
+||ldy.qcn5w.com^
 ||ldy.ranjoin.com^
 ||ldy.rkuppwa.com^
 ||ldy.rtlaz.com^
