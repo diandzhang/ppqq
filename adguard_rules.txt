@@ -640,6 +640,7 @@
 ||ldy.kqckg.com^
 ||ldy.kxlmk.com^
 ||ldy.lblfc.com^
+||ldy.lwhjg.com^
 ||ldy.lyqtzbl.com^
 ||ldy.lytcyx.com^
 ||ldy.mztawiy.com^
