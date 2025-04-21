@@ -666,6 +666,7 @@
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
 ||ldy.pkupc.com^
+||ldy.qc2g2.com^
 ||ldy.qc85c.com^
 ||ldy.qcn5w.com^
 ||ldy.ranjoin.com^
