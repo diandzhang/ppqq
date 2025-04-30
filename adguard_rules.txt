@@ -135,6 +135,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.070036.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.076007.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.094772.com^
+||bwqld2l6o3vkev9kw1kiyhyrq.128035.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.132256.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.290544.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.303651.com^
@@ -857,6 +858,7 @@
 ||ttos-10.aliyun.etv99ygv.com^
 ||ttos-11.aliyun.etv99ygv.com^
 ||turtle67.trafficmanager.net:10010^
+||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
 ||u9hl4pz7u1su.xyz:8443^
