@@ -110,6 +110,7 @@
 ||9y74dd.oful.cn^
 ||a3cw2lx1i0su.xyz:8443^
 ||a75jn.co^
+||abc.afgc1.com^
 ||abc.dmpqk.com^
 ||abc.dzkck.com^
 ||abc.gztcgc.com^
@@ -157,6 +158,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.578825.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.583862.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.591907.lol^
+||bwqld2l6o3vkev9kw1kiyhyrq.604238.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.604613.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.610356.com^
 ||bwqld2l6o3vkev9kw1kiyhyrq.647186.lol^
