@@ -116,6 +116,7 @@
 ||abc.gztcgc.com^
 ||abc.mcyzj.com^
 ||abc.qcm29.com^
+||abc.yn8j.com^
 ||abc.zqljx.com^
 ||abcjsk.ucn43.com^
 ||abw123.flx3spcrzg.com^
