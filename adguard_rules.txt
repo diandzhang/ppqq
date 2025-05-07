@@ -117,6 +117,7 @@
 ||abc.lbpkm.com^
 ||abc.mcyzj.com^
 ||abc.qcm29.com^
+||abc.sslndx.com^
 ||abc.yn8j.com^
 ||abc.zqljx.com^
 ||abcjsk.ucn43.com^
