@@ -225,6 +225,7 @@
 ||feinvie.731784.xyz:8283^
 ||feinvie.732497.xyz:8283^
 ||feinvie.734828.xyz:8283^
+||feinvie.736052.xyz:8283^
 ||feinvie.736491.xyz:8283^
 ||feinvie.736530.xyz:8283^
 ||feinvie.737516.xyz:8283^
