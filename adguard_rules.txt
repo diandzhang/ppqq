@@ -820,6 +820,7 @@
 ||ocfh.baopack.com^
 ||odnpio.com^
 ||oez7bp.cc^
+||olki98.nkkbrz.cn^
 ||oss1.trafficmanager.net^
 ||oss2.trafficmanager.net^
 ||oss5.trafficmanager.net^
@@ -905,6 +906,7 @@
 ||vhgjkguyf8958ddf.fanyou.vip^
 ||vlb1uhs8.com^
 ||vneinsd.543309.xyz:8283^
+||vneinsd.543335.xyz:8283^
 ||vneinsd.546661.xyz:8283^
 ||vu.6428x3.com^
 ||wh.sntckm.com^
