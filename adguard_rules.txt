@@ -715,6 +715,7 @@
 ||ldy.lcbqg.com^
 ||ldy.lflgr.com^
 ||ldy.lfphf.com^
+||ldy.llydcd.com^
 ||ldy.lwhjg.com^
 ||ldy.lwkrm.com^
 ||ldy.lwprm.com^
