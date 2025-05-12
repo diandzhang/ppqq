@@ -736,6 +736,7 @@
 ||ldy.pkupc.com^
 ||ldy.qc2g2.com^
 ||ldy.qc85c.com^
+||ldy.qc8qp.com^
 ||ldy.qcn5w.com^
 ||ldy.ranjoin.com^
 ||ldy.rkuppwa.com^
