@@ -232,6 +232,7 @@
 ||feinvie.736491.xyz:8283^
 ||feinvie.736530.xyz:8283^
 ||feinvie.737516.xyz:8283^
+||feinvie.737566.xyz:8283^
 ||feinvie.737615.xyz:8283^
 ||feinvie.738029.xyz:8283^
 ||feinvie.738611.xyz:8283^
@@ -287,6 +288,7 @@
 ||htjs.senyzsy.com^
 ||hv6ur.xyz^
 ||hver11.trafficmanager.net:996^
+||hw4apn.wcbdfn.cn^
 ||hww5uy.cc^
 ||hx39.pjoo8.com^
 ||hx9ime.cc^
@@ -917,6 +919,7 @@
 ||vneinsd.543335.xyz:8283^
 ||vneinsd.546559.xyz:8283^
 ||vneinsd.546661.xyz:8283^
+||vneinsd.547160.xyz:8283^
 ||vu.6428x3.com^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
