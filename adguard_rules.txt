@@ -808,6 +808,7 @@
 ||mxsm6z.wmwraw.cn^
 ||n3kq063g.com^
 ||n6l57p.top^
+||n91o7s.xzpwpd.cn^
 ||nhy.vrezhou.com^
 ||nn.aqfnw.com^
 ||nn.beidajg.com^
@@ -918,6 +919,7 @@
 ||vneinsd.540441.xyz:8283^
 ||vneinsd.543309.xyz:8283^
 ||vneinsd.543335.xyz:8283^
+||vneinsd.545473.xyz:8283^
 ||vneinsd.546559.xyz:8283^
 ||vneinsd.546661.xyz:8283^
 ||vneinsd.547160.xyz:8283^
