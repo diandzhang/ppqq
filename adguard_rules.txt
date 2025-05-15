@@ -742,6 +742,7 @@
 ||ldy.qc85c.com^
 ||ldy.qc8qp.com^
 ||ldy.qcn5w.com^
+||ldy.qcv9k.com^
 ||ldy.ranjoin.com^
 ||ldy.rkuppwa.com^
 ||ldy.rtlaz.com^
