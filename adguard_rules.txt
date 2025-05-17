@@ -687,6 +687,7 @@
 ||ldy.afuts.com^
 ||ldy.atwxzj.com^
 ||ldy.azlmb.com^
+||ldy.bjsfds.com^
 ||ldy.blbqywm.com^
 ||ldy.buvpq.com^
 ||ldy.bztsoft.com^
