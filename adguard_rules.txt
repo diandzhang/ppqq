@@ -929,6 +929,7 @@
 ||vneinsd.540441.xyz:8283^
 ||vneinsd.540546.xyz:8283^
 ||vneinsd.540983.xyz:8283^
+||vneinsd.542581.xyz:8283^
 ||vneinsd.543309.xyz:8283^
 ||vneinsd.543335.xyz:8283^
 ||vneinsd.545344.xyz:8283^
@@ -1043,4 +1044,5 @@
 ||z43fgp03.vip^
 ||z807e6.ynpvvm.cn^
 ||zc8lus.cc^
+||zntppo.rxmrns.cn^
 ||zw.bpretraga.com^
