@@ -708,6 +708,7 @@
 ||ldy.fffipl.com^
 ||ldy.fkdbtis.com^
 ||ldy.fnrlz.com^
+||ldy.fnwbm.com^
 ||ldy.fqtlx.com^
 ||ldy.ftkcfvu.com^
 ||ldy.gdjsjcs.com^
