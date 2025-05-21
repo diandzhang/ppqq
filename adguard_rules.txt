@@ -748,6 +748,7 @@
 ||ldy.pkupc.com^
 ||ldy.qc2g2.com^
 ||ldy.qc85c.com^
+||ldy.qc8ep.com^
 ||ldy.qc8qp.com^
 ||ldy.qcn5w.com^
 ||ldy.qcv9k.com^
