@@ -707,6 +707,7 @@
 ||ldy.dqtli.com^
 ||ldy.drayano.com^
 ||ldy.esmzyey.com^
+||ldy.eysty.com^
 ||ldy.fffipl.com^
 ||ldy.fkdbtis.com^
 ||ldy.fnrlz.com^
