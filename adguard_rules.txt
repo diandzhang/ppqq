@@ -776,6 +776,7 @@
 ||ldy.vexrj.com^
 ||ldy.wbtwll.com^
 ||ldy.weiyanzm.com^
+||ldy.wfwut.com^
 ||ldy.witeemv.com^
 ||ldy.wkitw.com^
 ||ldy.wkptw.com^
