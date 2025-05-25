@@ -744,6 +744,7 @@
 ||ldy.mztawiy.com^
 ||ldy.njelmt.com^
 ||ldy.nwoqr.com^
+||ldy.nwqiz.com^
 ||ldy.ogritxn.com^
 ||ldy.oomfv.com^
 ||ldy.pepsioc.com^
