@@ -774,6 +774,7 @@
 ||ldy.tudkm.com^
 ||ldy.ueklc.com^
 ||ldy.ugkuq.com^
+||ldy.umoqk.com^
 ||ldy.uphatin.com^
 ||ldy.uvprd.com^
 ||ldy.vexrj.com^
@@ -952,6 +953,7 @@
 ||vneinsd.543238.xyz:8283^
 ||vneinsd.543309.xyz:8283^
 ||vneinsd.543335.xyz:8283^
+||vneinsd.544293.xyz:8283^
 ||vneinsd.545344.xyz:8283^
 ||vneinsd.545473.xyz:8283^
 ||vneinsd.546516.xyz:8283^
