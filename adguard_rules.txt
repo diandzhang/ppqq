@@ -852,6 +852,7 @@
 ||nn.tgnxc.com^
 ||nn.ttklq.com^
 ||nn.zwzno.com^
+||nyan8m.kzgyd.cn^
 ||o0ys2pa2z0ou.xyz:8443^
 ||o1qivv.obeeem.cn^
 ||o49648o.cc^
@@ -962,6 +963,7 @@
 ||vneinsd.546559.xyz:8283^
 ||vneinsd.546661.xyz:8283^
 ||vneinsd.547160.xyz:8283^
+||vneinsd.547815.xyz:8283^
 ||vneinsd.547886.xyz:8283^
 ||vneinsd.548322.xyz:8283^
 ||vneinsd.548890.xyz:8283^
