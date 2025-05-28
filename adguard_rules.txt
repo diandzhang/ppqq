@@ -800,6 +800,7 @@
 ||ldy.ymsend.com^
 ||ldy.ypserve.com^
 ||ldy.zfrgqat.com^
+||ldy.zguej.com^
 ||ldy.zhnydkzzs.com^
 ||ldy.znbqb.com^
 ||lh.ll-dr.com^
