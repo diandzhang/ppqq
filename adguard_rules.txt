@@ -784,6 +784,7 @@
 ||ldy.uvprd.com^
 ||ldy.vexrj.com^
 ||ldy.vmval.com^
+||ldy.vudtg.com^
 ||ldy.wbtwll.com^
 ||ldy.weiyanzm.com^
 ||ldy.wfwut.com^
