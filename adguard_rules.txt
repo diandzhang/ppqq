@@ -743,6 +743,7 @@
 ||ldy.lflgr.com^
 ||ldy.lfphf.com^
 ||ldy.llydcd.com^
+||ldy.lqgjk.com^
 ||ldy.lwhjg.com^
 ||ldy.lwkrm.com^
 ||ldy.lwprm.com^
@@ -918,6 +919,7 @@
 ||shanghai.alb.aliyun.com.vjghhgk859g.com^
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
 ||shuzikp.731813.xyz:8283^
+||shuzikp.739447.xyz:8283^
 ||sndm.krqdcj.com^
 ||tb.awakeks.com^
 ||tb.cvyyc.com^
