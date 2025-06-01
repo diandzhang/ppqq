@@ -763,6 +763,7 @@
 ||ldy.qc85c.com^
 ||ldy.qc8ep.com^
 ||ldy.qc8qp.com^
+||ldy.qclpst.com^
 ||ldy.qcn5w.com^
 ||ldy.qcv9k.com^
 ||ldy.ranjoin.com^
@@ -884,6 +885,7 @@
 ||q4q5u.cc^
 ||q567ft.wajebw.cn^
 ||qbkek8.lqwzoc.cn^
+||qbo8hk.udlppi.cn^
 ||qfp9e.top^
 ||qh.hieqda.com^
 ||qhgio8.felinus.cn^
@@ -983,6 +985,7 @@
 ||vneinsd.658048.xyz:8283^
 ||vneinsd.659880.xyz:8283^
 ||vneinsd.942683.xyz:8283^
+||vneinsd.944607.xyz:8283^
 ||vu.6428x3.com^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
