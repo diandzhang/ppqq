@@ -796,6 +796,7 @@
 ||ldy.witeemv.com^
 ||ldy.wkitw.com^
 ||ldy.wkptw.com^
+||ldy.wktaze.com^
 ||ldy.wtvbq.com^
 ||ldy.wumhg.com^
 ||ldy.xndrus.com^
