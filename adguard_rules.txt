@@ -867,6 +867,7 @@
 ||nn.ttklq.com^
 ||nn.zwzno.com^
 ||nyan8m.kzgyd.cn^
+||nzps2j.zihczu.cn^
 ||o0ys2pa2z0ou.xyz:8443^
 ||o1qivv.obeeem.cn^
 ||o49648o.cc^
@@ -951,6 +952,7 @@
 ||ttos-11.aliyun.etv99ygv.com^
 ||tuantuankp.549330.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
+||tuantuankp.943423.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
