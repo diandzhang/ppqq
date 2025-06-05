@@ -657,6 +657,7 @@
 ||jxawt.xawtfx.com^
 ||jxmsj.xmsjds.com^
 ||jydn9k.lkaoxk.com^
+||jyea3i.ogrqdq.cn^
 ||jythn.dfzwm.com^
 ||jytr.zwzycj.com^
 ||jytrl.ezynib.com^
@@ -951,6 +952,7 @@
 ||tt55b.shangzhenshipin.com^
 ||ttos-10.aliyun.etv99ygv.com^
 ||ttos-11.aliyun.etv99ygv.com^
+||tuantuankp.548884.xyz:8283^
 ||tuantuankp.549330.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
