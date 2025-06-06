@@ -880,6 +880,7 @@
 ||odnpio.com^
 ||oez7bp.cc^
 ||olki98.nkkbrz.cn^
+||onmj9u.twngqh.cn^
 ||oss1.trafficmanager.net^
 ||oss2.trafficmanager.net^
 ||oss5.trafficmanager.net^
@@ -957,6 +958,7 @@
 ||ttos-11.aliyun.etv99ygv.com^
 ||tuantuankp.548884.xyz:8283^
 ||tuantuankp.549330.xyz:8283^
+||tuantuankp.652006.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
