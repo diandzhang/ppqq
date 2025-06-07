@@ -961,6 +961,7 @@
 ||tuantuankp.549330.xyz:8283^
 ||tuantuankp.652006.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
+||tuantuankp.943010.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
 ||tvqbjf.nsdrzh.cn^
@@ -1111,6 +1112,7 @@
 ||yese39.com^
 ||yhk.depeish.com^
 ||yhnr.dcunhui.com^
+||z1agrr.vxiefa.cn^
 ||z43fgp03.vip^
 ||z807e6.ynpvvm.cn^
 ||zc8lus.cc^
