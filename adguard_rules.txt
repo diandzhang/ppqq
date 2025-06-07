@@ -932,6 +932,7 @@
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
 ||shuzikp.731813.xyz:8283^
 ||shuzikp.733852.xyz:8283^
+||shuzikp.733938.xyz:8283^
 ||shuzikp.736210.xyz:8283^
 ||shuzikp.739447.xyz:8283^
 ||sndm.krqdcj.com^
