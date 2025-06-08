@@ -733,6 +733,7 @@
 ||ldy.gushaoyou.com^
 ||ldy.gwdtqz.com^
 ||ldy.hcfmj.com^
+||ldy.hdsckj.com^
 ||ldy.hgkunp.com^
 ||ldy.ieypg.com^
 ||ldy.iplvvv.com^
