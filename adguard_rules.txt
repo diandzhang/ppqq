@@ -731,6 +731,7 @@
 ||ldy.gneym.com^
 ||ldy.gnmwc.com^
 ||ldy.gtflw.com^
+||ldy.gthnn.com^
 ||ldy.gu3mk.com^
 ||ldy.gushaoyou.com^
 ||ldy.gwdtqz.com^
