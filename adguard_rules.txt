@@ -823,6 +823,7 @@
 ||ldy.ylfka.com^
 ||ldy.ymsend.com^
 ||ldy.ypserve.com^
+||ldy.yynsi.com^
 ||ldy.zfrgqat.com^
 ||ldy.zguej.com^
 ||ldy.zhnydkzzs.com^
