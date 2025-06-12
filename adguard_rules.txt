@@ -982,6 +982,7 @@
 ||tuantuankp.943010.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||tuantuankp.947642.xyz:8283^
+||tuantuankp.948149.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
