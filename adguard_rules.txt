@@ -944,6 +944,7 @@
 ||shuzikp.733852.xyz:8283^
 ||shuzikp.733938.xyz:8283^
 ||shuzikp.734142.xyz:8283^
+||shuzikp.735118.xyz:8283^
 ||shuzikp.736210.xyz:8283^
 ||shuzikp.739286.xyz:8283^
 ||shuzikp.739447.xyz:8283^
@@ -980,6 +981,7 @@
 ||tuantuankp.654688.xyz:8283^
 ||tuantuankp.654904.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
+||tuantuankp.658397.xyz:8283^
 ||tuantuankp.943010.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||tuantuankp.947642.xyz:8283^
@@ -1130,6 +1132,7 @@
 ||xy.xqxzl.com^
 ||xz6ortp1q.com^
 ||yb1lkp.cc^
+||yc50s4.uwjscz.cn^
 ||yese39.com^
 ||yhk.depeish.com^
 ||yhnr.dcunhui.com^
