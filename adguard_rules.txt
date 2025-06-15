@@ -950,6 +950,7 @@
 ||shuzikp.734142.xyz:8283^
 ||shuzikp.735118.xyz:8283^
 ||shuzikp.736210.xyz:8283^
+||shuzikp.738590.xyz:8283^
 ||shuzikp.739286.xyz:8283^
 ||shuzikp.739447.xyz:8283^
 ||sndm.krqdcj.com^
