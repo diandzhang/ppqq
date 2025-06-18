@@ -766,6 +766,7 @@
 ||ldy.lfphf.com^
 ||ldy.llydcd.com^
 ||ldy.lqgjk.com^
+||ldy.ltzju.com^
 ||ldy.lwhjg.com^
 ||ldy.lwkrm.com^
 ||ldy.lwprm.com^
