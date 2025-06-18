@@ -711,6 +711,7 @@
 ||ldy.afuts.com^
 ||ldy.atwxzj.com^
 ||ldy.azlmb.com^
+||ldy.aznvm.com^
 ||ldy.bjsfds.com^
 ||ldy.blbqywm.com^
 ||ldy.buvpq.com^
@@ -945,6 +946,7 @@
 ||rwfgpc.cc^
 ||rwxahc.domain10061.vip:57009^
 ||s0lo.mgtv582.cc:2025^
+||sbuu6o.wuqoek.cn^
 ||se13q.cc^
 ||sf.kvlbd.com^
 ||shanghai.alb.aliyun.com.vghuhimcom.net^
@@ -992,6 +994,7 @@
 ||tuantuankp.549246.xyz:8283^
 ||tuantuankp.549330.xyz:8283^
 ||tuantuankp.652006.xyz:8283^
+||tuantuankp.652697.xyz:8283^
 ||tuantuankp.654688.xyz:8283^
 ||tuantuankp.654904.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
