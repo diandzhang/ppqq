@@ -874,6 +874,7 @@
 ||mqu3pz.vple.cn^
 ||ms.yalsjbyy.com^
 ||mt.habibata.com^
+||mtfov5.lthagf.cn^
 ||mxsm6z.wmwraw.cn^
 ||n3kq063g.com^
 ||n6l57p.top^
@@ -1005,6 +1006,7 @@
 ||tuantuankp.947175.xyz:8283^
 ||tuantuankp.947642.xyz:8283^
 ||tuantuankp.948149.xyz:8283^
+||tuantuankp.949857.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
