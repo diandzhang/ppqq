@@ -758,6 +758,7 @@
 ||ldy.jzrfr.com^
 ||ldy.kfygv.com^
 ||ldy.kjcjn.com^
+||ldy.kjdzq.com^
 ||ldy.kjnxx.com^
 ||ldy.kmqby.com^
 ||ldy.kqckg.com^
