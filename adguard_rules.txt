@@ -960,6 +960,7 @@
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
 ||shuzikp.730497.xyz:8283^
 ||shuzikp.731813.xyz:8283^
+||shuzikp.733794.xyz:8283^
 ||shuzikp.733852.xyz:8283^
 ||shuzikp.733938.xyz:8283^
 ||shuzikp.734142.xyz:8283^
