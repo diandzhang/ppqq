@@ -792,6 +792,7 @@
 ||ldy.pinmomc.com^
 ||ldy.pinyimc.com^
 ||ldy.pkupc.com^
+||ldy.pubgqnk.com^
 ||ldy.qc2g2.com^
 ||ldy.qc85c.com^
 ||ldy.qc8ep.com^
