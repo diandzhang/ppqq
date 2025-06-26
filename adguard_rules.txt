@@ -834,6 +834,7 @@
 ||ldy.wkitw.com^
 ||ldy.wkptw.com^
 ||ldy.wktaze.com^
+||ldy.wrdsyje.com^
 ||ldy.wrkjz.com^
 ||ldy.wtvbq.com^
 ||ldy.wumhg.com^
