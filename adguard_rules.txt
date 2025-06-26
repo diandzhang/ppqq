@@ -1017,6 +1017,7 @@
 ||tuantuankp.652006.xyz:8283^
 ||tuantuankp.652697.xyz:8283^
 ||tuantuankp.654688.xyz:8283^
+||tuantuankp.654809.xyz:8283^
 ||tuantuankp.654904.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
 ||tuantuankp.658397.xyz:8283^
@@ -1182,4 +1183,5 @@
 ||zc8lus.cc^
 ||zntppo.rxmrns.cn^
 ||ztjtmt.sqjbfh.cn^
+||zuoazf.jhyfsz.cn^
 ||zw.bpretraga.com^
