@@ -772,6 +772,7 @@
 ||ldy.kxlmk.com^
 ||ldy.lblfc.com^
 ||ldy.lcbqg.com^
+||ldy.lemanwl.com^
 ||ldy.lflgr.com^
 ||ldy.lfphf.com^
 ||ldy.llydcd.com^
