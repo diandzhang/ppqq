@@ -987,6 +987,7 @@
 ||shuzikp.737100.xyz:8283^
 ||shuzikp.738039.xyz:8283^
 ||shuzikp.738590.xyz:8283^
+||shuzikp.738595.xyz:8283^
 ||shuzikp.738615.xyz:8283^
 ||shuzikp.739286.xyz:8283^
 ||shuzikp.739447.xyz:8283^
