@@ -920,6 +920,7 @@
 ||o51ds0.qsufbt.cn^
 ||ocfh.baopack.com^
 ||odnpio.com^
+||oenqfa.pnhjkte.cn^
 ||oez7bp.cc^
 ||olki98.nkkbrz.cn^
 ||onmj9u.twngqh.cn^
@@ -1029,6 +1030,7 @@
 ||tuantuankp.654904.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
 ||tuantuankp.658397.xyz:8283^
+||tuantuankp.659295.xyz:8283^
 ||tuantuankp.943010.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||tuantuankp.944011.xyz:8283^
