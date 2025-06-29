@@ -784,6 +784,7 @@
 ||ldy.lwprm.com^
 ||ldy.lyqtzbl.com^
 ||ldy.lytcyx.com^
+||ldy.mlvor.com^
 ||ldy.mpcyk.com^
 ||ldy.mztawiy.com^
 ||ldy.njelmt.com^
