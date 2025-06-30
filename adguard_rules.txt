@@ -817,6 +817,7 @@
 ||ldy.siosiop.com^
 ||ldy.sncsbdc.com^
 ||ldy.sxgdxx.com^
+||ldy.tanjhhh.com^
 ||ldy.taxmera.com^
 ||ldy.tiancgt.com^
 ||ldy.tnhdwrs.com^
