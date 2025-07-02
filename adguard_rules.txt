@@ -717,6 +717,7 @@
 ||ldy.1zdex.com^
 ||ldy.aahoq.com^
 ||ldy.afuts.com^
+||ldy.anzeok.com^
 ||ldy.atwxzj.com^
 ||ldy.azlmb.com^
 ||ldy.aznvm.com^
