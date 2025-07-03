@@ -820,6 +820,7 @@
 ||ldy.siosiop.com^
 ||ldy.sncsbdc.com^
 ||ldy.sxgdxx.com^
+||ldy.szklsx.com^
 ||ldy.tanjhhh.com^
 ||ldy.taxmera.com^
 ||ldy.tiancgt.com^
@@ -985,6 +986,7 @@
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
 ||shuzikp.730353.xyz:8283^
 ||shuzikp.730497.xyz:8283^
+||shuzikp.730854.xyz:8283^
 ||shuzikp.731813.xyz:8283^
 ||shuzikp.733794.xyz:8283^
 ||shuzikp.733852.xyz:8283^
