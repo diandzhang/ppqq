@@ -736,6 +736,7 @@
 ||ldy.dqtli.com^
 ||ldy.drayano.com^
 ||ldy.dwtcu.com^
+||ldy.dydeyal.com^
 ||ldy.eapwo.com^
 ||ldy.esmzyey.com^
 ||ldy.eysty.com^
