@@ -813,6 +813,7 @@
 ||ldy.qclpst.com^
 ||ldy.qcn5w.com^
 ||ldy.qcv9k.com^
+||ldy.qwd846.com^
 ||ldy.ranjoin.com^
 ||ldy.rkuppwa.com^
 ||ldy.rnclte.com^
@@ -998,6 +999,7 @@
 ||shuzikp.734142.xyz:8283^
 ||shuzikp.735118.xyz:8283^
 ||shuzikp.735693.xyz:8283^
+||shuzikp.735783.xyz:8283^
 ||shuzikp.735911.xyz:8283^
 ||shuzikp.736210.xyz:8283^
 ||shuzikp.737100.xyz:8283^
