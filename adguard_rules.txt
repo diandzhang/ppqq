@@ -938,6 +938,7 @@
 ||oenqfa.pnhjkte.cn^
 ||oez7bp.cc^
 ||olki98.nkkbrz.cn^
+||olu7lw.bcsfabx.cn^
 ||onmj9u.twngqh.cn^
 ||oss1.trafficmanager.net^
 ||oss2.trafficmanager.net^
@@ -1056,6 +1057,7 @@
 ||tuantuankp.654904.xyz:8283^
 ||tuantuankp.656709.xyz:8283^
 ||tuantuankp.656909.xyz:8283^
+||tuantuankp.657949.xyz:8283^
 ||tuantuankp.658397.xyz:8283^
 ||tuantuankp.659295.xyz:8283^
 ||tuantuankp.940804.xyz:8283^
