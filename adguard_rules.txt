@@ -1071,6 +1071,7 @@
 ||tuantuankp.947642.xyz:8283^
 ||tuantuankp.948149.xyz:8283^
 ||tuantuankp.949172.xyz:8283^
+||tuantuankp.949240.xyz:8283^
 ||tuantuankp.949857.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
 ||tvqbjf.nsdrzh.cn^
@@ -1230,4 +1231,5 @@
 ||zntppo.rxmrns.cn^
 ||ztjtmt.sqjbfh.cn^
 ||zuoazf.jhyfsz.cn^
+||zuvur9.jmwanhb.cn^
 ||zw.bpretraga.com^
