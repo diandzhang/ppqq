@@ -741,6 +741,7 @@
 ||ldy.dwtcu.com^
 ||ldy.dydeyal.com^
 ||ldy.eapwo.com^
+||ldy.enkongr.com^
 ||ldy.esmzyey.com^
 ||ldy.eysty.com^
 ||ldy.fffipl.com^
@@ -1001,6 +1002,7 @@
 ||shuzikp.731279.xyz:8283^
 ||shuzikp.731813.xyz:8283^
 ||shuzikp.733794.xyz:8283^
+||shuzikp.733844.xyz:8283^
 ||shuzikp.733852.xyz:8283^
 ||shuzikp.733938.xyz:8283^
 ||shuzikp.734142.xyz:8283^
