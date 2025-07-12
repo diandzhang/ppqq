@@ -62,6 +62,7 @@
 ||51zb67.xyz^
 ||539330.xyz^
 ||54bsv.pw^
+||56f751.cikjdew.cn^
 ||577351.pro^
 ||5792873.xyz^
 ||5j29cp.vnauoh.cn^
@@ -1071,6 +1072,7 @@
 ||tuantuankp.658397.xyz:8283^
 ||tuantuankp.659295.xyz:8283^
 ||tuantuankp.940804.xyz:8283^
+||tuantuankp.942731.xyz:8283^
 ||tuantuankp.943010.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||tuantuankp.943875.xyz:8283^
