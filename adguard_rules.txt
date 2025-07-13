@@ -732,6 +732,7 @@
 ||ldy.bztsoft.com^
 ||ldy.cccwaen.com^
 ||ldy.changdewr.com^
+||ldy.chpbzf.com^
 ||ldy.cnllx.com^
 ||ldy.dcbxk.com^
 ||ldy.dcjbk.com^
