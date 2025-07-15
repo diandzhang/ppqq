@@ -740,6 +740,7 @@
 ||ldy.dcjbk.com^
 ||ldy.deyangmc.com^
 ||ldy.djtzypx.com^
+||ldy.dkgjgd.com^
 ||ldy.dlcuw.com^
 ||ldy.dqtli.com^
 ||ldy.drayano.com^
@@ -1072,6 +1073,7 @@
 ||tuantuankp.652006.xyz:8283^
 ||tuantuankp.652697.xyz:8283^
 ||tuantuankp.652701.xyz:8283^
+||tuantuankp.653910.xyz:8283^
 ||tuantuankp.654688.xyz:8283^
 ||tuantuankp.654809.xyz:8283^
 ||tuantuankp.654904.xyz:8283^
@@ -1250,6 +1252,7 @@
 ||z43fgp03.vip^
 ||z807e6.ynpvvm.cn^
 ||zc8lus.cc^
+||zjd29q.tfcald.cn^
 ||zntppo.rxmrns.cn^
 ||ztjtmt.sqjbfh.cn^
 ||zuoazf.jhyfsz.cn^
