@@ -735,6 +735,7 @@
 ||ldy.changdewr.com^
 ||ldy.chpbzf.com^
 ||ldy.cnllx.com^
+||ldy.comonvc.com^
 ||ldy.dcbxk.com^
 ||ldy.dcjbk.com^
 ||ldy.deyangmc.com^
@@ -1084,6 +1085,7 @@
 ||tuantuankp.940804.xyz:8283^
 ||tuantuankp.942731.xyz:8283^
 ||tuantuankp.943010.xyz:8283^
+||tuantuankp.943182.xyz:8283^
 ||tuantuankp.943423.xyz:8283^
 ||tuantuankp.943875.xyz:8283^
 ||tuantuankp.944011.xyz:8283^
