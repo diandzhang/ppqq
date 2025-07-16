@@ -750,6 +750,7 @@
 ||ldy.enkongr.com^
 ||ldy.esmzyey.com^
 ||ldy.eysty.com^
+||ldy.fa23x.com^
 ||ldy.fffipl.com^
 ||ldy.fghu7.com^
 ||ldy.fkdbtis.com^
