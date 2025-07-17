@@ -1026,6 +1026,7 @@
 ||shuzikp.735783.xyz:8283^
 ||shuzikp.735911.xyz:8283^
 ||shuzikp.736210.xyz:8283^
+||shuzikp.736881.xyz:8283^
 ||shuzikp.737100.xyz:8283^
 ||shuzikp.738039.xyz:8283^
 ||shuzikp.738590.xyz:8283^
@@ -1067,6 +1068,7 @@
 ||tuantuankp.544647.xyz:8283^
 ||tuantuankp.544854.xyz:8283^
 ||tuantuankp.546406.xyz:8283^
+||tuantuankp.546881.xyz:8283^
 ||tuantuankp.547847.xyz:8283^
 ||tuantuankp.548884.xyz:8283^
 ||tuantuankp.548981.xyz:8283^
