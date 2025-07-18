@@ -807,6 +807,7 @@
 ||ldy.mpcyk.com^
 ||ldy.mztawiy.com^
 ||ldy.njelmt.com^
+||ldy.nv42a.com^
 ||ldy.nwoqr.com^
 ||ldy.nwqiz.com^
 ||ldy.nwtzlvv.com^
