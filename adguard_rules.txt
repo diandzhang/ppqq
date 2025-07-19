@@ -835,6 +835,7 @@
 ||ldy.rtlaz.com^
 ||ldy.salescyb.com^
 ||ldy.sengdeng.com^
+||ldy.sftxfm.com^
 ||ldy.shzhzjs.com^
 ||ldy.siosiop.com^
 ||ldy.sncsbdc.com^
