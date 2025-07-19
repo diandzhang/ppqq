@@ -1028,6 +1028,7 @@
 ||shuzikp.735693.xyz:8283^
 ||shuzikp.735783.xyz:8283^
 ||shuzikp.735911.xyz:8283^
+||shuzikp.735923.xyz:8283^
 ||shuzikp.736210.xyz:8283^
 ||shuzikp.736881.xyz:8283^
 ||shuzikp.737100.xyz:8283^
@@ -1083,6 +1084,7 @@
 ||tuantuankp.652006.xyz:8283^
 ||tuantuankp.652697.xyz:8283^
 ||tuantuankp.652701.xyz:8283^
+||tuantuankp.653093.xyz:8283^
 ||tuantuankp.653910.xyz:8283^
 ||tuantuankp.654688.xyz:8283^
 ||tuantuankp.654809.xyz:8283^
@@ -1122,6 +1124,7 @@
 ||v2tv74.buaalc.cn^
 ||v4ej07.cc^
 ||v84p62.cc^
+||vb4dw7.bxrhzmd.cn^
 ||vd.rockapc.com^
 ||vgopdz.tksxsq.cn^
 ||vhgjkguyf8958ddf.fanyou.vip^
