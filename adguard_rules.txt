@@ -766,6 +766,7 @@
 ||ldy.gdtdzb.com^
 ||ldy.gneym.com^
 ||ldy.gnmwc.com^
+||ldy.grbofg.com^
 ||ldy.gtflw.com^
 ||ldy.gthnn.com^
 ||ldy.gu3mk.com^
