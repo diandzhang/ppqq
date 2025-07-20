@@ -1019,6 +1019,7 @@
 ||shuzikp.731171.xyz:8283^
 ||shuzikp.731279.xyz:8283^
 ||shuzikp.731813.xyz:8283^
+||shuzikp.732353.xyz:8283^
 ||shuzikp.732531.xyz:8283^
 ||shuzikp.733794.xyz:8283^
 ||shuzikp.733841.xyz:8283^
