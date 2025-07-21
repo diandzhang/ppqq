@@ -63,6 +63,7 @@
 ||51zb67.xyz^
 ||539330.xyz^
 ||54bsv.pw^
+||54yoal.azmnpnn.cn^
 ||56f751.cikjdew.cn^
 ||577351.pro^
 ||5792873.xyz^
@@ -1034,6 +1035,7 @@
 ||shuzikp.735911.xyz:8283^
 ||shuzikp.735923.xyz:8283^
 ||shuzikp.736210.xyz:8283^
+||shuzikp.736808.xyz:8283^
 ||shuzikp.736881.xyz:8283^
 ||shuzikp.737100.xyz:8283^
 ||shuzikp.737878.xyz:8283^
@@ -1080,6 +1082,7 @@
 ||tuantuankp.546881.xyz:8283^
 ||tuantuankp.547194.xyz:8283^
 ||tuantuankp.547847.xyz:8283^
+||tuantuankp.548405.xyz:8283^
 ||tuantuankp.548884.xyz:8283^
 ||tuantuankp.548981.xyz:8283^
 ||tuantuankp.549246.xyz:8283^
