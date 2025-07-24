@@ -848,6 +848,7 @@
 ||ldy.shzhzjs.com^
 ||ldy.siosiop.com^
 ||ldy.sncsbdc.com^
+||ldy.sshoqx.com^
 ||ldy.sttjkj.com^
 ||ldy.sxgdxx.com^
 ||ldy.szklsx.com^
@@ -1037,6 +1038,7 @@
 ||shuzikp.733852.xyz:8283^
 ||shuzikp.733938.xyz:8283^
 ||shuzikp.734142.xyz:8283^
+||shuzikp.734600.xyz:8283^
 ||shuzikp.735118.xyz:8283^
 ||shuzikp.735693.xyz:8283^
 ||shuzikp.735783.xyz:8283^
