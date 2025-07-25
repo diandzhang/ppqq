@@ -97,6 +97,7 @@
 ||8a.qrurpw.com^
 ||8m9dte.fwpwcwx.cn^
 ||8ncmgl.xsjwqs.cn^
+||8uqn3z.nblciz.cn^
 ||8w3w84.czziho.cn^
 ||8w957p.zrrfrmx.cn^
 ||928263.lol^
@@ -1104,6 +1105,7 @@
 ||tuantuankp.652701.xyz:8283^
 ||tuantuankp.653093.xyz:8283^
 ||tuantuankp.653910.xyz:8283^
+||tuantuankp.654164.xyz:8283^
 ||tuantuankp.654688.xyz:8283^
 ||tuantuankp.654809.xyz:8283^
 ||tuantuankp.654904.xyz:8283^
