@@ -1116,6 +1116,7 @@
 ||tuantuankp.549246.xyz:8283^
 ||tuantuankp.549330.xyz:8283^
 ||tuantuankp.549675.xyz:8283^
+||tuantuankp.549852.xyz:8283^
 ||tuantuankp.652006.xyz:8283^
 ||tuantuankp.652697.xyz:8283^
 ||tuantuankp.652701.xyz:8283^
@@ -1159,6 +1160,7 @@
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
 ||u9xi8.top^
+||ud33ar.cemaeyd.cn^
 ||uf.dftdhk.com^
 ||uj13x9.iniydb.cn^
 ||upbyunm.top^
