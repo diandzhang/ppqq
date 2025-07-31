@@ -1076,6 +1076,7 @@
 ||shuzikp.739286.xyz:8283^
 ||shuzikp.739447.xyz:8283^
 ||shuzikp.739822.xyz:8283^
+||shuzikp.739926.xyz:8283^
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
 ||tb.awakeks.com^
