@@ -1066,6 +1066,7 @@
 ||shuzikp.735923.xyz:8283^
 ||shuzikp.736210.xyz:8283^
 ||shuzikp.736808.xyz:8283^
+||shuzikp.736825.xyz:8283^
 ||shuzikp.736881.xyz:8283^
 ||shuzikp.737100.xyz:8283^
 ||shuzikp.737353.xyz:8283^
