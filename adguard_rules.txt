@@ -297,6 +297,7 @@
 ||g468k4.axecksp.cn^
 ||g5gb6gh2ug.yuanshimuyushop.com^
 ||ga1unk.yxvju.cn^
+||gad5cf.fcchjzt.cn^
 ||gahtgc.domain30521.top:57009^
 ||gd.ylydn.com^
 ||gd7n8o.top^
@@ -1152,6 +1153,7 @@
 ||tuantuankp.944723.xyz:8283^
 ||tuantuankp.946060.xyz:8283^
 ||tuantuankp.946272.xyz:8283^
+||tuantuankp.946696.xyz:8283^
 ||tuantuankp.947175.xyz:8283^
 ||tuantuankp.947642.xyz:8283^
 ||tuantuankp.948149.xyz:8283^
