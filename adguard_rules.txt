@@ -927,6 +927,7 @@
 ||ljjhtu55fggfuhgf.shangzhenshipin.com^
 ||lsftz3.mansyt.cn^
 ||lx2fr7.cbyquy.cn^
+||lyatx3.fydkwts.cn^
 ||m1rg6x.mlngqh.cn^
 ||m4dxaa.cc^
 ||m5fgfgxz.fdhuaxuepin.com^
@@ -1065,6 +1066,7 @@
 ||shuzikp.735118.xyz:8283^
 ||shuzikp.735383.xyz:8283^
 ||shuzikp.735693.xyz:8283^
+||shuzikp.735718.xyz:8283^
 ||shuzikp.735783.xyz:8283^
 ||shuzikp.735911.xyz:8283^
 ||shuzikp.735923.xyz:8283^
@@ -1110,6 +1112,7 @@
 ||tt55b.shangzhenshipin.com^
 ||ttos-10.aliyun.etv99ygv.com^
 ||ttos-11.aliyun.etv99ygv.com^
+||tuantuankp.540956.xyz:8283^
 ||tuantuankp.541691.xyz:8283^
 ||tuantuankp.541911.xyz:8283^
 ||tuantuankp.542246.xyz:8283^
