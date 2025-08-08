@@ -164,6 +164,7 @@
 ||bfqde2023llsplde12qd27qdl.474927.com^
 ||bfqde2023llsplde12qd27qdl.486227.com^
 ||bfqde2023llsplde12qd27qdl.487602.com^
+||bicycle.732717.xyz:8283^
 ||bicycle.733591.xyz:8283^
 ||bicycle.736329.xyz:8283^
 ||bncp0w.agyvlh.cn^
@@ -221,6 +222,7 @@
 ||dd.byilz.com^
 ||dd.cgijj.com^
 ||dd.csd965.com^
+||dd.fgpvy.com^
 ||dd.grjlfw.com^
 ||dd.gsklny.com^
 ||dd.gttzpu.com^
