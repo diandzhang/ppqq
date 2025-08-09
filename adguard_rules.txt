@@ -229,6 +229,7 @@
 ||dd.grjlfw.com^
 ||dd.gsklny.com^
 ||dd.gttzpu.com^
+||dd.hbastn.com^
 ||dd.hbcfzzj.com^
 ||dd.hbcqbj.com^
 ||dd.hchoushi.com^
