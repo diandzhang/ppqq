@@ -168,6 +168,7 @@
 ||bicycle.732717.xyz:8283^
 ||bicycle.733591.xyz:8283^
 ||bicycle.736329.xyz:8283^
+||bicycle.739283.xyz:8283^
 ||bncp0w.agyvlh.cn^
 ||bnhfngj25fdngnim.yuanshimuyushop.com^
 ||bsjpfl.oxtaul.cn^
