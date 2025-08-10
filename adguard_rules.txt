@@ -160,6 +160,7 @@
 ||asdwqeqe.950260.com^
 ||autobike.545816.xyz:8283^
 ||autobike.652400.xyz:8283^
+||autobike.946819.xyz:8283^
 ||b16mav.top^
 ||b2fahl.uietgw.cn^
 ||b3afef.cc^
@@ -1019,6 +1020,7 @@
 ||oss2.trafficmanager.net^
 ||oss5.trafficmanager.net^
 ||oylghrh.top^
+||p3frnz.ppgcux.cn^
 ||p7a6me.cc^
 ||pd.aofbxi.com^
 ||pd47q8l.cc^
