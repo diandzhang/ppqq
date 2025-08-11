@@ -239,6 +239,7 @@
 ||dd.hbastn.com^
 ||dd.hbcfzzj.com^
 ||dd.hbcqbj.com^
+||dd.hbqjlx.com^
 ||dd.hchoushi.com^
 ||dd.hnklyd.com^
 ||dd.oxwvdq.com^
