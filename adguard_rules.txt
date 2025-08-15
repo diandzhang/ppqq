@@ -177,6 +177,7 @@
 ||bicycle.732423.xyz:8283^
 ||bicycle.732717.xyz:8283^
 ||bicycle.733591.xyz:8283^
+||bicycle.734204.xyz:8283^
 ||bicycle.734974.xyz:8283^
 ||bicycle.735089.xyz:8283^
 ||bicycle.736329.xyz:8283^
@@ -254,6 +255,7 @@
 ||dd.hchoushi.com^
 ||dd.hnklyd.com^
 ||dd.mkdkiv.com^
+||dd.nllaq.com^
 ||dd.oxwvdq.com^
 ||dd.qbfsss.com^
 ||dd.qbgjkw.com^
