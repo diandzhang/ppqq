@@ -165,6 +165,7 @@
 ||autobike.652400.xyz:8283^
 ||autobike.656109.xyz:8283^
 ||autobike.657196.xyz:8283^
+||autobike.943650.xyz:8283^
 ||autobike.946819.xyz:8283^
 ||autobike.948903.xyz:8283^
 ||b16mav.top^
@@ -265,6 +266,7 @@
 ||dd.rdvdg.com^
 ||dd.rsbxfy.com^
 ||dd.tjsmbh.com^
+||dd.wewjo.com^
 ||dd.wvrve.com^
 ||dd.zcrlx.com^
 ||dd33.zsyds.com.cn^
