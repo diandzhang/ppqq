@@ -242,6 +242,7 @@
 ||dd.biswx.com^
 ||dd.byilz.com^
 ||dd.cgijj.com^
+||dd.crytg.com^
 ||dd.csd965.com^
 ||dd.cvgd5x.com^
 ||dd.dxbvu.com^
