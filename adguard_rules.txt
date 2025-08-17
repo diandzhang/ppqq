@@ -261,6 +261,7 @@
 ||dd.hnklyd.com^
 ||dd.hwprs.com^
 ||dd.ktcax.com^
+||dd.ktuvp.com^
 ||dd.mkdkiv.com^
 ||dd.nllaq.com^
 ||dd.oxwvdq.com^
