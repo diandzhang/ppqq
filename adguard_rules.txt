@@ -162,6 +162,7 @@
 ||autobike.542632.xyz:8283^
 ||autobike.545145.xyz:8283^
 ||autobike.545816.xyz:8283^
+||autobike.546980.xyz:8283^
 ||autobike.652400.xyz:8283^
 ||autobike.656109.xyz:8283^
 ||autobike.657196.xyz:8283^
@@ -270,6 +271,7 @@
 ||dd.tjsmbh.com^
 ||dd.wewjo.com^
 ||dd.wvrve.com^
+||dd.yctxsoft.com^
 ||dd.zcrlx.com^
 ||dd33.zsyds.com.cn^
 ||ddy.hengmtkji.com^
@@ -1278,6 +1280,7 @@
 ||vneinsd.659880.xyz:8283^
 ||vneinsd.942683.xyz:8283^
 ||vneinsd.944607.xyz:8283^
+||vqfjet.fdjtnbx.cn^
 ||vu.6428x3.com^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
