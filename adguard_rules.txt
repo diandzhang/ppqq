@@ -187,6 +187,7 @@
 ||bicycle.736449.xyz:8283^
 ||bicycle.737745.xyz:8283^
 ||bicycle.739283.xyz:8283^
+||bicycle.739450.xyz:8283^
 ||bncp0w.agyvlh.cn^
 ||bnhfngj25fdngnim.yuanshimuyushop.com^
 ||brzpdo.smntpc.cn^
@@ -269,6 +270,7 @@
 ||dd.qbgjkw.com^
 ||dd.rdvdg.com^
 ||dd.rsbxfy.com^
+||dd.sxzcr.com^
 ||dd.tjsmbh.com^
 ||dd.wewjo.com^
 ||dd.wvrve.com^
