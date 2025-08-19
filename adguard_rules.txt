@@ -275,6 +275,7 @@
 ||dd.sxzcr.com^
 ||dd.tjsmbh.com^
 ||dd.wewjo.com^
+||dd.wgdhv.com^
 ||dd.wvrve.com^
 ||dd.yctxsoft.com^
 ||dd.zcrlx.com^
@@ -1256,6 +1257,7 @@
 ||vb4dw7.bxrhzmd.cn^
 ||vd.rockapc.com^
 ||vedle.730183.xyz:8283^
+||vedle.733779.xyz:8283^
 ||vedle.735672.xyz:8283^
 ||vgopdz.tksxsq.cn^
 ||vhgjkguyf8958ddf.fanyou.vip^
