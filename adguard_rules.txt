@@ -163,6 +163,7 @@
 ||autobike.545145.xyz:8283^
 ||autobike.545816.xyz:8283^
 ||autobike.546980.xyz:8283^
+||autobike.548551.xyz:8283^
 ||autobike.652400.xyz:8283^
 ||autobike.656109.xyz:8283^
 ||autobike.657196.xyz:8283^
@@ -1057,6 +1058,7 @@
 ||oss5.trafficmanager.net^
 ||oylghrh.top^
 ||p3frnz.ppgcux.cn^
+||p6yxtw.wnhnrfw.cn^
 ||p7a6me.cc^
 ||pd.aofbxi.com^
 ||pd47q8l.cc^
