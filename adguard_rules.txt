@@ -1160,6 +1160,7 @@
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
 ||svckl.650366.xyz:8283^
+||svckl.945491.xyz:8283^
 ||tb.awakeks.com^
 ||tb.cvyyc.com^
 ||tb.iwqjk.com^
@@ -1269,6 +1270,7 @@
 ||vedle.733779.xyz:8283^
 ||vedle.734014.xyz:8283^
 ||vedle.735672.xyz:8283^
+||vedle.737595.xyz:8283^
 ||vgopdz.tksxsq.cn^
 ||vhgjkguyf8958ddf.fanyou.vip^
 ||vlb1uhs8.com^
