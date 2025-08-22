@@ -261,6 +261,7 @@
 ||dd.gsklny.com^
 ||dd.gttzpu.com^
 ||dd.gubojiao.com^
+||dd.gzkaos.com^
 ||dd.hbastn.com^
 ||dd.hbcfzzj.com^
 ||dd.hbcqbj.com^
