@@ -1275,6 +1275,7 @@
 ||vd.rockapc.com^
 ||vedle.730183.xyz:8283^
 ||vedle.730252.xyz:8283^
+||vedle.731533.xyz:8283^
 ||vedle.733616.xyz:8283^
 ||vedle.733779.xyz:8283^
 ||vedle.734014.xyz:8283^
