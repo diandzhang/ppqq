@@ -283,6 +283,7 @@
 ||dd.pymybj.com^
 ||dd.qbfsss.com^
 ||dd.qbgjkw.com^
+||dd.rcgdzc.com^
 ||dd.rdvdg.com^
 ||dd.riafco.com^
 ||dd.rsbxfy.com^
@@ -1109,6 +1110,7 @@
 ||rkvoma.cc^
 ||rm.rsxsjo.com^
 ||rmujjev1.com^
+||rn9s2d.chbppdp.cn^
 ||rnc8mlo2.com^
 ||rqfx49.top^
 ||rtdh1d.wpxsb.cn^
@@ -1276,10 +1278,12 @@
 ||v84p62.cc^
 ||vb4dw7.bxrhzmd.cn^
 ||vd.rockapc.com^
+||vedle.043181.cc:8283^
 ||vedle.049612.cc:8283^
 ||vedle.730183.xyz:8283^
 ||vedle.730252.xyz:8283^
 ||vedle.731533.xyz:8283^
+||vedle.733319.xyz:8283^
 ||vedle.733616.xyz:8283^
 ||vedle.733779.xyz:8283^
 ||vedle.734014.xyz:8283^
