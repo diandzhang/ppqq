@@ -1292,6 +1292,7 @@
 ||vedle.735672.xyz:8283^
 ||vedle.737533.xyz:8283^
 ||vedle.737595.xyz:8283^
+||vedle.737823.xyz:8283^
 ||vgopdz.tksxsq.cn^
 ||vhgjkguyf8958ddf.fanyou.vip^
 ||vlb1uhs8.com^
