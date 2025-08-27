@@ -290,6 +290,7 @@
 ||dd.rdvdg.com^
 ||dd.riafco.com^
 ||dd.rsbxfy.com^
+||dd.rsbxgl.com^
 ||dd.rsbxjz.com^
 ||dd.sxzcr.com^
 ||dd.tjsmbh.com^
