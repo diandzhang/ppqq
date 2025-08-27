@@ -265,6 +265,7 @@
 ||dd.grkhxshdpt.com^
 ||dd.gsklny.com^
 ||dd.gttzpu.com^
+||dd.guangnashiye.com^
 ||dd.gubojiao.com^
 ||dd.gzkaos.com^
 ||dd.hbastn.com^
@@ -1175,6 +1176,7 @@
 ||shuzikp.739926.xyz:8283^
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
+||svckl.043976.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
 ||tb.awakeks.com^
