@@ -293,6 +293,7 @@
 ||dd.rsbxfy.com^
 ||dd.rsbxgl.com^
 ||dd.rsbxjz.com^
+||dd.sitfde.com^
 ||dd.sxzcr.com^
 ||dd.tjsmbh.com^
 ||dd.vdwez.com^
