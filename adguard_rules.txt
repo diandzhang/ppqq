@@ -289,6 +289,7 @@
 ||dd.rcgdzc.com^
 ||dd.rdvdg.com^
 ||dd.riafco.com^
+||dd.rpesky.com^
 ||dd.rsbxfy.com^
 ||dd.rsbxgl.com^
 ||dd.rsbxjz.com^
@@ -1077,6 +1078,7 @@
 ||oss2.trafficmanager.net^
 ||oss5.trafficmanager.net^
 ||oylghrh.top^
+||p2l7w1.cbpjnhd.cn^
 ||p3frnz.ppgcux.cn^
 ||p6yxtw.wnhnrfw.cn^
 ||p7a6me.cc^
@@ -1177,6 +1179,7 @@
 ||shuzikp.739926.xyz:8283^
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
+||svckl.040229.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
