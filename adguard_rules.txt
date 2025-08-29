@@ -253,6 +253,7 @@
 ||dd.csd965.com^
 ||dd.cvgd5x.com^
 ||dd.cyqdk.com^
+||dd.czleyu.com^
 ||dd.dloru.com^
 ||dd.dxbvu.com^
 ||dd.eqrkd.com^
@@ -1182,6 +1183,7 @@
 ||srhrgw.spmdcpp.cn^
 ||svckl.040229.xyz:8283^
 ||svckl.043976.xyz:8283^
+||svckl.049261.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
 ||tb.awakeks.com^
@@ -1283,6 +1285,7 @@
 ||uf.dftdhk.com^
 ||uj13x9.iniydb.cn^
 ||upbyunm.top^
+||us4ddt.xjrisdh.cn^
 ||utjqbw.top^
 ||v2tv74.buaalc.cn^
 ||v4ej07.cc^
@@ -1294,6 +1297,7 @@
 ||vedle.049612.cc:8283^
 ||vedle.730183.xyz:8283^
 ||vedle.730252.xyz:8283^
+||vedle.731451.xyz:8283^
 ||vedle.731533.xyz:8283^
 ||vedle.733319.xyz:8283^
 ||vedle.733616.xyz:8283^
