@@ -99,6 +99,7 @@
 ||87042302.xyz^
 ||89bhx1.rtxvxn.cn^
 ||8a.qrurpw.com^
+||8m3qsg.cxkztkh.cn^
 ||8m9dte.fwpwcwx.cn^
 ||8ncmgl.xsjwqs.cn^
 ||8uqn3z.nblciz.cn^
@@ -1184,6 +1185,7 @@
 ||srhrgw.spmdcpp.cn^
 ||svckl.040229.xyz:8283^
 ||svckl.043976.xyz:8283^
+||svckl.046176.xyz:8283^
 ||svckl.049261.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
