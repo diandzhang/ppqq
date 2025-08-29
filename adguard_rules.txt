@@ -294,6 +294,7 @@
 ||dd.rsbxfy.com^
 ||dd.rsbxgl.com^
 ||dd.rsbxjz.com^
+||dd.rscxgl.com^
 ||dd.sitfde.com^
 ||dd.sxzcr.com^
 ||dd.tjsmbh.com^
