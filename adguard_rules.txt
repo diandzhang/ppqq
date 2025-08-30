@@ -281,6 +281,7 @@
 ||dd.hwprs.com^
 ||dd.ktcax.com^
 ||dd.ktuvp.com^
+||dd.lobgmz.com^
 ||dd.mkdkiv.com^
 ||dd.nllaq.com^
 ||dd.oxwvdq.com^
@@ -1303,6 +1304,7 @@
 ||vedle.731451.xyz:8283^
 ||vedle.731533.xyz:8283^
 ||vedle.733319.xyz:8283^
+||vedle.733477.xyz:8283^
 ||vedle.733616.xyz:8283^
 ||vedle.733779.xyz:8283^
 ||vedle.733828.xyz:8283^
