@@ -248,6 +248,7 @@
 ||d6zxhu.lqyksu.cn^
 ||dd.apkwdz.com^
 ||dd.biswx.com^
+||dd.buoxdr.com^
 ||dd.byilz.com^
 ||dd.cgijj.com^
 ||dd.crytg.com^
@@ -1312,6 +1313,7 @@
 ||vedle.733779.xyz:8283^
 ||vedle.733828.xyz:8283^
 ||vedle.734014.xyz:8283^
+||vedle.734984.xyz:8283^
 ||vedle.735314.xyz:8283^
 ||vedle.735672.xyz:8283^
 ||vedle.736061.xyz:8283^
