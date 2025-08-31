@@ -1067,6 +1067,7 @@
 ||nn.tgnxc.com^
 ||nn.ttklq.com^
 ||nn.zwzno.com^
+||ntdnlc.icdgsr.cn^
 ||nyan8m.kzgyd.cn^
 ||nzps2j.zihczu.cn^
 ||o0ys2pa2z0ou.xyz:8443^
@@ -1188,6 +1189,7 @@
 ||svckl.040229.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.046176.xyz:8283^
+||svckl.047615.xyz:8283^
 ||svckl.049261.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
