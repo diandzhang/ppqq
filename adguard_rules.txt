@@ -1054,6 +1054,7 @@
 ||mng5fdxz.fdhuaxuepin.com^
 ||mq.fttul.com^
 ||mqu3pz.vple.cn^
+||mrp3jp.vhcdtp.cn^
 ||ms.yalsjbyy.com^
 ||mt.habibata.com^
 ||mtfov5.lthagf.cn^
@@ -1199,6 +1200,7 @@
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
 ||svckl.046176.xyz:8283^
+||svckl.046453.xyz:8283^
 ||svckl.047615.xyz:8283^
 ||svckl.047975.xyz:8283^
 ||svckl.049261.xyz:8283^
