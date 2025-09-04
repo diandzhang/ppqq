@@ -270,6 +270,7 @@
 ||dd.gdvcjy.com^
 ||dd.gfruh.com^
 ||dd.glsdhw.com^
+||dd.gqnqe.com^
 ||dd.grjlfw.com^
 ||dd.grkhxshdpt.com^
 ||dd.gsklny.com^
@@ -1200,6 +1201,7 @@
 ||svckl.040229.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
+||svckl.044663.xyz:8283^
 ||svckl.046176.xyz:8283^
 ||svckl.046453.xyz:8283^
 ||svckl.047615.xyz:8283^
@@ -1328,6 +1330,7 @@
 ||vedle.733779.xyz:8283^
 ||vedle.733828.xyz:8283^
 ||vedle.734014.xyz:8283^
+||vedle.734581.xyz:8283^
 ||vedle.734984.xyz:8283^
 ||vedle.735314.xyz:8283^
 ||vedle.735672.xyz:8283^
