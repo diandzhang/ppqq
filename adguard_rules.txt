@@ -288,6 +288,7 @@
 ||dd.hjpqv.com^
 ||dd.hnklyd.com^
 ||dd.hwprs.com^
+||dd.iojdg.com^
 ||dd.ktcax.com^
 ||dd.ktuvp.com^
 ||dd.lobgmz.com^
@@ -1200,6 +1201,7 @@
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
 ||svckl.040229.xyz:8283^
+||svckl.040603.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
 ||svckl.044663.xyz:8283^
