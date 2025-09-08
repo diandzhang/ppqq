@@ -304,6 +304,7 @@
 ||dd.pymybj.com^
 ||dd.qbfsss.com^
 ||dd.qbgjkw.com^
+||dd.qwttz.com^
 ||dd.rcfkyy.com^
 ||dd.rcgdzc.com^
 ||dd.rdvdg.com^
@@ -1212,6 +1213,7 @@
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
 ||svckl.044663.xyz:8283^
+||svckl.045094.xyz:8283^
 ||svckl.045221.xyz:8283^
 ||svckl.046176.xyz:8283^
 ||svckl.046453.xyz:8283^
@@ -1337,6 +1339,7 @@
 ||vedle.731451.xyz:8283^
 ||vedle.731533.xyz:8283^
 ||vedle.732166.xyz:8283^
+||vedle.732473.xyz:8283^
 ||vedle.733109.xyz:8283^
 ||vedle.733319.xyz:8283^
 ||vedle.733477.xyz:8283^
@@ -1389,6 +1392,7 @@
 ||vneinsd.944607.xyz:8283^
 ||vqfjet.fdjtnbx.cn^
 ||vu.6428x3.com^
+||w44y44.xpreda.cn^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
 ||wn.sxfqhcx.com^
