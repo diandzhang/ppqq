@@ -258,6 +258,7 @@
 ||dd.byilz.com^
 ||dd.cdwlr.com^
 ||dd.cgijj.com^
+||dd.chengrenren.com^
 ||dd.crytg.com^
 ||dd.csd965.com^
 ||dd.cvgd5x.com^
@@ -1337,6 +1338,7 @@
 ||vedle.730113.xyz:8283^
 ||vedle.730183.xyz:8283^
 ||vedle.730252.xyz:8283^
+||vedle.730565.xyz:8283^
 ||vedle.731451.xyz:8283^
 ||vedle.731533.xyz:8283^
 ||vedle.732166.xyz:8283^
