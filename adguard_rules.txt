@@ -1235,6 +1235,7 @@
 ||svckl.044663.xyz:8283^
 ||svckl.045094.xyz:8283^
 ||svckl.045221.xyz:8283^
+||svckl.046093.xyz:8283^
 ||svckl.046176.xyz:8283^
 ||svckl.046453.xyz:8283^
 ||svckl.046639.xyz:8283^
@@ -1420,6 +1421,7 @@
 ||vqfjet.fdjtnbx.cn^
 ||vu.6428x3.com^
 ||w44y44.xpreda.cn^
+||wbkfrl.tmbkdir.cn^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
 ||wn.sxfqhcx.com^
