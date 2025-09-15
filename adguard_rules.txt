@@ -330,6 +330,7 @@
 ||dd.rsbxgl.com^
 ||dd.rsbxjz.com^
 ||dd.rscxgl.com^
+||dd.rsjkhc.com^
 ||dd.rxbnw.com^
 ||dd.sitfde.com^
 ||dd.sxzcr.com^
