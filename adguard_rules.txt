@@ -538,6 +538,7 @@
 ||jhggl.ldrcz.com^
 ||jhhgd.nbctds.com^
 ||jhszd.hszddz.com^
+||jhxi85.vjmgwm.cn^
 ||jiechi.ucn43.com^
 ||jipla.iplaaa.com^
 ||jiplg.iplggg.com^
@@ -1233,6 +1234,7 @@
 ||svckl.040380.xyz:8283^
 ||svckl.040603.xyz:8283^
 ||svckl.041390.xyz:8283^
+||svckl.042253.xyz:8283^
 ||svckl.043420.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
@@ -1377,6 +1379,7 @@
 ||vedle.733779.xyz:8283^
 ||vedle.733828.xyz:8283^
 ||vedle.734014.xyz:8283^
+||vedle.734577.xyz:8283^
 ||vedle.734581.xyz:8283^
 ||vedle.734984.xyz:8283^
 ||vedle.735208.xyz:8283^
