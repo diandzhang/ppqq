@@ -1253,6 +1253,7 @@
 ||svckl.047975.xyz:8283^
 ||svckl.048883.xyz:8283^
 ||svckl.049261.xyz:8283^
+||svckl.049375.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
 ||tb.awakeks.com^
@@ -1347,6 +1348,7 @@
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
+||u25khx.sylefq.cn^
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
 ||u9xi8.top^
