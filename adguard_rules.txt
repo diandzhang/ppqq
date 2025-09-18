@@ -259,6 +259,7 @@
 ||dd.biswx.com^
 ||dd.buoxdr.com^
 ||dd.byilz.com^
+||dd.calnbx.com^
 ||dd.cdwlr.com^
 ||dd.cgijj.com^
 ||dd.chengrenren.com^
