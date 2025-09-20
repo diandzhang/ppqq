@@ -322,6 +322,7 @@
 ||dd.pymybj.com^
 ||dd.qbfsss.com^
 ||dd.qbgjkw.com^
+||dd.qclpyb.com^
 ||dd.qdhhwy.com^
 ||dd.qqncjy.com^
 ||dd.qwttz.com^
@@ -1129,6 +1130,7 @@
 ||oenqfa.pnhjkte.cn^
 ||oez7bp.cc^
 ||olki98.nkkbrz.cn^
+||olstlp.amcjywp.cn^
 ||olu7lw.bcsfabx.cn^
 ||onmj9u.twngqh.cn^
 ||oss1.trafficmanager.net^
@@ -1251,6 +1253,7 @@
 ||svckl.045680.xyz:8283^
 ||svckl.046093.xyz:8283^
 ||svckl.046176.xyz:8283^
+||svckl.046365.xyz:8283^
 ||svckl.046453.xyz:8283^
 ||svckl.046639.xyz:8283^
 ||svckl.047583.xyz:8283^
