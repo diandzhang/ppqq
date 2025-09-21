@@ -311,6 +311,7 @@
 ||dd.ltlczx.com^
 ||dd.lzqems.com^
 ||dd.mbqpr.com^
+||dd.mdjygs.com^
 ||dd.mhllv.com^
 ||dd.mkdkiv.com^
 ||dd.mktli.com^
@@ -1385,6 +1386,7 @@
 ||vedle.731533.xyz:8283^
 ||vedle.732088.xyz:8283^
 ||vedle.732166.xyz:8283^
+||vedle.732301.xyz:8283^
 ||vedle.732473.xyz:8283^
 ||vedle.733052.xyz:8283^
 ||vedle.733109.xyz:8283^
