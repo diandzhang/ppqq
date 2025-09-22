@@ -328,6 +328,7 @@
 ||dd.qbgjkw.com^
 ||dd.qclpyb.com^
 ||dd.qdhhwy.com^
+||dd.qifjs.com^
 ||dd.qqncjy.com^
 ||dd.qwttz.com^
 ||dd.qzgycn.com^
@@ -1145,6 +1146,7 @@
 ||p3frnz.ppgcux.cn^
 ||p6yxtw.wnhnrfw.cn^
 ||p7a6me.cc^
+||pbfg41.syaydcn.cn^
 ||pd.aofbxi.com^
 ||pd47q8l.cc^
 ||pkn.dahhh.cn^
@@ -1250,6 +1252,7 @@
 ||svckl.042253.xyz:8283^
 ||svckl.043267.xyz:8283^
 ||svckl.043420.xyz:8283^
+||svckl.043932.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
 ||svckl.044663.xyz:8283^
