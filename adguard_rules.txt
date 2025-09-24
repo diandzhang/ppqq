@@ -512,6 +512,7 @@
 ||jalkd.ffcsp.com^
 ||jalm.fjmnud.com^
 ||jalyf.podtmlm.com^
+||jd1aya.whcetxn.cn^
 ||jdald.jdqzr.com^
 ||jdd.dddipl.com^
 ||jdekdf.inuhin.com^
@@ -1259,6 +1260,7 @@
 ||svckl.043932.xyz:8283^
 ||svckl.043976.xyz:8283^
 ||svckl.044069.xyz:8283^
+||svckl.044231.xyz:8283^
 ||svckl.044663.xyz:8283^
 ||svckl.045094.xyz:8283^
 ||svckl.045221.xyz:8283^
@@ -1385,6 +1387,7 @@
 ||vb4dw7.bxrhzmd.cn^
 ||vd.rockapc.com^
 ||vedle.037302.xyz:8283^
+||vedle.037650.xyz:8283^
 ||vedle.043181.cc:8283^
 ||vedle.044788.cc:8283^
 ||vedle.049612.cc:8283^
