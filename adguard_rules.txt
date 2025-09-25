@@ -461,6 +461,7 @@
 ||gxfrbt0g.vip^
 ||h424kg.zrzypik.cn^
 ||h4nsj.dcunh.com^
+||h9r97m.meeeiwi.cn^
 ||hc.ohkff.com^
 ||hdg25.live:8888^
 ||hdg26.live:8888^
@@ -1257,6 +1258,7 @@
 ||svckl.040603.xyz:8283^
 ||svckl.041390.xyz:8283^
 ||svckl.042253.xyz:8283^
+||svckl.042475.xyz:8283^
 ||svckl.043267.xyz:8283^
 ||svckl.043420.xyz:8283^
 ||svckl.043932.xyz:8283^
