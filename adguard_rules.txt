@@ -320,6 +320,7 @@
 ||dd.mhllv.com^
 ||dd.mkdkiv.com^
 ||dd.mktli.com^
+||dd.nanyaw.com^
 ||dd.ncxjv.com^
 ||dd.ndjgit.com^
 ||dd.nhsjmx.com^
