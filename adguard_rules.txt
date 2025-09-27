@@ -1181,6 +1181,7 @@
 ||ql2dzw.ymnbsyf.cn^
 ||qq.jhvbj.com^
 ||qrxb85.top^
+||qsmmzg.sfsbtxx.cn^
 ||qv.ssountw.com^
 ||qx.priejames.com^
 ||r0h6ub.qukwyz.cn^
@@ -1283,6 +1284,7 @@
 ||svckl.047975.xyz:8283^
 ||svckl.048883.xyz:8283^
 ||svckl.048911.xyz:8283^
+||svckl.048977.xyz:8283^
 ||svckl.049261.xyz:8283^
 ||svckl.049375.xyz:8283^
 ||svckl.650366.xyz:8283^
