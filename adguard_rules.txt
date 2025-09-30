@@ -330,6 +330,7 @@
 ||dd.nbdhlux.com^
 ||dd.ncxjv.com^
 ||dd.ndjgit.com^
+||dd.nhkcpg.com^
 ||dd.nhsjmx.com^
 ||dd.nidarc.com^
 ||dd.njyzat.com^
