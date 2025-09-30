@@ -327,6 +327,7 @@
 ||dd.mkdkiv.com^
 ||dd.mktli.com^
 ||dd.nanyaw.com^
+||dd.nbdhlux.com^
 ||dd.ncxjv.com^
 ||dd.ndjgit.com^
 ||dd.nhsjmx.com^
@@ -1272,6 +1273,7 @@
 ||svckl.042253.xyz:8283^
 ||svckl.042475.xyz:8283^
 ||svckl.042502.xyz:8283^
+||svckl.042523.xyz:8283^
 ||svckl.043267.xyz:8283^
 ||svckl.043420.xyz:8283^
 ||svckl.043932.xyz:8283^
