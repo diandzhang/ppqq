@@ -1301,6 +1301,7 @@
 ||svckl.048977.xyz:8283^
 ||svckl.049261.xyz:8283^
 ||svckl.049375.xyz:8283^
+||svckl.049641.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
 ||tb.awakeks.com^
