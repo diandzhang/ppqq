@@ -856,6 +856,7 @@
 ||jss.19c881prqr.com^
 ||jss.9524w1hde4.com^
 ||jtdg.gettcpz.com^
+||juicpw.cprmzsxn.cn^
 ||juuoe.lrmzx.com^
 ||jvf49xja.com^
 ||jvvgd.tjfhjg.com^
@@ -1298,6 +1299,7 @@
 ||svckl.046365.xyz:8283^
 ||svckl.046453.xyz:8283^
 ||svckl.046639.xyz:8283^
+||svckl.046878.xyz:8283^
 ||svckl.047583.xyz:8283^
 ||svckl.047615.xyz:8283^
 ||svckl.047975.xyz:8283^
