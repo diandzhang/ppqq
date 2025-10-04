@@ -402,6 +402,7 @@
 ||du2m2.xyz^
 ||dune.lxxwlkji.com^
 ||dyaldy.cc^
+||e0mk53.hasitzrt.cn^
 ||e1ud7e.cc^
 ||e6gqsx.msypdsw.cn^
 ||e9xd6r.cc^
@@ -1284,6 +1285,7 @@
 ||svckl.042475.xyz:8283^
 ||svckl.042502.xyz:8283^
 ||svckl.042523.xyz:8283^
+||svckl.042848.xyz:8283^
 ||svckl.043267.xyz:8283^
 ||svckl.043420.xyz:8283^
 ||svckl.043932.xyz:8283^
