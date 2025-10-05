@@ -376,6 +376,7 @@
 ||dd.wgdhv.com^
 ||dd.wmjrgl.com^
 ||dd.wnqinm.com^
+||dd.wnsszk.com^
 ||dd.wvrve.com^
 ||dd.yctxsoft.com^
 ||dd.ylyzfw.com^
@@ -1434,6 +1435,7 @@
 ||vedle.043181.cc:8283^
 ||vedle.044788.cc:8283^
 ||vedle.049612.cc:8283^
+||vedle.574256.xyz:8283^
 ||vedle.574367.xyz:8283^
 ||vedle.574694.xyz:8283^
 ||vedle.730113.xyz:8283^
