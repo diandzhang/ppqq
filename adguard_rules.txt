@@ -248,6 +248,7 @@
 ||cfg10u.qaywik.cn^
 ||chat-img.oss-cn-quanzhou2.huweicloud.cn^
 ||clv1ol.top^
+||cmyoha.bdwcnst.cn^
 ||cqoyb3d2.com^
 ||d1a79dmpkxhpp3.cloudfront.net^
 ||d2ch4u.vbuqzh.cn^
@@ -1306,6 +1307,7 @@
 ||svckl.046878.xyz:8283^
 ||svckl.047583.xyz:8283^
 ||svckl.047615.xyz:8283^
+||svckl.047869.xyz:8283^
 ||svckl.047975.xyz:8283^
 ||svckl.048883.xyz:8283^
 ||svckl.048911.xyz:8283^
