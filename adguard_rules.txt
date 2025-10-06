@@ -1175,6 +1175,7 @@
 ||oss1.trafficmanager.net^
 ||oss2.trafficmanager.net^
 ||oss5.trafficmanager.net^
+||otbeqf.kpfepah.cn^
 ||oylghrh.top^
 ||p2l7w1.cbpjnhd.cn^
 ||p3frnz.ppgcux.cn^
@@ -1285,6 +1286,7 @@
 ||svckl.040380.xyz:8283^
 ||svckl.040603.xyz:8283^
 ||svckl.041390.xyz:8283^
+||svckl.042002.xyz:8283^
 ||svckl.042253.xyz:8283^
 ||svckl.042475.xyz:8283^
 ||svckl.042502.xyz:8283^
@@ -1439,6 +1441,7 @@
 ||vedle.043181.cc:8283^
 ||vedle.044788.cc:8283^
 ||vedle.049612.cc:8283^
+||vedle.574130.xyz:8283^
 ||vedle.574256.xyz:8283^
 ||vedle.574367.xyz:8283^
 ||vedle.574694.xyz:8283^
