@@ -1300,6 +1300,7 @@
 ||svckl.044069.xyz:8283^
 ||svckl.044231.xyz:8283^
 ||svckl.044663.xyz:8283^
+||svckl.044838.xyz:8283^
 ||svckl.045094.xyz:8283^
 ||svckl.045221.xyz:8283^
 ||svckl.045680.xyz:8283^
@@ -1623,6 +1624,7 @@
 ||xut9.cc^
 ||xy.xqxzl.com^
 ||xz6ortp1q.com^
+||y03280.kbptsx.cn^
 ||yb1lkp.cc^
 ||yc50s4.uwjscz.cn^
 ||yese39.com^
