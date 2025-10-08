@@ -332,6 +332,7 @@
 ||dd.mhllv.com^
 ||dd.mkdkiv.com^
 ||dd.mktli.com^
+||dd.mzihuyu.com^
 ||dd.nanyaw.com^
 ||dd.nbdhlux.com^
 ||dd.ncxjv.com^
@@ -1432,6 +1433,7 @@
 ||vb4dw7.bxrhzmd.cn^
 ||vd.rockapc.com^
 ||vedle.032180.xyz:8283^
+||vedle.032446.xyz:8283^
 ||vedle.033210.xyz:8283^
 ||vedle.033320.xyz:8283^
 ||vedle.033741.xyz:8283^
