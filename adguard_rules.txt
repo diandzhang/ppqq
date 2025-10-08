@@ -482,6 +482,7 @@
 ||gj5854fvh846.jinliantongxin.com^
 ||gk.fggejb.com^
 ||glcjt7.mzixvo.cn^
+||gmykut.jbfnwq.cn^
 ||gs.cuiln.com^
 ||gtsb1j.top^
 ||gvmsci.rzyjed.cn^
@@ -1291,6 +1292,7 @@
 ||svckl.041390.xyz:8283^
 ||svckl.042002.xyz:8283^
 ||svckl.042253.xyz:8283^
+||svckl.042460.xyz:8283^
 ||svckl.042475.xyz:8283^
 ||svckl.042502.xyz:8283^
 ||svckl.042523.xyz:8283^
