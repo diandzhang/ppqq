@@ -84,6 +84,7 @@
 ||683825.lol^
 ||6ao91p.cc^
 ||6ckf7x.dxnicq.cn^
+||6umn9z.ttkity.cn^
 ||71mx7ggv5.com:8308^
 ||728127.xyz^
 ||737zbjj.xyz^
@@ -1324,6 +1325,7 @@
 ||svckl.048883.xyz:8283^
 ||svckl.048911.xyz:8283^
 ||svckl.048977.xyz:8283^
+||svckl.049063.xyz:8283^
 ||svckl.049261.xyz:8283^
 ||svckl.049375.xyz:8283^
 ||svckl.049641.xyz:8283^
@@ -1441,6 +1443,7 @@
 ||vedle.033210.xyz:8283^
 ||vedle.033320.xyz:8283^
 ||vedle.033741.xyz:8283^
+||vedle.034181.xyz:8283^
 ||vedle.034248.xyz:8283^
 ||vedle.037138.xyz:8283^
 ||vedle.037302.xyz:8283^
