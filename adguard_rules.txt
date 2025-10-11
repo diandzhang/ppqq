@@ -376,6 +376,7 @@
 ||dd.rscxgl.com^
 ||dd.rsjkhc.com^
 ||dd.rxbnw.com^
+||dd.sdykpz.com^
 ||dd.sitfde.com^
 ||dd.sxzcr.com^
 ||dd.tjsmbh.com^
@@ -1458,6 +1459,7 @@
 ||vedle.038223.xyz:8283^
 ||vedle.039036.xyz:8283^
 ||vedle.039770.xyz:8283^
+||vedle.039974.xyz:8283^
 ||vedle.043181.cc:8283^
 ||vedle.044788.cc:8283^
 ||vedle.049612.cc:8283^
