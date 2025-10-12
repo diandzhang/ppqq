@@ -255,6 +255,7 @@
 ||d1a79dmpkxhpp3.cloudfront.net^
 ||d2ch4u.vbuqzh.cn^
 ||d4bibo.xffdl.cn^
+||d64vez.ycnrhrfc.cn^
 ||d6zxhu.lqyksu.cn^
 ||dd.a0ua.com^
 ||dd.ahlxct.com^
@@ -1320,6 +1321,7 @@
 ||svckl.044838.xyz:8283^
 ||svckl.045094.xyz:8283^
 ||svckl.045221.xyz:8283^
+||svckl.045467.xyz:8283^
 ||svckl.045680.xyz:8283^
 ||svckl.045681.xyz:8283^
 ||svckl.046093.xyz:8283^
@@ -1457,6 +1459,7 @@
 ||vedle.033741.xyz:8283^
 ||vedle.034181.xyz:8283^
 ||vedle.034248.xyz:8283^
+||vedle.034354.xyz:8283^
 ||vedle.037138.xyz:8283^
 ||vedle.037302.xyz:8283^
 ||vedle.037650.xyz:8283^
