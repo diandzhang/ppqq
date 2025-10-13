@@ -306,6 +306,7 @@
 ||dd.gttzpu.com^
 ||dd.guangnashiye.com^
 ||dd.gubojiao.com^
+||dd.gxyljyw.com^
 ||dd.gzkaos.com^
 ||dd.hbastn.com^
 ||dd.hbcfzzj.com^
