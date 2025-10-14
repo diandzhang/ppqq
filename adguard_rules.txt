@@ -38,6 +38,7 @@
 ||2my917.afzysc.cn^
 ||2rros9.tutpdp.cn^
 ||2rwpcu.rpwjdxh.cn^
+||2uldup.pnoaxgg.com^
 ||2v4m9f.cc^
 ||307935.vip^
 ||30edhr.cc^
@@ -1323,6 +1324,7 @@
 ||svckl.044069.xyz:8283^
 ||svckl.044231.xyz:8283^
 ||svckl.044663.xyz:8283^
+||svckl.044771.xyz:8283^
 ||svckl.044838.xyz:8283^
 ||svckl.045094.xyz:8283^
 ||svckl.045221.xyz:8283^
