@@ -362,6 +362,7 @@
 ||dd.ptbxrc.com^
 ||dd.ptrlzy.com^
 ||dd.pymybj.com^
+||dd.qaxaby.com^
 ||dd.qbfsss.com^
 ||dd.qbgjkw.com^
 ||dd.qclpyb.com^
