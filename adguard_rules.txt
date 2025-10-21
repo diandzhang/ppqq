@@ -382,6 +382,7 @@
 ||dd.qzctjt.com^
 ||dd.qzcyfw.com^
 ||dd.qzgycn.com^
+||dd.qzjxnj.com^
 ||dd.rcfkyy.com^
 ||dd.rcgdzc.com^
 ||dd.rdvdg.com^
@@ -1599,6 +1600,7 @@
 ||wovbl.039328.xyz:8283^
 ||wovbl.574046.xyz:8283^
 ||wovbl.574373.xyz:8283^
+||wovbl.574971.xyz:8283^
 ||wqyl9t.cc^
 ||wuyif.xyz^
 ||wuyih.xyz^
