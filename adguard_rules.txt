@@ -247,6 +247,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.875337.com^
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
+||bxert.043214.xyz:8283^
 ||bxert.048106.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||byf3xp.paeqwa.cn^
@@ -396,6 +397,7 @@
 ||dd.rxbnw.com^
 ||dd.sdykpz.com^
 ||dd.sitfde.com^
+||dd.sqoccp.com^
 ||dd.sxzcr.com^
 ||dd.thglgc.com^
 ||dd.tjsmbh.com^
@@ -1696,6 +1698,7 @@
 ||xz6ortp1q.com^
 ||y03280.kbptsx.cn^
 ||yb1lkp.cc^
+||ybcgvq.dyfeodh.com^
 ||yc50s4.uwjscz.cn^
 ||yese39.com^
 ||yhk.depeish.com^
