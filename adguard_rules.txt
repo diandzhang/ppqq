@@ -248,6 +248,7 @@
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
 ||bxert.043214.xyz:8283^
+||bxert.046011.xyz:8283^
 ||bxert.048106.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||byf3xp.paeqwa.cn^
@@ -1239,6 +1240,7 @@
 ||ppogfugfhbd84dgnfdusf.fanyou.vip^
 ||prbjsb.cc^
 ||pt3s9j.pzcrthm.cn^
+||pu5aqz.eujuska.com^
 ||q4ibjs.bytabiw.cn^
 ||q4q5u.cc^
 ||q567ft.wajebw.cn^
@@ -1601,6 +1603,7 @@
 ||wovbl.039328.xyz:8283^
 ||wovbl.574046.xyz:8283^
 ||wovbl.574373.xyz:8283^
+||wovbl.574413.xyz:8283^
 ||wovbl.574971.xyz:8283^
 ||wqyl9t.cc^
 ||wuyif.xyz^
