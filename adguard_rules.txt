@@ -247,6 +247,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.875337.com^
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
+||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
 ||bxert.046011.xyz:8283^
 ||bxert.048106.xyz:8283^
@@ -1485,6 +1486,7 @@
 ||upbyunm.top^
 ||us4ddt.xjrisdh.cn^
 ||utjqbw.top^
+||ux1ezf.htoewtb.com^
 ||v2tv74.buaalc.cn^
 ||v4ej07.cc^
 ||v84p62.cc^
