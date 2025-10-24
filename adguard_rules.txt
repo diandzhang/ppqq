@@ -250,6 +250,7 @@
 ||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
 ||bxert.046011.xyz:8283^
+||bxert.047100.xyz:8283^
 ||bxert.048106.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||byf3xp.paeqwa.cn^
@@ -1209,6 +1210,7 @@
 ||nn.tgnxc.com^
 ||nn.ttklq.com^
 ||nn.zwzno.com^
+||no43hy.hjnmhb.com^
 ||nome4o.avppcv.cn^
 ||nqn5q2.sfpyyh.cn^
 ||ntdnlc.icdgsr.cn^
