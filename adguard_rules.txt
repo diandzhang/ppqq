@@ -428,6 +428,7 @@
 ||dd.xxipgwx.com^
 ||dd.xykszx.com^
 ||dd.yctxsoft.com^
+||dd.yfgwbn.com^
 ||dd.ylbxyt.com^
 ||dd.ylyzfw.com^
 ||dd.ymrqgs.com^
@@ -1615,6 +1616,7 @@
 ||wovbl.574413.xyz:8283^
 ||wovbl.574504.xyz:8283^
 ||wovbl.574514.xyz:8283^
+||wovbl.574955.xyz:8283^
 ||wovbl.574971.xyz:8283^
 ||wqyl9t.cc^
 ||wuyif.xyz^
