@@ -74,6 +74,7 @@
 ||51zb60.xyz^
 ||51zb66.xyz^
 ||51zb67.xyz^
+||531jhx.dxbomai.com^
 ||539330.xyz^
 ||54bsv.pw^
 ||54yoal.azmnpnn.cn^
@@ -1615,6 +1616,7 @@
 ||wovbl.038575.xyz:8283^
 ||wovbl.039328.xyz:8283^
 ||wovbl.574046.xyz:8283^
+||wovbl.574310.xyz:8283^
 ||wovbl.574373.xyz:8283^
 ||wovbl.574413.xyz:8283^
 ||wovbl.574504.xyz:8283^
