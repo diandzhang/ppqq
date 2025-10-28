@@ -249,6 +249,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.875337.com^
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
+||bxert.042238.xyz:8283^
 ||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
 ||bxert.046011.xyz:8283^
@@ -1731,6 +1732,7 @@
 ||xy.xqxzl.com^
 ||xz6ortp1q.com^
 ||y03280.kbptsx.cn^
+||y8hbnr.hlyxdst.com^
 ||yb1lkp.cc^
 ||ybcgvq.dyfeodh.com^
 ||yc50s4.uwjscz.cn^
