@@ -378,6 +378,7 @@
 ||dd.nmmxdl.com^
 ||dd.nnxhbx.com^
 ||dd.npxpt.com^
+||dd.odehdv.com^
 ||dd.ofikgy.com^
 ||dd.ogukq.com^
 ||dd.oxwvdq.com^
@@ -1623,6 +1624,7 @@
 ||wovbl.035739.xyz:8283^
 ||wovbl.037410.xyz:8283^
 ||wovbl.037941.xyz:8283^
+||wovbl.038158.xyz:8283^
 ||wovbl.038575.xyz:8283^
 ||wovbl.039328.xyz:8283^
 ||wovbl.574046.xyz:8283^
