@@ -454,6 +454,7 @@
 ||dd.ymrqgs.com^
 ||dd.ynjhej.com^
 ||dd.yxqbxg.com^
+||dd.yydexx.com^
 ||dd.zcrlx.com^
 ||dd.zghbcn.com^
 ||dd.zvqriwc.com^
@@ -1631,6 +1632,7 @@
 ||wovbl.031806.xyz:8283^
 ||wovbl.033094.xyz:8283^
 ||wovbl.033732.xyz:8283^
+||wovbl.033894.xyz:8283^
 ||wovbl.034176.xyz:8283^
 ||wovbl.035739.xyz:8283^
 ||wovbl.036040.xyz:8283^
