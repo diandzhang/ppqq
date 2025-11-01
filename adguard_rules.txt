@@ -260,6 +260,7 @@
 ||bxert.046656.xyz:8283^
 ||bxert.047100.xyz:8283^
 ||bxert.048106.xyz:8283^
+||bxert.048473.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||byf3xp.paeqwa.cn^
 ||c1j55hwr.vip^
@@ -1625,6 +1626,7 @@
 ||vu.6428x3.com^
 ||w44y44.xpreda.cn^
 ||wbkfrl.tmbkdir.cn^
+||wc46sb.frutbzb.com^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
 ||wn.sxfqhcx.com^
