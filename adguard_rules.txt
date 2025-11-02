@@ -249,6 +249,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.802243.lol^
 ||bwqld2l6o3vkev9kw1kiyhyrq.875337.com^
 ||bxert.040797.xyz:8283^
+||bxert.041472.xyz:8283^
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
 ||bxert.042238.xyz:8283^
@@ -1510,6 +1511,7 @@
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
 ||u25khx.sylefq.cn^
+||u2p938.hhdfboz.com^
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
 ||u9xi8.top^
@@ -1633,6 +1635,7 @@
 ||wn.sxfqhcx.com^
 ||wovbl.031653.xyz:8283^
 ||wovbl.031806.xyz:8283^
+||wovbl.032422.xyz:8283^
 ||wovbl.033094.xyz:8283^
 ||wovbl.033732.xyz:8283^
 ||wovbl.033894.xyz:8283^
