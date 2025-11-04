@@ -340,6 +340,7 @@
 ||dd.hbastn.com^
 ||dd.hbcfzzj.com^
 ||dd.hbcqbj.com^
+||dd.hbgsdg.com^
 ||dd.hbmsfl.com^
 ||dd.hbqjlx.com^
 ||dd.hchoushi.com^
