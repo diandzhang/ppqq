@@ -255,6 +255,7 @@
 ||bxert.042238.xyz:8283^
 ||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
+||bxert.043929.xyz:8283^
 ||bxert.046011.xyz:8283^
 ||bxert.046038.xyz:8283^
 ||bxert.046139.xyz:8283^
@@ -1203,6 +1204,7 @@
 ||mdpl.uwzf1ziqwu.com^
 ||mdsu.sysixgj.com^
 ||me.nindyseo.com^
+||mg5a9s.vinxphx.com^
 ||mgbd3v.hlrrxia.com^
 ||mgji6dffdsdnc.jinliantongxin.com^
 ||mgjigfuhgdnc.jinliantongxin.com^
