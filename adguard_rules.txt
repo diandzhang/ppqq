@@ -250,6 +250,7 @@
 ||bwqld2l6o3vkev9kw1kiyhyrq.875337.com^
 ||bxert.040797.xyz:8283^
 ||bxert.041472.xyz:8283^
+||bxert.041478.xyz:8283^
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
 ||bxert.042238.xyz:8283^
