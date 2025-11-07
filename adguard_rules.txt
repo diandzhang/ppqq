@@ -1648,6 +1648,7 @@
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
 ||wn.sxfqhcx.com^
+||wovbl.030492.xyz:8283^
 ||wovbl.031653.xyz:8283^
 ||wovbl.031806.xyz:8283^
 ||wovbl.032422.xyz:8283^
