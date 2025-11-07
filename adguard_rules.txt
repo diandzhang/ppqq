@@ -257,6 +257,7 @@
 ||bxert.042238.xyz:8283^
 ||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
+||bxert.043398.xyz:8283^
 ||bxert.043929.xyz:8283^
 ||bxert.046011.xyz:8283^
 ||bxert.046038.xyz:8283^
@@ -613,6 +614,7 @@
 ||ib99pj.wftfmjk.cn^
 ||iepjo5.cc^
 ||iftin5.cc^
+||ihltwx.rwspwo.com^
 ||iq1yhd.top^
 ||is78wx.cn^
 ||ivdo72.cc^
