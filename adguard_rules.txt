@@ -271,6 +271,7 @@
 ||bxert.048473.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||bxert.049015.xyz:8283^
+||bxert.049220.xyz:8283^
 ||byf3xp.paeqwa.cn^
 ||c1j55hwr.vip^
 ||c4ux27.xsdmnsj.cn^
@@ -1269,6 +1270,7 @@
 ||nzps2j.zihczu.cn^
 ||o0ys2pa2z0ou.xyz:8443^
 ||o1qivv.obeeem.cn^
+||o45qd1.bsunsl.com^
 ||o49648o.cc^
 ||o51ds0.qsufbt.cn^
 ||o7fioz.phceelf.com^
