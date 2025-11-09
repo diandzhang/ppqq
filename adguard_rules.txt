@@ -294,6 +294,7 @@
 ||dd.aspnz.com^
 ||dd.bfpwp.com^
 ||dd.biswx.com^
+||dd.bjopst.com^
 ||dd.buoxdr.com^
 ||dd.byilz.com^
 ||dd.calnbx.com^
