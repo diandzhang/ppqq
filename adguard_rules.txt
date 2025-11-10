@@ -271,6 +271,7 @@
 ||bxert.048473.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||bxert.049015.xyz:8283^
+||bxert.049202.xyz:8283^
 ||bxert.049220.xyz:8283^
 ||byf3xp.paeqwa.cn^
 ||c1j55hwr.vip^
