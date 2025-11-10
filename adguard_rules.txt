@@ -374,6 +374,7 @@
 ||dd.kswyjl.com^
 ||dd.ktcax.com^
 ||dd.ktuvp.com^
+||dd.latlaser.com^
 ||dd.lghdmq.com^
 ||dd.lhxddr.com^
 ||dd.llnnln.com^
