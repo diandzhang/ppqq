@@ -260,6 +260,7 @@
 ||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
 ||bxert.043398.xyz:8283^
+||bxert.043573.xyz:8283^
 ||bxert.043929.xyz:8283^
 ||bxert.046011.xyz:8283^
 ||bxert.046038.xyz:8283^
@@ -404,6 +405,7 @@
 ||dd.nllaq.com^
 ||dd.nmmxdl.com^
 ||dd.nnxhbx.com^
+||dd.npspkvn.com^
 ||dd.npxpt.com^
 ||dd.odehdv.com^
 ||dd.ofikgy.com^
@@ -607,6 +609,7 @@
 ||hn.gzcczszy.com^
 ||hnizuk.njkhsw.cn^
 ||hpp2.kbwomj.xyz^
+||hqsdzx.esadwds.cn^
 ||hrmg.senyfqy.com^
 ||htjs.demshen.com^
 ||htjs.senyzsy.com^
