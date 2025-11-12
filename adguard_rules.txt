@@ -254,6 +254,7 @@
 ||bxert.040797.xyz:8283^
 ||bxert.041472.xyz:8283^
 ||bxert.041478.xyz:8283^
+||bxert.041865.xyz:8283^
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
 ||bxert.042238.xyz:8283^
@@ -1813,6 +1814,7 @@
 ||zntppo.rxmrns.cn^
 ||zspcyb.khacrkt.cn^
 ||ztjtmt.sqjbfh.cn^
+||zu0qlf.kjsbtbp.cn^
 ||zuoazf.jhyfsz.cn^
 ||zuvur9.jmwanhb.cn^
 ||zw.bpretraga.com^
