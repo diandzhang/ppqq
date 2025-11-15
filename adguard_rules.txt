@@ -259,6 +259,7 @@
 ||bxert.042068.xyz:8283^
 ||bxert.042232.xyz:8283^
 ||bxert.042238.xyz:8283^
+||bxert.042338.xyz:8283^
 ||bxert.043127.xyz:8283^
 ||bxert.043214.xyz:8283^
 ||bxert.043398.xyz:8283^
