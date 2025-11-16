@@ -273,6 +273,7 @@
 ||bxert.047100.xyz:8283^
 ||bxert.048106.xyz:8283^
 ||bxert.048473.xyz:8283^
+||bxert.048658.xyz:8283^
 ||bxert.048853.xyz:8283^
 ||bxert.049015.xyz:8283^
 ||bxert.049202.xyz:8283^
@@ -990,6 +991,7 @@
 ||jvf49xja.com^
 ||jvvgd.tjfhjg.com^
 ||jwcc.tqnulw.com^
+||jx1gqv.jctncynn.cn^
 ||jxawt.xawtfx.com^
 ||jxmsj.xmsjds.com^
 ||jydn9k.lkaoxk.com^
