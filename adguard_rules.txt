@@ -283,6 +283,7 @@
 ||byf3xp.paeqwa.cn^
 ||c1j55hwr.vip^
 ||c4ux27.xsdmnsj.cn^
+||c6pyr3.wdskzxi.cn^
 ||c9jn5w.izqqwj.cn^
 ||cfg10u.qaywik.cn^
 ||chat-img.oss-cn-quanzhou2.huweicloud.cn^
@@ -601,6 +602,7 @@
 ||gk.fggejb.com^
 ||glcjt7.mzixvo.cn^
 ||gmykut.jbfnwq.cn^
+||gnyvz.041153.xyz:8283^
 ||gnyvz.044801.xyz:8283^
 ||gs.cuiln.com^
 ||gtsb1j.top^
