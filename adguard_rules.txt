@@ -1431,6 +1431,7 @@
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
 ||svazk.032457.xyz:8283^
+||svazk.032903.xyz:8283^
 ||svckl.040229.xyz:8283^
 ||svckl.040380.xyz:8283^
 ||svckl.040603.xyz:8283^
