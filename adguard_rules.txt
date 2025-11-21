@@ -508,6 +508,7 @@
 ||dd.zcrlx.com^
 ||dd.zddnas.com^
 ||dd.zghbcn.com^
+||dd.zpdrcl.com^
 ||dd.zvqriwc.com^
 ||dd.zybhyy.com^
 ||dd33.zsyds.com.cn^
