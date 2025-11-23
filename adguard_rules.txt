@@ -465,6 +465,7 @@
 ||dd.sqsczf.com^
 ||dd.sxzcr.com^
 ||dd.tfqpay.com^
+||dd.tfysjs.com^
 ||dd.tfzggc.com^
 ||dd.thglgc.com^
 ||dd.tjsmbh.com^
