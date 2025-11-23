@@ -616,6 +616,7 @@
 ||gnyvz.044801.xyz:8283^
 ||gnyvz.046627.xyz:8283^
 ||gnyvz.048486.xyz:8283^
+||gnyvz.048529.xyz:8283^
 ||gs.cuiln.com^
 ||gtsb1j.top^
 ||gvmsci.rzyjed.cn^
@@ -1445,6 +1446,7 @@
 ||svazk.032404.xyz:8283^
 ||svazk.032457.xyz:8283^
 ||svazk.032903.xyz:8283^
+||svazk.036517.xyz:8283^
 ||svazk.036819.xyz:8283^
 ||svazk.039909.xyz:8283^
 ||svckl.040229.xyz:8283^
@@ -1708,6 +1710,7 @@
 ||wc46sb.frutbzb.com^
 ||wh.sntckm.com^
 ||whdn.ydykjgs.com^
+||wirn4q.ngbsstl.cn^
 ||wn.sxfqhcx.com^
 ||wovbl.030492.xyz:8283^
 ||wovbl.031653.xyz:8283^
