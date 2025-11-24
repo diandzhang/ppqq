@@ -620,6 +620,7 @@
 ||gnyvz.042642.xyz:8283^
 ||gnyvz.044801.xyz:8283^
 ||gnyvz.046627.xyz:8283^
+||gnyvz.047023.xyz:8283^
 ||gnyvz.048486.xyz:8283^
 ||gnyvz.048529.xyz:8283^
 ||gs.cuiln.com^
@@ -1503,6 +1504,7 @@
 ||svckl.049641.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
+||t9peaz.fsrbzaai.cn^
 ||tb.awakeks.com^
 ||tb.cvyyc.com^
 ||tb.iwqjk.com^
