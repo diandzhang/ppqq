@@ -1623,6 +1623,7 @@
 ||v84p62.cc^
 ||vb4dw7.bxrhzmd.cn^
 ||vd.rockapc.com^
+||vdyhn6.nmvhqy.cn^
 ||vedle.032180.xyz:8283^
 ||vedle.032446.xyz:8283^
 ||vedle.032926.xyz:8283^
@@ -1857,6 +1858,7 @@
 ||xinc.035879.xyz:8283^
 ||xinc.037447.xyz:8283^
 ||xinc.038573.xyz:8283^
+||xinj.045530.xyz:8283^
 ||xinj.047503.xyz:8283^
 ||xinj.048336.xyz:8283^
 ||xkrp4k.vgmpwb.cn^
