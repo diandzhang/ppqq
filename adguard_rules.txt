@@ -469,6 +469,7 @@
 ||dd.sqoccp.com^
 ||dd.sqsczf.com^
 ||dd.sxzcr.com^
+||dd.tfopay.com^
 ||dd.tfqpay.com^
 ||dd.tfysjs.com^
 ||dd.tfzggc.com^
