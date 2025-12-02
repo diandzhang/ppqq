@@ -329,6 +329,7 @@
 ||dd.dlhydm.com^
 ||dd.dloru.com^
 ||dd.dr1c.com^
+||dd.drdgd.com^
 ||dd.ds0001.com^
 ||dd.dxbvu.com^
 ||dd.dzhyffm.com^
