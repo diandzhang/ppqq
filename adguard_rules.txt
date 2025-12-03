@@ -475,6 +475,7 @@
 ||dd.tfysjs.com^
 ||dd.tfzggc.com^
 ||dd.tgjxcn.com^
+||dd.tgmyxs.com^
 ||dd.thglgc.com^
 ||dd.thrhhn.com^
 ||dd.thsjys.com^
@@ -1870,6 +1871,7 @@
 ||xinc.891080.xyz:8283^
 ||xinc.892375.xyz:8283^
 ||xinc.894217.xyz:8283^
+||xinj.041233.xyz:8283^
 ||xinj.041399.xyz:8283^
 ||xinj.045530.xyz:8283^
 ||xinj.046474.xyz:8283^
