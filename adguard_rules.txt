@@ -649,6 +649,7 @@
 ||h4nsj.dcunh.com^
 ||h9r97m.meeeiwi.cn^
 ||hc.ohkff.com^
+||hcfivg.yjynsri.cn^
 ||hdg25.live:8888^
 ||hdg26.live:8888^
 ||hdzi5u.akhbqk.cn^
@@ -1878,6 +1879,7 @@
 ||xinc.896710.xyz:8283^
 ||xinj.041233.xyz:8283^
 ||xinj.041399.xyz:8283^
+||xinj.043971.xyz:8283^
 ||xinj.045530.xyz:8283^
 ||xinj.046474.xyz:8283^
 ||xinj.047503.xyz:8283^
