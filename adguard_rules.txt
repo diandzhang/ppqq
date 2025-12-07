@@ -526,6 +526,7 @@
 ||dd.yzdysk.com^
 ||dd.yzmdzh.com^
 ||dd.yztbyj.com^
+||dd.yzxchd.com^
 ||dd.yzyfqb.com^
 ||dd.zbjxsj.com^
 ||dd.zbxrdw.com^
