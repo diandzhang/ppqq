@@ -314,6 +314,7 @@
 ||dd.biswx.com^
 ||dd.bjhpxd.com^
 ||dd.bjopst.com^
+||dd.bqarcn.com^
 ||dd.bstdbg.com^
 ||dd.buoxdr.com^
 ||dd.byilz.com^
