@@ -1657,6 +1657,7 @@
 ||u9ox7bc8f4yf.xyz:8443^
 ||u9xi8.top^
 ||ud33ar.cemaeyd.cn^
+||uedotb.jahhsan.cn^
 ||uf.dftdhk.com^
 ||uj13x9.iniydb.cn^
 ||upbyunm.top^
@@ -1928,6 +1929,7 @@
 ||xinj.043971.xyz:8283^
 ||xinj.045530.xyz:8283^
 ||xinj.046474.xyz:8283^
+||xinj.047286.xyz:8283^
 ||xinj.047503.xyz:8283^
 ||xinj.048055.xyz:8283^
 ||xinj.048336.xyz:8283^
