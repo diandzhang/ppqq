@@ -292,6 +292,7 @@
 ||bxert.049638.xyz:8283^
 ||byf3xp.paeqwa.cn^
 ||c1j55hwr.vip^
+||c1vhya.ettxnbdt.cn^
 ||c4ux27.xsdmnsj.cn^
 ||c6pyr3.wdskzxi.cn^
 ||c9jn5w.izqqwj.cn^
@@ -1930,6 +1931,7 @@
 ||xinj.041399.xyz:8283^
 ||xinj.043971.xyz:8283^
 ||xinj.045530.xyz:8283^
+||xinj.045549.xyz:8283^
 ||xinj.046474.xyz:8283^
 ||xinj.047286.xyz:8283^
 ||xinj.047503.xyz:8283^
