@@ -639,6 +639,7 @@
 ||feinvie.739217.xyz:8283^
 ||feinvie.739421.xyz:8283^
 ||feinvie.739816.xyz:8283^
+||ffv6r2.cwhpbzh.cn^
 ||fggmubmq.o9qi6hlb.top?iv=70005^
 ||fgrdc.7sgzu.com^
 ||fgth.7vhhg.cc^
@@ -1939,6 +1940,7 @@
 ||xinj.047503.xyz:8283^
 ||xinj.048055.xyz:8283^
 ||xinj.048336.xyz:8283^
+||xinj.049298.xyz:8283^
 ||xinj.049761.xyz:8283^
 ||xkrp4k.vgmpwb.cn^
 ||xro34o.gadkx.cn^
