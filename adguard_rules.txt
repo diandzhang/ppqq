@@ -369,6 +369,7 @@
 ||dd.gdvcjy.com^
 ||dd.gfruh.com^
 ||dd.glsdhw.com^
+||dd.goxhci.com^
 ||dd.gqnqe.com^
 ||dd.grjlfw.com^
 ||dd.grkhxshdpt.com^
@@ -1919,6 +1920,7 @@
 ||xinc.037447.xyz:8283^
 ||xinc.038573.xyz:8283^
 ||xinc.434908.xyz:8283^
+||xinc.436341.xyz:8283^
 ||xinc.438853.xyz:8283^
 ||xinc.439673.xyz:8283^
 ||xinc.890625.xyz:8283^
