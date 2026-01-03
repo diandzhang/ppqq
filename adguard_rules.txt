@@ -562,6 +562,7 @@
 ||dd.yukvsi.com^
 ||dd.yulinp.com^
 ||dd.yupggd.com^
+||dd.yvhoyh.com^
 ||dd.ywbxkn.com^
 ||dd.yxpltc.com^
 ||dd.yxqbxg.com^
@@ -1955,6 +1956,7 @@
 ||xinc.435700.xyz:8283^
 ||xinc.436341.xyz:8283^
 ||xinc.437165.xyz:8283^
+||xinc.438748.xyz:8283^
 ||xinc.438853.xyz:8283^
 ||xinc.439673.xyz:8283^
 ||xinc.890625.xyz:8283^
