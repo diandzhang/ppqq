@@ -514,6 +514,7 @@
 ||dd.tnfjnb.com^
 ||dd.tnjcie.com^
 ||dd.tnvpay.com^
+||dd.tnzpay.com^
 ||dd.toollt.com^
 ||dd.tpjdzy.com^
 ||dd.tpsyuu.com^
