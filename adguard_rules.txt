@@ -538,6 +538,7 @@
 ||dd.wmjrgl.com^
 ||dd.wnqinm.com^
 ||dd.wnsszk.com^
+||dd.wppivng.com^
 ||dd.wvrve.com^
 ||dd.wzfgzf.com^
 ||dd.xicxhe.com^
@@ -1950,6 +1951,7 @@
 ||xinc.412969.xyz:8283^
 ||xinc.413276.xyz:8283^
 ||xinc.414224.xyz:8283^
+||xinc.414409.xyz:8283^
 ||xinc.414410.xyz:8283^
 ||xinc.414930.xyz:8283^
 ||xinc.415118.xyz:8283^
@@ -2004,6 +2006,7 @@
 ||xinj.041233.xyz:8283^
 ||xinj.041399.xyz:8283^
 ||xinj.041649.xyz:8283^
+||xinj.041741.xyz:8283^
 ||xinj.042071.xyz:8283^
 ||xinj.043295.xyz:8283^
 ||xinj.043834.xyz:8283^
