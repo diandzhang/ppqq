@@ -467,6 +467,7 @@
 ||dd.qaxaby.com^
 ||dd.qbfsss.com^
 ||dd.qbgjkw.com^
+||dd.qblwcj.com^
 ||dd.qclpyb.com^
 ||dd.qdhhwy.com^
 ||dd.qifjs.com^
@@ -1968,6 +1969,7 @@
 ||xinc.419596.xyz:8283^
 ||xinc.430775.xyz:8283^
 ||xinc.431423.xyz:8283^
+||xinc.431714.xyz:8283^
 ||xinc.431953.xyz:8283^
 ||xinc.432170.xyz:8283^
 ||xinc.432463.xyz:8283^
