@@ -510,6 +510,7 @@
 ||dd.tfysjs.com^
 ||dd.tfzggc.com^
 ||dd.tgjxcn.com^
+||dd.tglnxx.com^
 ||dd.tgmyxs.com^
 ||dd.thbkxm.com^
 ||dd.thglgc.com^
