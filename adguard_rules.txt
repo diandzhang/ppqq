@@ -554,6 +554,7 @@
 ||dd.xjjapv.com^
 ||dd.xjsjyc.com^
 ||dd.xjtfzl.com^
+||dd.xjthwy.com^
 ||dd.xkbqzj.com^
 ||dd.xldabg.com^
 ||dd.xllfgg.com^
@@ -1976,6 +1977,7 @@
 ||xinc.417455.xyz:8283^
 ||xinc.419168.xyz:8283^
 ||xinc.419596.xyz:8283^
+||xinc.419735.xyz:8283^
 ||xinc.430775.xyz:8283^
 ||xinc.431423.xyz:8283^
 ||xinc.431714.xyz:8283^
@@ -2046,6 +2048,7 @@
 ||xinj.046474.xyz:8283^
 ||xinj.046740.xyz:8283^
 ||xinj.047038.xyz:8283^
+||xinj.047065.xyz:8283^
 ||xinj.047279.xyz:8283^
 ||xinj.047286.xyz:8283^
 ||xinj.047366.xyz:8283^
