@@ -1702,6 +1702,7 @@
 ||ty.qvcjyk.com^
 ||u25khx.sylefq.cn^
 ||u2p938.hhdfboz.com^
+||u9eiw.com^
 ||u9hl4pz7u1su.xyz:8443^
 ||u9ox7bc8f4yf.xyz:8443^
 ||u9xi8.top^
@@ -2007,6 +2008,7 @@
 ||xinc.433523.xyz:8283^
 ||xinc.433544.xyz:8283^
 ||xinc.433738.xyz:8283^
+||xinc.434073.xyz:8283^
 ||xinc.434149.xyz:8283^
 ||xinc.434617.xyz:8283^
 ||xinc.434778.xyz:8283^
