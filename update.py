@@ -59,16 +59,27 @@ def getraw(url):
     #    print("end getraw",url)
     return html
 
+# def geturl(msg):
+#     msgs=msg.split(";")
+#     for line in msgs:
+#         if "0.html" in line :
+#             urls=line.split("'")
+#             for url in urls:
+#                if "http"  in url:
+#                     protocodl =re.findall(r'(?<=://)[^/]+', url)
+#                     for linez in protocodl: 
+#                       lines.add("||" +linez + "^")
+
 def geturl(msg):
-    msgs=msg.split(";")
-    for line in msgs:
-        if "0.html" in line :
-            urls=line.split("'")
-            for url in urls:
-               if "http"  in url:
-                    protocodl =re.findall(r'(?<=://)[^/]+', url)
-                    for linez in protocodl: 
-                      lines.add("||" +linez + "^")
+    """提取消息中的所有域名"""
+    # 使用更灵活的正则表达式提取 URL
+    urls = re.findall(r'https?://[a-zA-Z0-9._:-]+(?:/[^\s"\';]*)?', msg)
+    for url in urls:
+        # 提取域名（包括端口）
+        domain_match = re.search(r'(?<=://)([\w.-]+(?::\d+)?)', url)
+        if domain_match:
+            domain = domain_match.group(1)
+            lines.add("||" + domain + "^")
 
 with open("e.xml", 'w') as file:
     for item in fruit_list:
@@ -94,3 +105,4 @@ with open(file_path, 'w') as file:
 # https://mirror.ghproxy.com/https://raw.githubusercontent.com/diandzhang/ppqq/main/adguard_rules.txt
 # https://raw.githubusercontent.com/diandzhang/ppqq/main/adguard_rules.txt
 # https://cdn.jsdelivr.net/gh/diandzhang/ppqq@main/adguard_rules.txt
+
