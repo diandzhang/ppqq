@@ -2,6 +2,7 @@
 ||000595.lol^
 ||0008a.qneto.xyz:51600^
 ||0008b.qneto.xyz:51600^
+||0008c.qneto.xyz:51600^
 ||0008c.xkbwr.xyz:51600^
 ||0057605.xyz^
 ||011770.lol^
@@ -1723,6 +1724,7 @@
 ||un10022a.lqhli.xyz:8283^
 ||un10022b.lqhli.xyz:8283^
 ||un10022c.iskbp.xyz:8283^
+||un10022c.lqhli.xyz:8283^
 ||upbyunm.top^
 ||us4ddt.xjrisdh.cn^
 ||utjqbw.top^
