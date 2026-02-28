@@ -6,6 +6,7 @@
 ||0008bx.idvaa.xyz:51600^
 ||0008c.qneto.xyz:51600^
 ||0008c.xkbwr.xyz:51600^
+||0008cx.idvaa.xyz:51600^
 ||0057605.xyz^
 ||011770.lol^
 ||021955.vip^
@@ -1729,6 +1730,7 @@
 ||un10022c.lqhli.xyz:8283^
 ||un100s21a26.uwtwb.xyz:8283^
 ||un100s22b27.uwtwb.xyz:8283^
+||un100s23c28.uwtwb.xyz:8283^
 ||upbyunm.top^
 ||us4ddt.xjrisdh.cn^
 ||utjqbw.top^
