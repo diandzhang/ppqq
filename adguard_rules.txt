@@ -3,6 +3,7 @@
 ||0008a.qneto.xyz:51600^
 ||0008a301x.swvew.xyz:51600^
 ||0008a302x.ijvso.xyz:51600^
+||0008a303x.swvew.xyz:51600^
 ||0008am.gexer.xyz:51600^
 ||0008ax.idvaa.xyz:51600^
 ||0008b.qneto.xyz:51600^
@@ -1737,6 +1738,7 @@
 ||un100s22b27.uwtwb.xyz:8283^
 ||un100s22b302.gcnzu.xyz:8283^
 ||un100s23c28.uwtwb.xyz:8283^
+||un100s23c303.ghdab.xyz:8283^
 ||un100s24a29.aurtx.xyz:8283^
 ||un100s25b21.aurtx.xyz:8283^
 ||upbyunm.top^
