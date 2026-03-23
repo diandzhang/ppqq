@@ -30,6 +30,7 @@
 ||008008cha20a.vytfg.xyz:51600^
 ||008008cha21a.jiwpm.xyz:51600^
 ||008008cha22a.sbgin.xyz:51600^
+||008008cha23a.mgjbn.xyz:51600^
 ||011770.lol^
 ||021955.vip^
 ||02578866.xyz^
@@ -46,6 +47,7 @@
 ||100100untian20a.ydnbq.xyz:8283^
 ||100100untian21a.dqkau.xyz:8283^
 ||100100untian22a.soyzu.xyz:8283^
+||100100untian23a.ilkc.xyz:8283^
 ||101.132.61.123^
 ||101.132.81.231^
 ||101.132.83.74^
