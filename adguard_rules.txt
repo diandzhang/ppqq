@@ -34,6 +34,7 @@
 ||008008cha24a.mlcyx.xyz:51600^
 ||008008cha25a.qfkzc.xyz:51600^
 ||008008tia26a.mlcyx.xyz:51600^
+||008008tia27a.qfkzc.xyz:51600^
 ||011770.lol^
 ||021955.vip^
 ||02578866.xyz^
@@ -48,6 +49,7 @@
 ||0ohrsb.top^
 ||0q4aiy.crqkyk.cn^
 ||100100unti26a.dzmxy.xyz:8283^
+||100100unti27b.aubph.xyz:8283^
 ||100100untian20a.ydnbq.xyz:8283^
 ||100100untian21a.dqkau.xyz:8283^
 ||100100untian22a.soyzu.xyz:8283^
