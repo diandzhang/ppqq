@@ -37,6 +37,7 @@
 ||008008tia27a.qfkzc.xyz:51600^
 ||008008tia28a.zvmrs.xyz:51600^
 ||008008tia29a.jlfqx.xyz:51600^
+||008008tia30a.dzmxy.xyz:51600^
 ||011770.lol^
 ||021955.vip^
 ||02578866.xyz^
@@ -54,6 +55,7 @@
 ||100100unti27b.aubph.xyz:8283^
 ||100100unti28c.vytfg.xyz:8283^
 ||100100unti29d.jiwpm.xyz:8283^
+||100100unti30e.sbgin.xyz:8283^
 ||100100untian20a.ydnbq.xyz:8283^
 ||100100untian21a.dqkau.xyz:8283^
 ||100100untian22a.soyzu.xyz:8283^
@@ -1697,6 +1699,7 @@
 ||tk.amxhod.com^
 ||tk.sxwjxz.com^
 ||tp.gcdxehl.com^
+||trgsxi.433724.xyz:8283^
 ||tt55a.shangzhenshipin.com^
 ||tt55b.shangzhenshipin.com^
 ||ttos-10.aliyun.etv99ygv.com^
