@@ -40,6 +40,7 @@
 ||008008tia30a.dzmxy.xyz:51600^
 ||008008tia31a.aubph.xyz:51600^
 ||008t26401s.kbmij.xyz:51600^
+||008t26402s.qyfjn.xyz:51600^
 ||011770.lol^
 ||021955.vip^
 ||02578866.xyz^
@@ -54,6 +55,7 @@
 ||0ohrsb.top^
 ||0q4aiy.crqkyk.cn^
 ||100100unti26401a.dpqwk.xyz:8283^
+||100100unti26402a.okehm.xyz:8283^
 ||100100unti26a.dzmxy.xyz:8283^
 ||100100unti27b.aubph.xyz:8283^
 ||100100unti28c.vytfg.xyz:8283^
@@ -808,6 +810,7 @@
 ||hgvs11.trafficmanager.net:2345^
 ||hgvs13.trafficmanager.net:2345^
 ||hgvs20.trafficmanager.net:2345^
+||hiuywx.433241.xyz:8283^
 ||hiwhjzywem.com^
 ||hliu5f.pbiqjg.cn^
 ||hn.gzcczszy.com^
