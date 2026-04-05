@@ -43,6 +43,7 @@
 ||008t26402s.qyfjn.xyz:51600^
 ||008t26403s.mfrgf.xyz:51600^
 ||008t26404s.oqynm.xyz:51600^
+||008t26405s.obhis.xyz:51600^
 ||011770.lol^
 ||021955.vip^
 ||02578866.xyz^
@@ -60,6 +61,7 @@
 ||100100unti26402a.okehm.xyz:8283^
 ||100100unti26403a.jiegh.xyz:8283^
 ||100100unti26404a.evnjz.xyz:8283^
+||100100unti26405a.wdptj.xyz:8283^
 ||100100unti26a.dzmxy.xyz:8283^
 ||100100unti27b.aubph.xyz:8283^
 ||100100unti28c.vytfg.xyz:8283^
