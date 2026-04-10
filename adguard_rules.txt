@@ -41,6 +41,7 @@
 ||008008tia31a.aubph.xyz:51600^
 ||008t0408sa.bdasy.xyz:8283^
 ||008t0409sa.zdacn.xyz:8283^
+||008t0410sa.nmitq.xyz:8283^
 ||008t26401s.kbmij.xyz:51600^
 ||008t26402s.qyfjn.xyz:51600^
 ||008t26403s.mfrgf.xyz:51600^
@@ -82,6 +83,7 @@
 ||100100untian25a.vmpdv.xyz:8283^
 ||100ti0408e.xslsv.xyz:51600^
 ||100ti0409e.epzbj.xyz:51600^
+||100ti0410e.ksrlp.xyz:51600^
 ||101.132.61.123^
 ||101.132.81.231^
 ||101.132.83.74^
