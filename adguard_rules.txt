@@ -780,6 +780,7 @@
 ||fhrosl.451746.xyz:8283^
 ||fhrosl.453413.xyz:8283^
 ||fhrosl.455549.xyz:8283^
+||fhrosl.455706.xyz:8283^
 ||fhrosl.457929.xyz:8283^
 ||fjzj67.nmfpul.cn^
 ||fk1m25.wpgpjk.cn^
@@ -1450,6 +1451,7 @@
 ||ldy.znbqb.com^
 ||lh.ll-dr.com^
 ||ljjhtu55fggfuhgf.shangzhenshipin.com^
+||lo538o.202942.xyz:51500^
 ||lsftz3.mansyt.cn^
 ||lsjc.fhgz.xn--fiqs8s^
 ||lx2fr7.cbyquy.cn^
@@ -1605,6 +1607,7 @@
 ||ryankg.hzsianm.cn^
 ||s0lo.mgtv582.cc:2025^
 ||s59r9u.ibvrjbb.com^
+||sa12l3.856069.xyz:51500^
 ||sbuu6o.wuqoek.cn^
 ||sdftr.432668.xyz:8283^
 ||sdftr.433537.xyz:8283^
