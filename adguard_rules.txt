@@ -1750,6 +1750,7 @@
 ||tn0100pst4.qgsvp.xyz:51500^
 ||tn011057s.291476.xyz:51500^
 ||tn01mk6za.810969.xyz:51500^
+||tn080hkksj.bdasy.xyz:51600^
 ||tn080lk710q.opvgl.xyz:51600^
 ||tn080x4t0m.aoouh.xyz:51600^
 ||tp.gcdxehl.com^
