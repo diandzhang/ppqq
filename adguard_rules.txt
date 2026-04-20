@@ -1756,6 +1756,8 @@
 ||tn080hkksj.bdasy.xyz:51600^
 ||tn080lk710q.opvgl.xyz:51600^
 ||tn080x4t0m.aoouh.xyz:51600^
+||tn14201dz9t.zbaov.xyz:51500^
+||tn8420wiuf8.pbkno.xyz:51600^
 ||tp.gcdxehl.com^
 ||traxks.459380.xyz:8283^
 ||trgsxi.433724.xyz:8283^
