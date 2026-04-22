@@ -1760,7 +1760,9 @@
 ||tn14201dz9t.zbaov.xyz:51500^
 ||tn14203ybmm.mamac.xyz:51500^
 ||tn14207wv4q.wnkjy.xyz:51500^
+||tn1420pho1q.mybhk.xyz:51500^
 ||tn84203e3vl.khniw.xyz:51600^
+||tn8420au5r1.byeph.xyz:51600^
 ||tn8420vlg13.gprka.xyz:51600^
 ||tn8420wiuf8.pbkno.xyz:51600^
 ||tp.gcdxehl.com^
