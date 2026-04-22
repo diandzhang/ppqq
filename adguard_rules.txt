@@ -1759,7 +1759,9 @@
 ||tn080x4t0m.aoouh.xyz:51600^
 ||tn14201dz9t.zbaov.xyz:51500^
 ||tn14203ybmm.mamac.xyz:51500^
+||tn14207wv4q.wnkjy.xyz:51500^
 ||tn84203e3vl.khniw.xyz:51600^
+||tn8420vlg13.gprka.xyz:51600^
 ||tn8420wiuf8.pbkno.xyz:51600^
 ||tp.gcdxehl.com^
 ||traxks.453105.xyz:8283^
