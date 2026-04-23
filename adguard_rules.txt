@@ -1767,6 +1767,7 @@
 ||tn8420wiuf8.pbkno.xyz:51600^
 ||tp.gcdxehl.com^
 ||traxks.453105.xyz:8283^
+||traxks.455476.xyz:8283^
 ||traxks.459380.xyz:8283^
 ||trgsxi.433724.xyz:8283^
 ||tt55a.shangzhenshipin.com^
