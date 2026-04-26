@@ -110,6 +110,7 @@
 ||23.235.159.230^
 ||2306ca.296920.xyz:51500^
 ||239892.xyz^
+||23tqfg0e.902191.xyz:51500^
 ||24am69mx.com^
 ||25levq.jndfndm.cn^
 ||265426.lol^
@@ -1677,6 +1678,7 @@
 ||shuzikp.739447.xyz:8283^
 ||shuzikp.739822.xyz:8283^
 ||shuzikp.739926.xyz:8283^
+||smg423.524756.xyz:51600^
 ||sndm.krqdcj.com^
 ||srhrgw.spmdcpp.cn^
 ||svazk.032404.xyz:8283^
