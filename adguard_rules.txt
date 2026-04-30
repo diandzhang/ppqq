@@ -984,6 +984,7 @@
 ||jmqms.mqmsh.com^
 ||jmytr.krrmp.com^
 ||jndpu.ndpua.com^
+||jnfr.453655.xyz:8283^
 ||jnfy.svtwhk.com^
 ||jnhk6.epflsn.com^
 ||jning.ningxc.com^
