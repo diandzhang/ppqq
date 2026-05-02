@@ -988,6 +988,7 @@
 ||jndpu.ndpua.com^
 ||jnfr.453655.xyz:8283^
 ||jnfr.454097.xyz:8283^
+||jnfr.459104.xyz:8283^
 ||jnfy.svtwhk.com^
 ||jnhk6.epflsn.com^
 ||jning.ningxc.com^
