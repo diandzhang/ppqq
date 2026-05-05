@@ -850,6 +850,7 @@
 ||hgvs11.trafficmanager.net:2345^
 ||hgvs13.trafficmanager.net:2345^
 ||hgvs20.trafficmanager.net:2345^
+||hi53ph.8j9tn0.cc:51600^
 ||hiuywx.433241.xyz:8283^
 ||hiuywx.435758.xyz:8283^
 ||hiwhjzywem.com^
@@ -1231,6 +1232,7 @@
 ||jt84p5.jmskmnj.com^
 ||jtdg.gettcpz.com^
 ||ju-x.453529.xyz:8283^
+||ju-x.454991.xyz:8283^
 ||ju-x.457746.xyz:8283^
 ||juicpw.cprmzsxn.cn^
 ||juuoe.lrmzx.com^
@@ -1478,6 +1480,7 @@
 ||lo538o.202942.xyz:51500^
 ||lsftz3.mansyt.cn^
 ||lsjc.fhgz.xn--fiqs8s^
+||lw44vx.6q90jr.me:51500^
 ||lx2fr7.cbyquy.cn^
 ||lyatx3.fydkwts.cn^
 ||m1rg6x.mlngqh.cn^
