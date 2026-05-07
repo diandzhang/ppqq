@@ -59,6 +59,7 @@
 ||08ax793ene.ollsk.xyz:51600^
 ||08vgpcfbys.iqfmc.xyz:51600^
 ||0g3il.cc^
+||0gdjxm.36x6s2.cc:51500^
 ||0jrr61.dguudw.cn^
 ||0kbhdk.oirshy.cn^
 ||0lrjku.okeffb.cn^
@@ -310,6 +311,7 @@
 ||bicycle.737745.xyz:8283^
 ||bicycle.739283.xyz:8283^
 ||bicycle.739450.xyz:8283^
+||bj4xyg.387bdt.cc:51600^
 ||bjro87.tkcwjny.cn^
 ||bkoil9.pvlkkz.cn^
 ||bncp0w.agyvlh.cn^
