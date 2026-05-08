@@ -400,6 +400,7 @@
 ||csa4sb3.4ydoglu.vip:51500^
 ||d1a79dmpkxhpp3.cloudfront.net^
 ||d2ch4u.vbuqzh.cn^
+||d2v65z.7lftnw.me:51500^
 ||d4bibo.xffdl.cn^
 ||d64vez.ycnrhrfc.cn^
 ||d6zxhu.lqyksu.cn^
@@ -797,6 +798,7 @@
 ||fk1m25.wpgpjk.cn^
 ||fk91ex.ssgzner.com^
 ||fp9c58.cc^
+||fpsf.459736.xyz:8283^
 ||fsldl1r9.vip^
 ||ft28j.co^
 ||fu.rgohjxs.com^
@@ -1484,6 +1486,7 @@
 ||lo538o.202942.xyz:51500^
 ||lsftz3.mansyt.cn^
 ||lsjc.fhgz.xn--fiqs8s^
+||lsyfaf.9u23g4.me:51600^
 ||lw44vx.6q90jr.me:51500^
 ||lx2fr7.cbyquy.cn^
 ||lyatx3.fydkwts.cn^
