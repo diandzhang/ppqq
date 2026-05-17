@@ -1246,6 +1246,7 @@
 ||js2y2s.wgizhl.cn^
 ||jsgf.rlrexm.com^
 ||jshgd.454701.xyz:8283^
+||jshgd.458463.xyz:8283^
 ||jsnem.mnubrn.com^
 ||jsng9.kwhqaz.com^
 ||jss.19c881prqr.com^
@@ -1550,6 +1551,7 @@
 ||n7n2rg.iybnsur.com^
 ||n8wopn.rxmpyhr.cn^
 ||n91o7s.xzpwpd.cn^
+||nd8sps.kybjb2.xyz:51500^
 ||nfdoc9.jubpnp.cn^
 ||nhy.vrezhou.com^
 ||nn.aqfnw.com^
@@ -1614,6 +1616,7 @@
 ||q4ibjs.bytabiw.cn^
 ||q4q5u.cc^
 ||q567ft.wajebw.cn^
+||q5hcgg.ugfzio.xyz:51600^
 ||q5x8sn.eretxyk.cn^
 ||qbkek8.lqwzoc.cn^
 ||qbo8hk.udlppi.cn^
