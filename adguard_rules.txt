@@ -1246,6 +1246,7 @@
 ||js2y2s.wgizhl.cn^
 ||jsgf.rlrexm.com^
 ||jshgd.454701.xyz:8283^
+||jshgd.455884.xyz:8283^
 ||jshgd.458463.xyz:8283^
 ||jsnem.mnubrn.com^
 ||jsng9.kwhqaz.com^
@@ -1784,6 +1785,7 @@
 ||svckl.049641.xyz:8283^
 ||svckl.650366.xyz:8283^
 ||svckl.945491.xyz:8283^
+||sy6xg2.8xomd.me:51600^
 ||t4xmuf.343731.xyz:51500^
 ||t9peaz.fsrbzaai.cn^
 ||tal6k.a91dyze.me:51600^
@@ -2025,6 +2027,7 @@
 ||vgopdz.tksxsq.cn^
 ||vhgjkguyf8958ddf.fanyou.vip^
 ||vlb1uhs8.com^
+||vmg7i5.vue7i.me:51500^
 ||vmvkc.wkthcsb.me:51500^
 ||vneinsd.540441.xyz:8283^
 ||vneinsd.540546.xyz:8283^
