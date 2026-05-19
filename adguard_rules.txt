@@ -835,6 +835,7 @@
 ||gj5854fvh846.jinliantongxin.com^
 ||gk.fggejb.com^
 ||glcjt7.mzixvo.cn^
+||glzkcv.kzwhv.xyz:51600^
 ||gmykut.jbfnwq.cn^
 ||gnyvz.041061.xyz:8283^
 ||gnyvz.041153.xyz:8283^
@@ -1684,6 +1685,7 @@
 ||shanghai.alb.aliyun.com.vghuhimcom.net^
 ||shanghai.alb.aliyun.com.vjghhgk859g.com^
 ||shanghai.alb.aliyun.com.zcsfbmcom.com^
+||shdn.459343.xyz:8283^
 ||shuzikp.730021.xyz:8283^
 ||shuzikp.730353.xyz:8283^
 ||shuzikp.730497.xyz:8283^
@@ -2024,6 +2026,7 @@
 ||vedle.739097.xyz:8283^
 ||vedle.739167.xyz:8283^
 ||vedle.739704.xyz:8283^
+||vg8lzp.x5h1i.me:51500^
 ||vgopdz.tksxsq.cn^
 ||vhgjkguyf8958ddf.fanyou.vip^
 ||vlb1uhs8.com^
