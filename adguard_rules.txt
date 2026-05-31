@@ -872,6 +872,7 @@
 ||hdg26.live:8888^
 ||hdzi5u.akhbqk.cn^
 ||hebv11.trafficmanager.net:7799^
+||hfuij.437346.xyz:8283^
 ||hfuij.451216.xyz:8283^
 ||hfuij.455960.xyz:8283^
 ||hguwfjr.cc^
