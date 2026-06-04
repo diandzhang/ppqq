@@ -1938,6 +1938,7 @@
 ||turtle67.trafficmanager.net:10010^
 ||tvhj.431390.xyz:8283^
 ||tvhj.434397.xyz:8283^
+||tvhj.732096.xyz:8283^
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
