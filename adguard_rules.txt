@@ -894,6 +894,7 @@
 ||hiuywx.433241.xyz:8283^
 ||hiuywx.435758.xyz:8283^
 ||hiwhjzywem.com^
+||hjtu.432868.xyz:8283^
 ||hliu5f.pbiqjg.cn^
 ||hn.gzcczszy.com^
 ||hnizuk.njkhsw.cn^
@@ -2238,6 +2239,7 @@
 ||xa1jgfbdlwf2ncxq.739375.xyz:8283^
 ||xahmk9.fd5lbh.top:51600^
 ||xanut9.tq26ljs.vip:51600^
+||xb3q0bbu.rzrw3g.top:51500^
 ||xbxzimub.vip^
 ||xe7q72.jlzhxq.cn^
 ||xgqze7.cc^
