@@ -178,6 +178,7 @@
 ||5792873.xyz^
 ||5dteyl.mrzmnkw.cn^
 ||5j29cp.vnauoh.cn^
+||5muvn74d.bwri8u.cc:51500^
 ||5txu7d.rncncf.cn^
 ||62kdyvk8.com^
 ||64ejhy.agfllu.cn^
@@ -1610,6 +1611,7 @@
 ||o51ds0.qsufbt.cn^
 ||o56uow.9l8tyv.top:51500^
 ||o7fioz.phceelf.com^
+||o9uhrv68.6h5tt6.me:51600^
 ||ocfh.baopack.com^
 ||odnpio.com^
 ||oenqfa.pnhjkte.cn^
@@ -1936,9 +1938,11 @@
 ||tuantuankp.949240.xyz:8283^
 ||tuantuankp.949857.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
+||tvhj.430489.xyz:8283^
 ||tvhj.431390.xyz:8283^
 ||tvhj.434397.xyz:8283^
 ||tvhj.732096.xyz:8283^
+||tvhj.734262.xyz:8283^
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
 ||ty.qvcjyk.com^
