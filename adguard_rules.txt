@@ -895,6 +895,7 @@
 ||hiuywx.435758.xyz:8283^
 ||hiwhjzywem.com^
 ||hjtu.432868.xyz:8283^
+||hjtu.732264.xyz:8283^
 ||hliu5f.pbiqjg.cn^
 ||hn.gzcczszy.com^
 ||hnizuk.njkhsw.cn^
@@ -2471,6 +2472,7 @@
 ||z807e6.ynpvvm.cn^
 ||za10db.cjzhpad.cn^
 ||zc8lus.cc^
+||zh0xbl0c.4t5fc8.top:51600^
 ||zjd29q.tfcald.cn^
 ||zkv8y4.zw5zoru.vip:51500^
 ||zntppo.rxmrns.cn^
