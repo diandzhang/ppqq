@@ -898,9 +898,11 @@
 ||hiuywx.435758.xyz:8283^
 ||hiwhjzywem.com^
 ||hjtu.432868.xyz:8283^
+||hjtu.437168.xyz:8283^
 ||hjtu.437754.xyz:8283^
 ||hjtu.732264.xyz:8283^
 ||hjtu.732382.xyz:8283^
+||hjtu.734957.xyz:8283^
 ||hliu5f.pbiqjg.cn^
 ||hn.gzcczszy.com^
 ||hnizuk.njkhsw.cn^
