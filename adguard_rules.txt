@@ -1714,6 +1714,7 @@
 ||rtdh1d.wpxsb.cn^
 ||rthj.3xmjg.com^
 ||rtuon.736742.xyz:8283^
+||rtuon.737648.xyz:8283^
 ||rtuon.739255.xyz:8283^
 ||rwfgpc.cc^
 ||rwxahc.domain10061.vip:57009^
@@ -1865,6 +1866,7 @@
 ||thgj.432451.xyz:8283^
 ||thgj.436038.xyz:8283^
 ||thgj.438103.xyz:8283^
+||thgj.438431.xyz:8283^
 ||thgj.736461.xyz:8283^
 ||thj.yduoy.com^
 ||tie5v1.top^
