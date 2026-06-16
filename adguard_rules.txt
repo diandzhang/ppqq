@@ -300,6 +300,7 @@
 ||arc62j.cc^
 ||asdf-74.jvn0z.com^
 ||asdon.433092.xyz:8283^
+||asdon.437445.xyz:8283^
 ||asdwqeqe.950260.com^
 ||autobike.542632.xyz:8283^
 ||autobike.545145.xyz:8283^
@@ -1686,6 +1687,7 @@
 ||qpok7rx.8184ubd.vip:51500^
 ||qq.jhvbj.com^
 ||qrxb85.top^
+||qsff.735009.xyz:8283^
 ||qsff.735500.xyz:8283^
 ||qshjon.451606.xyz:8283^
 ||qshjon.455298.xyz:8283^
