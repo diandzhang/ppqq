@@ -300,6 +300,7 @@
 ||ar3hql.cc^
 ||arc62j.cc^
 ||asdf-74.jvn0z.com^
+||asdon.430770.xyz:8283^
 ||asdon.433092.xyz:8283^
 ||asdon.435532.xyz:8283^
 ||asdon.437445.xyz:8283^
