@@ -834,6 +834,7 @@
 ||fhrosl.455549.xyz:8283^
 ||fhrosl.455706.xyz:8283^
 ||fhrosl.457929.xyz:8283^
+||fjsi.733401.xyz:8283^
 ||fjzj67.nmfpul.cn^
 ||fk1m25.wpgpjk.cn^
 ||fk91ex.ssgzner.com^
@@ -1693,6 +1694,7 @@
 ||qpok7rx.8184ubd.vip:51500^
 ||qq.jhvbj.com^
 ||qrxb85.top^
+||qsff.430213.xyz:8283^
 ||qsff.432356.xyz:8283^
 ||qsff.732294.xyz:8283^
 ||qsff.735009.xyz:8283^
