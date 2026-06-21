@@ -421,6 +421,7 @@
 ||c6pyr3.wdskzxi.cn^
 ||c9jn5w.izqqwj.cn^
 ||cfg10u.qaywik.cn^
+||cgrohr.ceytzasihh33.cc:51500^
 ||chat-img.oss-cn-quanzhou2.huweicloud.cn^
 ||ck3ic96.v2d70p4.cc:51500^
 ||clv1ol.top^
@@ -1651,6 +1652,7 @@
 ||olu7lw.bcsfabx.cn^
 ||onmj9u.twngqh.cn^
 ||opt723z.749263.xyz:51600^
+||oque8q.s3stwfsqlpy8.co:51500^
 ||oss1.trafficmanager.net^
 ||oss2.trafficmanager.net^
 ||oss5.trafficmanager.net^
