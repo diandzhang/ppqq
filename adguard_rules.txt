@@ -837,6 +837,7 @@
 ||fhrosl.455706.xyz:8283^
 ||fhrosl.457929.xyz:8283^
 ||fjsi.437916.xyz:8283^
+||fjsi.438936.xyz:8283^
 ||fjsi.730998.xyz:8283^
 ||fjsi.733401.xyz:8283^
 ||fjzj67.nmfpul.cn^
@@ -1813,6 +1814,7 @@
 ||shuzikp.739822.xyz:8283^
 ||shuzikp.739926.xyz:8283^
 ||sihn.732679.xyz:8283^
+||sihn.738734.xyz:8283^
 ||sknh6b.n1or0.cc:51600^
 ||slmlkzh.lefyw.me:51500^
 ||smg423.524756.xyz:51600^
