@@ -837,6 +837,7 @@
 ||fhrosl.455549.xyz:8283^
 ||fhrosl.455706.xyz:8283^
 ||fhrosl.457929.xyz:8283^
+||fjsi.432924.xyz:8283^
 ||fjsi.437916.xyz:8283^
 ||fjsi.438936.xyz:8283^
 ||fjsi.730998.xyz:8283^
@@ -1316,6 +1317,7 @@
 ||ju-x.454991.xyz:8283^
 ||ju-x.457746.xyz:8283^
 ||juicpw.cprmzsxn.cn^
+||jukl.734153.xyz:8283^
 ||juuoe.lrmzx.com^
 ||jvf49xja.com^
 ||jvvgd.tjfhjg.com^
