@@ -2254,6 +2254,7 @@
 ||www.434810.xyz^
 ||www.435172.xyz^
 ||www.436627.xyz^
+||www.437024.xyz^
 ||www.438739.xyz^
 ||www.439084.xyz^
 ||www.439375.xyz^
@@ -2265,6 +2266,7 @@
 ||www.733716.xyz^
 ||www.735212.xyz^
 ||www.735505.xyz^
+||www.736705.xyz^
 ||www.737037.xyz^
 ||www.739448.xyz^
 ||www.bdxc1.xyz^
