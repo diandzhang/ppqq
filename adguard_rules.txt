@@ -2093,6 +2093,7 @@
 ||ujhkbv.455266.xyz:8283^
 ||ujhkbv.457308.xyz:8283^
 ||ujhkbv.458104.xyz:8283^
+||um3e9nu.qqsgd4v.top:51500^
 ||umijo.yobetrs.me:51500^
 ||un10022a.lqhli.xyz:8283^
 ||un10022b.lqhli.xyz:8283^
@@ -2130,6 +2131,7 @@
 ||v0ov5y.zptwjyfa.cn^
 ||v2tv74.buaalc.cn^
 ||v4ej07.cc^
+||v5psbc8.2z0zmgw.co:51500^
 ||v84p62.cc^
 ||v8m92q.433983.cc:51500^
 ||vb4dw7.bxrhzmd.cn^
