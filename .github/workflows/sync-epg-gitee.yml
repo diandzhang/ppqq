@@ -1,0 +1,126 @@
+name: sync EPG.xml to Gitee
+
+# 全部配置放在 Settings → Secrets and variables → Actions，仓库里不写任何地址
+#   Secrets   : GITEE_TOKEN
+#   Variables : EPG_URL / GITEE_USER / GITEE_REPO / GITEE_BRANCH / GITEE_FILE / GITEE_MODE
+
+on:
+  schedule:
+    - cron: '23 19,1,7,13 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    env:
+      EPG_URL:       ${{ vars.EPG_URL }}
+      GITEE_USER:    ${{ vars.GITEE_USER }}
+      GITEE_REPO:    ${{ vars.GITEE_REPO }}
+      TARGET_BRANCH: ${{ vars.GITEE_BRANCH }}
+      TARGET_FILE:   ${{ vars.GITEE_FILE }}
+      MODE:          ${{ vars.GITEE_MODE }}
+      GITEE_TOKEN:   ${{ secrets.GITEE_TOKEN }}
+
+    steps:
+      - name: 检查配置
+        run: |
+          set -euo pipefail
+          missing=""
+          [ -n "${EPG_URL:-}" ]       || missing="$missing EPG_URL"
+          [ -n "${GITEE_USER:-}" ]    || missing="$missing GITEE_USER"
+          [ -n "${GITEE_REPO:-}" ]    || missing="$missing GITEE_REPO"
+          [ -n "${TARGET_BRANCH:-}" ] || missing="$missing GITEE_BRANCH"
+          [ -n "${TARGET_FILE:-}" ]   || missing="$missing GITEE_FILE"
+          [ -n "${MODE:-}" ]          || missing="$missing GITEE_MODE"
+          [ -n "${GITEE_TOKEN:-}" ]   || missing="$missing GITEE_TOKEN(Secrets 页)"
+          if [ -n "$missing" ]; then
+            echo "::error::缺少配置：$missing"
+            exit 1
+          fi
+          echo "配置检查通过"
+
+      - name: 下载 EPG.xml
+        run: |
+          set -euo pipefail
+          curl -fsSL --retry 3 --retry-delay 5 --retry-all-errors --max-time 300 \
+               -A "Mozilla/5.0" -o EPG.xml "$EPG_URL"
+
+          size=$(stat -c%s EPG.xml)
+          echo "下载完成：$(numfmt --to=iec "$size")"
+          if [ "$size" -lt 10240 ]; then
+            echo "::error::只有 ${size} 字节，疑似拿到了错误页"
+            exit 1
+          fi
+          if [ "$(head -c 5 EPG.xml)" != "<?xml" ]; then
+            echo "::error::文件头不是 <?xml"
+            exit 1
+          fi
+
+      - name: 检查是否有更新
+        id: check
+        run: |
+          set -euo pipefail
+          new=$(sha256sum EPG.xml | awk '{print $1}')
+          old="none"
+          url="https://$GITEE_USER:$GITEE_TOKEN@gitee.com/$GITEE_USER/$GITEE_REPO.git"
+
+          rm -rf _upstream
+          if git clone -q --depth 1 --branch "$TARGET_BRANCH" "$url" _upstream 2>/dev/null; then
+            [ -f "_upstream/$TARGET_FILE" ] && old=$(sha256sum "_upstream/$TARGET_FILE" | awk '{print $1}')
+          fi
+
+          if [ "$new" = "$old" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "内容无变化，跳过推送"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "内容有更新"
+          fi
+          echo "size=$(stat -c%s EPG.xml)" >> "$GITHUB_OUTPUT"
+
+      - name: 推送到 Gitee
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global http.postBuffer 524288000
+          git config --global init.defaultBranch main
+
+          url="https://$GITEE_USER:$GITEE_TOKEN@gitee.com/$GITEE_USER/$GITEE_REPO.git"
+
+          if [ "$MODE" = "single" ]; then
+            rm -rf _push && mkdir _push && cd _push
+            git init -q -b "$TARGET_BRANCH"
+            git remote add origin "$url"
+            mv ../EPG.xml "$TARGET_FILE"
+            git add -A
+            git commit -q -m "update EPG.xml $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push -q --force origin "$TARGET_BRANCH"
+            echo "已推送（单 commit）"
+          else
+            git clone -q "$url" _hist
+            cd _hist
+            git checkout -q "$TARGET_BRANCH" 2>/dev/null || git checkout -q -b "$TARGET_BRANCH"
+            mkdir -p "$(dirname "$TARGET_FILE")"
+            mv ../EPG.xml "$TARGET_FILE"
+            git add -A
+            git commit -q -m "update EPG.xml $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push -q origin "$TARGET_BRANCH"
+            echo "已推送（追加 commit）"
+          fi
+
+      - name: 输出结果
+        if: always()
+        run: |
+          changed="${{ steps.check.outputs.changed }}"
+          {
+            echo "### EPG.xml 同步结果"
+            echo ""
+            echo "| 项 | 值 |"
+            echo "|---|---|"
+            echo "| 文件大小 | $(numfmt --to=iec ${{ steps.check.outputs.size || 0 }}) |"
+            echo "| 是否有变化 | $changed |"
+            echo "| 模式 | $MODE |"
+          } >> "$GITHUB_STEP_SUMMARY"

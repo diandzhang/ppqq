@@ -1,4 +1,6 @@
 hello world!
 
+![schedule trigger](https://github.com/diandzhang/ppqq/actions/workflows/update.yml/badge.svg)
 
-[![schedule trigger](https://github.com/diandzhang/ppqq/actions/workflows/update.yml/badge.svg)](https://github.com/diandzhang/ppqq/actions/workflows/update.yml)
+![sync EPG.xml to Gitee](https://github.com/diandzhang/ppqq/actions/workflows/sync-epg-gitee.yml/badge.svg)
+
