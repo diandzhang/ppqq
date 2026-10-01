@@ -2129,6 +2129,7 @@
 ||tn8420vlg13.gprka.xyz:51600^
 ||tn8420wiuf8.pbkno.xyz:51600^
 ||tp.gcdxehl.com^
+||tpbaiyy.h2m8w5p4.me:8283^
 ||traxks.453105.xyz:8283^
 ||traxks.455476.xyz:8283^
 ||traxks.459380.xyz:8283^
@@ -2856,6 +2857,7 @@
 ||znmmuxv.92463802.top:51500^
 ||zntppo.rxmrns.cn^
 ||zpxciqs.m5e851g.me:51600^
+||zq2nzg0.z99812ab.vip:8283^
 ||zrtm7b7e.chunrouou.top:8283^
 ||zshf.453862.xyz:8283^
 ||zspcyb.khacrkt.cn^
