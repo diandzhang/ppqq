@@ -1793,6 +1793,7 @@
 ||nd8sps.kybjb2.xyz:51500^
 ||nfdoc9.jubpnp.cn^
 ||ngvmg.072568.lifestyle:8283^
+||ngvmg.074020.lifestyle:8283^
 ||ngvmg.075214.lifestyle:8283^
 ||nhy.vrezhou.com^
 ||nmd8q8g0.w0098xzk.xyz:8283^
