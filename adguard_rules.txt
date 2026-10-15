@@ -513,6 +513,7 @@
 ||d2v65z.7lftnw.me:51500^
 ||d3fkpjwv.q9w4zt1b.xyz:8283^
 ||d4bibo.xffdl.cn^
+||d53e5qpj.j3z51rx.cc:8283^
 ||d64vez.ycnrhrfc.cn^
 ||d6zxhu.lqyksu.cn^
 ||dd.a0ua.com^
@@ -2243,6 +2244,7 @@
 ||tuantuankp.949240.xyz:8283^
 ||tuantuankp.949857.xyz:8283^
 ||turtle67.trafficmanager.net:10010^
+||tvhb4f7y.k59p2mx.cc:8283^
 ||tvhj.430489.xyz:8283^
 ||tvhj.431390.xyz:8283^
 ||tvhj.434397.xyz:8283^
