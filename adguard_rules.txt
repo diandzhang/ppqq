@@ -1020,6 +1020,7 @@
 ||hdzi5u.akhbqk.cn^
 ||hebv11.trafficmanager.net:7799^
 ||hf79eox.hepps.cc:8283^
+||hfhdfs.073396.lifestyle:8283^
 ||hfuij.433395.xyz:8283^
 ||hfuij.435799.xyz:8283^
 ||hfuij.437346.xyz:8283^
