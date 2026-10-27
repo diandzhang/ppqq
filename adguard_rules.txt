@@ -2201,6 +2201,7 @@
 ||traxks.453105.xyz:8283^
 ||traxks.455476.xyz:8283^
 ||traxks.459380.xyz:8283^
+||trg.trg6eg.com:52000^
 ||trgsxi.433724.xyz:8283^
 ||ts905sd.kokokh.cn^
 ||tt55a.shangzhenshipin.com^
