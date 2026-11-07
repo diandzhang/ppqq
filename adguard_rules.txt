@@ -883,6 +883,7 @@
 ||dzgx.072476.lifestyle:8283^
 ||dzgx.079254.lifestyle:8283^
 ||dzvasz.076032.lifestyle:8283^
+||e082fze.6789bcde.com:8283^
 ||e0mk53.hasitzrt.cn^
 ||e1ud7e.cc^
 ||e1zgfse.rcl9k1d.co:51500^
@@ -1126,6 +1127,7 @@
 ||j1369fn.v432901p.com:8283^
 ||j3kjd.yhgfrt.com^
 ||j3yx.hdtob.com^
+||j4kxsxb.u765890z.com:8283^
 ||j53gk.pgmaf.com^
 ||j6hmn.vmjzlu.com^
 ||j6rfk.luoia.com^
