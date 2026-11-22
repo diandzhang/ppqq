@@ -205,6 +205,7 @@
 ||4pbyu0.vnfexf.cn^
 ||4q6xnt.hinzemw.cn^
 ||4uelsl5.bld3918.top:51500^
+||4z1qxww.bt5x89lq.vip:8891^
 ||5123hh.xyz^
 ||5123uu.xyz^
 ||51fuli-7776152c9480ad4a.elb.ap-east-1.amazonaws.com^
@@ -2327,6 +2328,7 @@
 ||tvhj.734262.xyz:8283^
 ||tvqbjf.nsdrzh.cn^
 ||tvsss.trafficmanager.net:10010^
+||twcb6xe.z3q98v1m.vip:8891^
 ||ty.qvcjyk.com^
 ||tz.air72.top^
 ||u121eec7wr.k839p612.top:8891^
